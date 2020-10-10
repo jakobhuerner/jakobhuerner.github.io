@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Decay and something new
-categories: [1,two]
+categories: [General]
 excerpt: Something new is on the horizon
 ---
 
