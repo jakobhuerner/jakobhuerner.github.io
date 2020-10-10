@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Decay and something new
+title:  Decay and Renewal
 categories: [General]
 excerpt: Something new is on the horizon
 ---
