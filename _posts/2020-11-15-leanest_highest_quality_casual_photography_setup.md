@@ -11,7 +11,7 @@ After I have spent a lot of time on photography and cameras in the past, I almos
 
 Now some new technological developments - mainly camera hardware and editing software solutions - converged to a really promising package that convinced me to step into a dedicated camera setup again.
 
-##The Requirements
+### The Requirements
 
 My requirements were that this package had to be portable, deliver really high quality photos (otherwise there is no point choosing a camera over a smartphone) and it should be „lean“ in the sense that the whole workflow is as simple and frictionless as possible. I did not look for the cheapest option, but one that really delivers on my requirements.
 
