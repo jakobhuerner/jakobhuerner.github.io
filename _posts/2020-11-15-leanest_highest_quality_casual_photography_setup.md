@@ -25,4 +25,4 @@ In the coming weeks I will describe in a bit more detail why I have chosen this 
 
 For the time being, let's start with some pictures from the setup above. Click to access the full-sized JPEGs (exported from Lightroom).
 
-![something_new](../images/something_new.jpg)(../images/something_new.jpg)
+[![something_new](../images/something_new.jpg)](../images/something_new.jpg)
