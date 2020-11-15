@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Decay and Renewal
-categories: [General]
+categories: [General] [Photography]
 excerpt: Something new is on the horizon
 ---
 
