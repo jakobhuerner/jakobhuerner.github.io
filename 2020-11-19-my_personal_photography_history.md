@@ -2,7 +2,7 @@
 layout: post
 title:  My personal photography history
 categories: [Photography]
-excerpt: A look back at almost 20 years of digtial photography, photo equipment and photo sharing
+excerpt: A look back at almost 20 years of digital photography, photo equipment and photo sharing
 ---
 
 My personal history of digital photography and photo sharing started almost 20 years ago (even suprises me when thinking about it). I started photography with mainly technology interest in the beginning, and this is up to this day a diriving factor for me. I like tech and nice equipment, the with the "artistic" side of photography developed over time. So my look back in this post also focuses the equipment side in the beginning.
@@ -35,29 +35,56 @@ Quite quickly it became clear that the key ingredient for a good photography set
 
 ### 2005
 
-Forums
+Many surely remember: In the 2000s internet forums were a big thing. They were something like early social media before this term was coined and became a mass phenomenon. I spent a lot of time sharing photos and discussing photography topics in photography forums, which felt like cosy photography clubs where all participants got to know each other quite well over time. They were not limited to online, I for example organised local physical meetups too. It was a great time, that slowly came to end when other social media services entered the stage.
 
 ### 2006
 
-Sharing photos became more and more important to me. It helped me in my photography journey also by getting feedback from different people both online and offline. To acocunt for that, I needed to upgrade my photography blog technically and chose to switched to Wordpress. The Wordpress project was 3 years old back then and not as ubiquitous as today. 
+Sharing photos in several online channels became more and more important to me. It helped me in my photography journey by getting feedback from different people both online and offline. To acocunt for that, I needed to upgrade my photography blog technically and chose to switched to Wordpress. The Wordpress project was 3 years old back then and not as ubiquitous as today. 
 
 Photography equipment-wise my setup grew to a fine assortment of quite cool equipment that kept quite stable for several years to come. Canon EOS EOS 30D, Canon EF 4/17-40mm L, Canon EF 4/70-200mm L IS, Canon EF 1.4/50mm, Sigma 2.8/90mm Makro and the EOS 300D as backup (I haven't sold it by today due to nostalgic feeling ...)
 
 ### 2008 
 
-Flickr https://www.flickr.com/photos/jakobhuerner/albums/72157639081126315 
+In 2008 hosting and managing all my pictures on my Wordpress page got more and more difficult and also expensive due to webserver costs, that's why I decided to go for a Flickr to host my pictures (and also archive in addition to local storage). Over the years my Flickr stream filled with thousands of pictures, and several of them also generated some reach on the platform. If you are interested, [in this "Most Popular" album](https://www.flickr.com/photos/jakobhuerner/albums/72157639081126315) your can see some of my most viewed and liked pictures on Flickr.
 
 ### 2010
 
-Canon EOS 550D and
-
-Canon PowerShot S95
+In 2010 I chose to update my meanwhile dated cameras with an entry-level Canon EOS 550D which was fine for my type of photography. As for everyday photography I wanted to have something high-quality and ultraportable, I chose to get a compact camera Canon PowerShot S95 as well. It featured an really good lens and sensor, as well as RAW cababilities that allowed for some very good pictures. 
 
 
 ### 2011
 
-New aera . https://www.flickr.com/photos/jakobhuerner/5767724316/in/photostream/lightbox/
+Having said that, around the same time a new era in photography arose - the era of smartphone photography. While early smartphones had decent cameras to snap quick shots, they improved so rapidly over the years that the difference between phones and camera shrank with every new model.
+
+![Graz - Motorola Milestone](../images/20201119/motorola_milestone.jpg)
+
+Actually at some point, the surplus quality of my S95 over the iPhone less and less justified taking two devices with me at all times. In the end, my camera equipment stayed home more and more.
 
 ### 2013
 
-Casual style -- sold all DSLR equipment (except the 300D) and chose to go for a really compact, APS-C sensor Sony NEX-3N with a small but nice 16-50mm lens.
+By 2013 I really adopted a very casual style of photography. I sold all DSLR equipment (except the 300D) and the S95 and chose to go mainly for iPhone photography and for a really compact, APS-C sensor camera Sony NEX-3N with a small but decent 16-50mm lens.
+
+
+During this time I taught myself focusing more on composing the picture, finding the right angle, the right timing and ... ultimately the right light. In the end I personally enjoyed taking photos with my phone as much as I enjoyed taking photos with my cameras.
+
+I think it was a "healthy" development in my photography journey - maybe also just a sign of growing up and becoming more patient. ;-)
+
+### 2016
+
+In the coming years photography was basically split in two categories: everyday photos (with the iPhone), and photos of travels and trips (with the Sony NEX-3N). In the end I would guess that I took 95% of all photos with my phone, the rest with the NEX-3N.
+It was in the end the mentioned trade-off of portability vs. additional quality as well as the trade-off between maximum quality in RAW-postprocessing vs. convenienve of shooting JPEG on the phone, that lead to leaving the camera at home most of the time.
+
+![Travel photography - La Reunion - Sony NEX-3N](../images/20201119/la_reunion.jpg)
+
+### 2018
+
+At this time convenience won over photographic ambition. I shared photos predominantely with family and friend via messaging services, and with a wider, partly photography interested audience over Twitter. 
+
+So I chose to discontinue my website and also my Flickr stream. It still feels right, and allowed me to open my mind to new aspects of life - especially time for my family. 
+
+<blockquote class="twitter-tweet"><p lang="de" dir="ltr">Das Leben ist Veränderung, manchmal schließt man Kapitel. So mache ich es nun mit <a href="https://twitter.com/hashtag/Flickr?src=hash&amp;ref_src=twsrc%5Etfw">#Flickr</a>. Es war eine gute Zeit. <a href="https://t.co/9y4eDd661k">https://t.co/9y4eDd661k</a> <a href="https://t.co/fUKKkfDUqf">pic.twitter.com/fUKKkfDUqf</a></p>&mdash; Jakob (@jakobh) <a href="https://twitter.com/jakobh/status/1074286126230323200?ref_src=twsrc%5Etfw">December 16, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+### 2020
+
+Step 
+
