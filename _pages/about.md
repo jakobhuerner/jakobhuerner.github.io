@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Personal blog by [jakobh](https://www.twitter.com/jakobh).
+Personal & photography blog of [jakobh](https://www.twitter.com/jakobh).

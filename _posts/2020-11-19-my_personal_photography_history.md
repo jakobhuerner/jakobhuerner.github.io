@@ -5,22 +5,22 @@ categories: [Photography]
 excerpt: A look back at almost 20 years of digital photography, photo equipment and photo sharing
 ---
 
-My personal history of digital photography and photo sharing started almost 20 years ago (even suprises me when thinking about it). I started photography with mainly technology interest in the beginning, and this is up to this day a diriving factor for me. I like tech and nice equipment, the with the "artistic" side of photography developed over time. So my look back in this post also focuses the equipment side in the beginning.
+My personal history of digital photography and photo sharing started almost 20 years ago (this even suprised me when I started thinking about it). I started photography with mainly a technology interest in the beginning, and this is up to this day a motivating factor for me. I like tech and modern equipment, the "artistic" side of photography developed over time. So my look back in this post is also based on the equipment side in the beginning.
 
-Maybe this tech-driven approach is also the reason why I was never interested in analogue photography. In fact, I never really used an analogue camera and film. My entry into photography was digital from day one.
+"Fun-Fact": Maybe this tech-driven approach is also the reason why I was never interested in analogue photography. In fact, I never really used an analogue camera and film. My entry into photography was digital from day one.
 
 ### 2001
 
-This day one was in summer 2001, when I got my first digital camera, the Sony DSC-P1. I was 13 years old back then, and I guess my marks in school must have been quite decent. I was actually one of the first people who had a digital camera in my hometown. This was a thing back then, unbelievable today.
+This day one was in summer 2001, when I got my first digital camera, the Sony DSC-P1. I was 13 years old back then, and I guess my marks in school must have been quite decent to justify that present. I was actually one of the first people in my hometown who had a digital camera. This was a totally novel thing back then, unbelievable today.
 
-The [DSC-P1](https://www.dpreview.com/reviews/sonydscp1) was already a quite nice and usable camera. It features a 3 MPx sensor and a 3x zoom lens and saved images on a 8 MB flash drive, which I later replaced with a 64 MB one.
+The [DSC-P1](https://www.dpreview.com/reviews/sonydscp1) was already a quite nice and usable camera. It featured a 3 MPx sensor and a 3x zoom lens and saved images on a 8 MB flash drive, which I later replaced with a 64 MB one.
 The first photo with the camera I deleted obviously, but here's the file called "DSC00002.JPG" 
 
 ![DSC00002.JPG](../images/20201119/DSC00002.JPG)
 
 ### 2003
 
-Within two years later my interest in photography grow that I wanted to get more serious about camera equipment. In this time the [Minolta DiMAGE 7i](https://www.dpreview.com/reviews/minoltadimage7i) was a hot and still affordable camera. Better image quality, a nice 28-200 equiv. lens and a cool look made me spend my saved money on this new camera. I think, this was the actual step into more ambitious photography for me. Image results with this camera were already quite nice. The big weakpoint were the batteries, a set of 4 AA NiMH batteries was good for 50 pictures or so. Meaning, you always better off having 12, or in winter conditions better 15 batteries in your bag.
+Within two years later my interest in photography grow that I wanted to get more serious about camera equipment. In this time the [Minolta DiMAGE 7i](https://www.dpreview.com/reviews/minoltadimage7i) was a hot and still affordable camera for enthusiast hobbyists. Better image quality, a nice 28-200 equiv. lens and a cool look made me spend my saved money on this new camera. I think, this was the actual step into more ambitious photography for me. Image results with this camera were quite decent. The big weakpoint were the batteries; a set of 4 AA NiMH batteries was good for 50 pictures or so. Meaning, you were always better off having 12, or in winter conditions preferrably 15 batteries in your bag.
 
 ![PICT0007.JPG](../images/20201119/PICT0007.JPG)
 
@@ -35,17 +35,17 @@ Quite quickly it became clear that the key ingredient for a good photography set
 
 ### 2005
 
-Many surely remember: In the 2000s internet forums were a big thing. They were something like early social media before this term was coined and became a mass phenomenon. I spent a lot of time sharing photos and discussing photography topics in photography forums, which felt like cosy photography clubs where all participants got to know each other quite well over time. They were not limited to online, I for example organised local physical meetups too. It was a great time, that slowly came to end when other social media services entered the stage.
+Many surely remember: In the 2000s internet forums were a big thing. They were something like early social media before this term was coined and became a mass phenomenon. I spent a many, many hours sharing photos and discussing photography topics in photography forums, which felt like cosy photography clubs where all participants got to know each other quite well over time. They were not limited to online, I for example organised local physical meetups too. It was a great time with lots of learning concerning photography for me, that slowly came to end when other social media services entered the stage.
 
 ### 2006
 
 Sharing photos in several online channels became more and more important to me. It helped me in my photography journey by getting feedback from different people both online and offline. To acocunt for that, I needed to upgrade my photography blog technically and chose to switched to Wordpress. The Wordpress project was 3 years old back then and not as ubiquitous as today. 
 
-Photography equipment-wise my setup grew to a fine assortment of quite cool equipment that kept quite stable for several years to come. Canon EOS EOS 30D, Canon EF 4/17-40mm L, Canon EF 4/70-200mm L IS, Canon EF 1.4/50mm, Sigma 2.8/90mm Makro and the EOS 300D as backup (I haven't sold it by today due to nostalgic feeling ...)
+Photography equipment-wise my setup grew to a assortment of quite fine equipment that kept very stable for several years to come. Canon EOS EOS 30D, Canon EF 4/17-40mm L, Canon EF 4/70-200mm L IS, Canon EF 1.4/50mm, Sigma 2.8/90mm Makro and the EOS 300D as backup (I haven't sold it by today due to nostalgic feelings ...)
 
 ### 2008 
 
-In 2008 hosting and managing all my pictures on my Wordpress page got more and more difficult and also expensive due to webserver costs, that's why I decided to go for a Flickr to host my pictures (and also archive in addition to local storage). Over the years my Flickr stream filled with thousands of pictures, and several of them also generated some reach on the platform. If you are interested, [in this "Most Popular" album](https://www.flickr.com/photos/jakobhuerner/albums/72157639081126315) your can see some of my most viewed and liked pictures on Flickr.
+In 2008 hosting and managing all my pictures on my Wordpress page got more and more difficult and also expensive due to webserver costs, that's why I decided to go for Flickr to host my pictures (and also to archive them in addition to local storage). Over the years my Flickr stream filled with thousands of pictures, and several of them also generated some reach on the platform. If you are interested, [in this "Most Popular" album](https://www.flickr.com/photos/jakobhuerner/albums/72157639081126315) your can see some of my most viewed and liked pictures on Flickr.
 
 ### 2010
 
@@ -72,7 +72,7 @@ I think it was a "healthy" development in my photography journey - maybe also ju
 ### 2016
 
 In the coming years photography was basically split in two categories: everyday photos (with the iPhone), and photos of travels and trips (with the Sony NEX-3N). In the end I would guess that I took 95% of all photos with my phone, the rest with the NEX-3N.
-It was in the end the mentioned trade-off of portability vs. additional quality as well as the trade-off between maximum quality in RAW-postprocessing vs. convenienve of shooting JPEG on the phone, that lead to leaving the camera at home most of the time.
+It was in the end the mentioned trade-off of portability vs. additional quality as well as the trade-off between maximum quality in RAW-postprocessing vs. convenience of shooting JPEG on the phone, that lead to leaving the camera at home most of the time.
 
 ![Travel photography - La Reunion - Sony NEX-3N](../images/20201119/la_reunion.jpg)
 
@@ -86,5 +86,7 @@ So I chose to discontinue my website and also my Flickr stream. It still feels r
 
 ### 2020
 
-Step 
+As explained before, in 2020 finally some things came together that motivated me getting into more ambitious photography again. In short: mainly time and the availability of a lean & at the same time highest quality casual photography setup.
+It is the time to make up another step on the quality ladder into full-format, and combining it with 20 years of experience in photography.
 
+In one statement: It is a lot of fun and feels really good to being able to spend more time and passion on photography again. 
