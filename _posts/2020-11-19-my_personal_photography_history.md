@@ -45,11 +45,11 @@ Photography equipment-wise my setup grew to a assortment of quite fine equipment
 
 ### 2008 
 
-In 2008 hosting and managing all my pictures on my Wordpress page got more and more difficult and also expensive due to webserver costs, that's why I decided to go for Flickr to host my pictures (and also to archive them in addition to local storage). Over the years my Flickr stream filled with thousands of pictures, and several of them also generated some reach on the platform. If you are interested, [in this "Most Popular" album](https://www.flickr.com/photos/jakobhuerner/albums/72157639081126315) your can see some of my most viewed and liked pictures on Flickr.
+In 2008 hosting and managing all my pictures on my Wordpress page got more and more difficult and also expensive due to webserver costs, that's why I decided to go for Flickr to host my pictures (and also to archive them in addition to local storage). Over the years my Flickr stream filled with thousands of pictures, and several of them also generated some reach on the platform. If you are interested, [in this "Most Popular" album](https://www.flickr.com/photos/jakobhuerner/albums/72157639081126315) you can see some of my most viewed and liked pictures on Flickr.
 
 ### 2010
 
-In 2010 I chose to update my meanwhile dated cameras with an entry-level Canon EOS 550D which was fine for my type of photography. As for everyday photography I wanted to have something high-quality and ultraportable, I chose to get a compact camera Canon PowerShot S95 as well. It featured an really good lens and sensor, as well as RAW cababilities that allowed for some very good pictures. 
+In 2010 I chose to update my meanwhile dated cameras with an entry-level Canon EOS 550D which was fine for my type of photography. As for everyday photography I wanted to have something high-quality and ultraportable, I chose to get a compact camera Canon PowerShot S95 as well. It featured a really good lens and sensor, as well as RAW capabilities that allowed for some very good pictures. 
 
 
 ### 2011
