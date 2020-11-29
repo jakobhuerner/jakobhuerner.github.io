@@ -7,7 +7,7 @@ excerpt: A look back at almost 20 years of digital photography, photo equipment 
 
 My personal history of digital photography and photo sharing started almost 20 years ago (this even suprised me when I started thinking about it). I started photography with mainly a technology interest in the beginning, and this is up to this day a motivating factor for me. I like tech and modern equipment, the "artistic" side of photography developed over time. So my look back in this post is also based on the equipment side in the beginning.
 
-"Fun-Fact": Maybe this tech-driven approach is also the reason why I was never interested in analogue photography. In fact, I never really used an analogue camera and film. My entry into photography was digital from day one.
+_Fun-Fact_: Maybe this tech-driven approach is also the reason why I was never interested in analogue photography. In fact, I never really used an analogue camera and film. My entry into photography was digital from day one.
 
 ### 2001
 
@@ -86,7 +86,7 @@ So I chose to discontinue my website and also my Flickr stream. It still feels r
 
 ### 2020
 
-As explained before, in 2020 finally some things came together that motivated me getting into more ambitious photography again. In short: mainly time and the availability of a lean & at the same time highest quality casual photography setup.
+As [explained before](.../leanest_highest_quality_casual_photography_setup), in 2020 finally some things came together that motivated me getting into more ambitious photography again. In short: mainly time and the availability of a lean & at the same time highest quality casual photography setup.
 It is the time to make up another step on the quality ladder into full-format, and combining it with 20 years of experience in photography.
 
-In one statement: It is a lot of fun and feels really good to being able to spend more time and passion on photography again. 
+*Final thought*: It is a lot of fun and feels really good being able to spend more time and passion on photography again. 
