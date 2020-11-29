@@ -29,7 +29,7 @@ Considering all of the above, I have found the almost perfect setup for me by us
 
 In the coming weeks I will describe in a bit more detail why I have chosen this setup and provide some considerations for other casual photographers that want exceptional quality in a practical and lean setup.
 
-For the time being, let's start with some pictures from the setup above. Click to access the full-sized JPEGs (exported from Lightroom).
+For the time being, let's start with some pictures from the setup above. Click to access the _full-sized_ JPEGs (exported from Lightroom).
 
 [![austria_campus1](../images/20201115/s20201115-1.jpg)](https://raw.githubusercontent.com/jakobhuerner/jakobhuerner.github.io/master/images/20201115/20201115-1.jpg)
 [![austria_campus2](../images/20201115/s20201115-2.jpg)](https://raw.githubusercontent.com/jakobhuerner/jakobhuerner.github.io/master/images/20201115/20201115-2.jpg)
