@@ -2,7 +2,7 @@
 layout: post
 title:  Green December walk at Leckermoor
 categories: [Photography] [SonyA7C] [Sony-1.8/35mm]
-excerpt: Picture from a walk at Hochmoor "Leckermoor" Hochreit
+excerpt: Picture from a walk at "Leckermoor" Hochreit
 ---
 
 [![Hochmoor Hochreit 1](../images/20201205/20201205-1.jpg)](../images/20201205/20201205-1.jpg)
