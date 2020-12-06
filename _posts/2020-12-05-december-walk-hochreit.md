@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Green December walk at Leckermoor
+title:  December walk at Leckermoor
 categories: [Photography] 
-excerpt: Picture from a walk at "Leckermoor" Hochreit
+excerpt: Picture from a snow-less December walk at "Leckermoor" Hochreit
 ---
 
 [![Hochmoor Hochreit 1](../images/20201205/20201205-1.jpg)](../images/20201205/20201205-1.jpg)
