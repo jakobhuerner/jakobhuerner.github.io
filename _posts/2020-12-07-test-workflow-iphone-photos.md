@@ -6,8 +6,8 @@ excerpt: A non-scientific test of the iPhone 8 Camera and Photos apps versus the
 ---
 As a casual photography who strives for high image quality, I wanted to try out two possible paths to take and edit photos on the iPhone. I did a non-scientific test in which I took photos with my iPhone 8 on a cloudy December day with very flat light in two ways:
 
-* Path 1) using the standard Camera app and editing possibility with the Photos app (JPEG workflow)
-* Path 2) using Adobe Lightroom App and its editing features (DNG workflow)
+* _Path 1:_ using the standard Camera app and editing possibility with the Photos app (JPEG workflow)
+* _Path 2:_ using Adobe Lightroom App and its editing features (DNG workflow)
 
 In both ways I edited the picture as I would do it normally to match my taste.
 
