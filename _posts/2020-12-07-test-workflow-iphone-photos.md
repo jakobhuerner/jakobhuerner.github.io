@@ -28,7 +28,7 @@ Test Photo 2 - Path 2:
 [![Test photo 2 - Adobe Lightroom](../images/20201207/2_LR.jpg)](../images/20201207/2_LR.jpg)
 
 Test Photo 3 - Path 1:
-[![Test photo 3 - iPhone Standard Apps](../images/20201207/1_std-app.jpg)](../images/20201207/1_std-app.jpg)
+[![Test photo 3 - iPhone Standard Apps](../images/20201207/3_std-app.jpg)](../images/20201207/3_std-app.jpg)
 
 Test Photo 3 - Path 2:
 [![Test photo 3 - Adobe Lightroom](../images/20201207/3_LR.jpg)](../images/20201207/3_LR.jpg)
