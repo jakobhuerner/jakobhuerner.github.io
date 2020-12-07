@@ -36,5 +36,6 @@ Test Photo 3 - Path 2:
 
 Generally, the path 1 (integrated apps) produced much punchier pictures, I even turned down contrast in the editing step, especially for the last picture. Also as it looks like the iPhone applies much more generous sharpening with larger - „bolder“ - sharpening radius. Path 2 (Lightroom) images appear less punchy. Especially the details are rendered considerably finer and more subtle sharpening is applied, although I turned it up to 56 in Lightroom. Interesting to see, in this tricky lighting conditions even the iPhone-DNG files seem to provide more headroom to correct the exposure afterwards, as you would normally expect from RAW/DNG data.
 
-Overall both approaches have their strengths. It takes slightly less time to go path 1, but also 2 does not add a lot of overhead. Image quality-wise I would considers 2 superior to 1. In both scenarios 
-Main difference for me is that the integrated Camera app feels snappier than LR (at least on the older iPhone 8), which will make me choose path 1 more often than path 2.
+Overall both approaches have their strengths. It takes slightly less time to go path 1, but also 2 does not add a lot of overhead. Image quality-wise I would considers 2 superior to 1. In both scenarios you get decent pictures, which are almost on par with standard compact point-and-shoot cameras in my point of view. The only real gain in image quality in such situations can be achieved with a full-frame DSLR or large-sensor-interchangeable-lens camera.
+
+Getting back to the conclusion of my small non-scientific test: Main difference for me is that the integrated Camera app feels snappier than LR (at least on the older iPhone 8), which will make me choose path 1 more often than path 2.
