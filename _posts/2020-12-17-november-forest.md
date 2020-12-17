@@ -4,7 +4,7 @@ title:  November forest
 categories: [Photography] 
 excerpt: Walk through november forest
 ---
-Walk through forest in Lunz am See in November.
+Walk through a forest in Lunz am See in November.
 
 ![Lunz am See 1](../images/20201217/1.jpg)
 
