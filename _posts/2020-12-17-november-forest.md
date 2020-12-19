@@ -12,4 +12,4 @@ Walk through a winter forest in Lunz am See, November 2020.
 
 ![Lunz am See 3](../images/20201217/3.jpg)
 
-All pictures taken with Sony A7C and the Sony FE 4.0-5.6/28-60mm.
+All pictures taken with the Sony A7C and the Sony FE 4.0-5.6/28-60mm.
