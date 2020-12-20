@@ -19,7 +19,7 @@ This year the decorated city looks almost similar to a year ago, but feels total
 
 ![Christmas in Vienna 6](../images/20201220/vienna_christmas_2020-6.jpg)
 
-![Christmas in Vienna 7](../images/20201220/vienna_christmas_2020-8.jpg)
+![Christmas in Vienna 7](../images/20201220/vienna_christmas_2020-7.jpg)
 
 The only thing that was really the same as last year was this guy:
 
