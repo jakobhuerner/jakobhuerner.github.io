@@ -25,4 +25,4 @@ In the end, I found something that was truly the same as last year. Something to
 
 ![Christmas in Vienna 8](../images/20201220/vienna_christmas_2020-8.jpg)
 
-All pictures takes with the Sony A7C and the Sony FE 1.8/35mm.
+All pictures taken with the Sony A7C and the Sony FE 1.8/35mm.
