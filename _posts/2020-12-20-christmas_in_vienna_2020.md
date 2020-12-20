@@ -2,10 +2,10 @@
 layout: post
 title:  Christmas in Vienna 
 categories: [Photography] 
-excerpt: Christmas in Vienna is almost the same as always but different this time
+excerpt: Christmas in Vienna is almost the same as always, but different this time
 ---
-Christmas time in Vienna is nice, some say even magic. Both Vienna residents and tourists enjoy the weeks before Christmas for strolling through the city, having Glühwein and do some christmas shopping. Normally.
-This year the decorated city looks almost similar to a year ago, but feels totally different. 
+The Christmas season in Vienna is beautiful, some even say magical. Both Vienna residents and tourists enjoy the weeks before Christmas for strolling through the city, having Glühwein and do some Christmas shopping. Normally.
+This year, the decorated city looks almost the same as a year ago, but feels totally different. 
 
 ![Christmas in Vienna 1](../images/20201220/vienna_christmas_2020-1.jpg)
 
@@ -21,7 +21,7 @@ This year the decorated city looks almost similar to a year ago, but feels total
 
 ![Christmas in Vienna 7](../images/20201220/vienna_christmas_2020-7.jpg)
 
-The only thing that was really the same as last year was this guy:
+In the end, I found something that was truly the same as last year. Something to hold on to. ;)
 
 ![Christmas in Vienna 8](../images/20201220/vienna_christmas_2020-8.jpg)
 
