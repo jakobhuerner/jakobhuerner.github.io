@@ -23,7 +23,7 @@ Considering all of the above, I have found the almost perfect setup for me by us
 - the Sony A7C  - the smallest full-frame interchangeable lens camera on the market 
 - the Sony FE 1.8/35mm - a compact and versatile lens with great optical quality
 - the Sony FE 1.8/85mm - same as the 35 but at 85mm
-- Adobe Lightroom (on iPad, PC and iPhone) - powerful RAW workflow tool that keeps the complexity of storing, synching and backing up your photos in the background by a robust cloud sychronisation
+- [Adobe Lightroom](https://jakobhuerner.github.io/raw_workflow_with_adobe_lightroom/) (on iPad, PC and iPhone) - powerful RAW workflow tool that keeps the complexity of storing, synching and backing up your photos in the background by a robust cloud sychronisation
 
 ## The outlook
 
