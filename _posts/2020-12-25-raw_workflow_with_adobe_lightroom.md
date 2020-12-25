@@ -7,10 +7,10 @@ excerpt: Discussion of requirements, pros and cons and a practical solution for 
 As [described before](https://jakobhuerner.github.io/leanest_highest_quality_casual_photography_setup/), I was looking for a digital photography workflow, that yields highest quality photos and at the same time does not create a huge manual workload and complexity in the process.
 
 Requirements
-Highest image quality, utilising the full potential of the used camera and its RAWs - my goal of photo processing is to make the final images look like I remember the scene (I don’t do artistic/“over-photoshopped” photos)
-Convenient photo management tools for keeping a good overview
-Frictionless exchange of photos in a multi-device setup
-Robust and future-proof solution, so I do not have to adapt constantly or switch in near future again
+* Highest image quality, utilising the full potential of the used camera and its RAWs - my goal of photo processing is to make the final images look like I remember the scene (I don’t do artistic/“over-photoshopped” photos)
+* Convenient photo management tools for keeping a good overview
+* Frictionless exchange of photos in a multi-device setup
+* Robust and future-proof solution, so I do not have to adapt constantly or switch in near future again
 
 I have found a great solution for a lean and convenient RAW workflow with Adobe Lightroom.
 
@@ -39,9 +39,9 @@ The only thing that is left for me as a manual job is the long-term archive, for
 ## Downsides
 
 The described setup works really well for a casual photographer like me. While it delivers on all above mentioned requirements, some downsides must be taken into account.
-The dependency on Adobe is obviously large. As with every software-as-a-service product you obviously have significant vendor lock-in. To mitigate this, I strongly recommend taking care of the long-term archive based on open/standard solutions.
-Getting your RAW files out from Lightroom works reasonably well by the standard apps (for a few photos) or an available stand-alone download tool for Windows or Mac (for all photos in your account). For the latter I would wish for more possibilities like downloading all photos of one year instead of just “all”.
-The price tag of 12 €/month for the apps and 1TB cloud storage is not exactly cheap.
+* The dependency on Adobe is obviously large. As with every software-as-a-service product you obviously have significant vendor lock-in. To mitigate this, I strongly recommend taking care of the long-term archive based on open/standard solutions.
+* Getting your RAW files out from Lightroom works reasonably well by the standard apps (for a few photos) or an available stand-alone download tool for Windows or Mac (for all photos in your account). For the latter I would wish for more possibilities like downloading all photos of one year instead of just “all”.
+* The price tag of 12 €/month for the apps and 1TB cloud storage is not exactly cheap.
 
 ## Conclusion
 
