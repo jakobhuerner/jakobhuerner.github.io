@@ -6,7 +6,7 @@ excerpt: Discussion of requirements, pros and cons and a practical solution for 
 ---
 As [described before](https://jakobhuerner.github.io/leanest_highest_quality_casual_photography_setup/), I was looking for a digital photography workflow, that yields highest quality photos and at the same time does not create a huge manual workload and complexity in the process.
 
-Requirements
+Major Requirements
 * Highest image quality, utilising the full potential of the used camera and its RAWs - my goal of photo processing is to make the final images look like I remember the scene (I don’t do artistic/“over-photoshopped” photos)
 * Convenient photo management tools for keeping a good overview
 * Frictionless exchange of photos in a multi-device setup
