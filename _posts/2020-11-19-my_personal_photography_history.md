@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  My personal photography history
-categories: [Photography]
+categories: [Casual Photography,]
 excerpt: A look back at almost 20 years of digital photography, photo equipment and photo sharing
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  November forest
-categories: [Photography] 
+categories: [Photos] 
 excerpt: Walk through november forest
 ---
 Walk through a winter forest in Lunz am See, November 2020.

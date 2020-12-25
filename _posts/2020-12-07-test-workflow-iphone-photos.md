@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Small test - Quality-optimized photo workflow for iPhone photos
-categories: [Photography] 
+categories: [Casual Photography] 
 excerpt: A non-scientific test of the iPhone 8 Camera and Photos apps versus the Adobe Lightroom app
 ---
 As a casual photography who strives for high image quality, I wanted to try out two possible paths to take and edit photos on the iPhone. I did a non-scientific test in which I took photos with my iPhone 8 on a cloudy December day with very flat light in two ways:
