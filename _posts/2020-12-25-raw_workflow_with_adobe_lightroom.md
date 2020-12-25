@@ -31,7 +31,7 @@ The following sketch illustrates my current RAW workflow as of late-2020.
 ![RAW workflow with Adobe Lightroom](../images/20201225/sketch_raw_workflow_with_adobe_lightroom.jpg)
 
 
-As you can see the Adobe Lightroom apps and the cloud synchronisation is in the center of the workflow.
+As you can see, the Adobe Lightroom apps and the cloud synchronisation is in the center of the workflow.
 Pictures are transferred from the camera’s memory card via card reader either to the PC or to the iPad. There the automatic synchronisation of the original RAWs to the Adobe cloud and the distribution to all Lightroom apps on all devices is triggered. Of course only (editable, so called smart-) previews are downloaded in the first place, on demand the original RAWs are then pulled to the device. In the apps on the different devices I then export JPGs to different channels.
 
 The only thing that is left for me as a manual job is the long-term archive, for which I prefer to keep it vendor-neutral and to take care of it on my own. So I do not use Lightroom as a long-term archive as such. Having said that, I keep the files there indefinitely, as the 1TB storage still provides space for the years to come.
