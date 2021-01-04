@@ -4,7 +4,7 @@ title:  Lockdown Level 100
 categories: [Photos] 
 excerpt: Rainy day during a long lockdown
 ---
-Achieved lockdown level 100 during a rainy day in Corona lockdown in Vienna.
+Unlocked lockdown level 100 during a rainy day in Corona lockdown in Vienna.
 
 ![Coffee](../images/20210104/coffee_1.jpg)
 
