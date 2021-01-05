@@ -42,9 +42,9 @@ Click to access the full-sized image.
 
 
 [![sel35f18f](../images/20210106/sel35f18f-thumb-05.jpg)](https://raw.githubusercontent.com/jakobhuerner/jakobhuerner.github.io/master/images/20210106/sel35f18f-05.jpg)
-[![sel35f18f](../images/20210106/sel35f18f-thumb-06.jpg)](https://raw.githubusercontent.com/jakobhuerner/jakobhuerner.github.io/master/images/20210106/sel35f18f-06.jpg)
-
 [![sel35f18f](../images/20210106/sel35f18f-thumb-07.jpg)](https://raw.githubusercontent.com/jakobhuerner/jakobhuerner.github.io/master/images/20210106/sel35f18f-07.jpg)
+
+[![sel35f18f](../images/20210106/sel35f18f-thumb-06.jpg)](https://raw.githubusercontent.com/jakobhuerner/jakobhuerner.github.io/master/images/20210106/sel35f18f-06.jpg)
 [![sel35f18f](../images/20210106/sel35f18f-thumb-08.jpg)](https://raw.githubusercontent.com/jakobhuerner/jakobhuerner.github.io/master/images/20210106/sel35f18f-08.jpg)
 
 [![sel35f18f](../images/20210106/sel35f18f-thumb-09.jpg)](https://raw.githubusercontent.com/jakobhuerner/jakobhuerner.github.io/master/images/20210106/sel35f18f-09.jpg)
