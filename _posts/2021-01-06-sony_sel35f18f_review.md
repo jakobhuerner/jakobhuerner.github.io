@@ -2,7 +2,7 @@
 layout: post
 title:  Sony FE 1.8/35mm - My experiences
 categories: [Casual Photography Setup,]
-excerpt: My impressions with the Sony FE 1.8/35mm, for me a perfect everyday lens
+excerpt: My impressions of the Sony FE 1.8/35mm, which for me is a perfect everyday lens
 ---
 
 The following lines reflect my impressions on the Sony FE 1.8/35mm, which I use in combination with the Sony A7C.
