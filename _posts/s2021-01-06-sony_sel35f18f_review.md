@@ -10,6 +10,8 @@ As [written before](https://jakobhuerner.github.io/leanest_highest_quality_casua
 
 Coming from this direction, it means for me that I need a lens for everyday use, that is both portable enough not to be a burden and optically excellent. I have found this for the Sony A7C full-frame camera with the Sony FE 1.8/35mm.
 
+![The Sony FE 1.8/35mm](../images/20210106/sel35f18f.jpg)
+
 ## Plus and minus
 
 What I like:
