@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Sony FE 1.8/35mm Review
+title:  Sony FE 1.8/35mm - My experiences
 categories: [Casual Photography Setup,]
 excerpt: My impressions with the Sony FE 1.8/35mm, for me a perfect everyday lens
 ---
