@@ -22,7 +22,8 @@ What I like:
 - Sharpness: Wow, this lens is sharp, even fully open at F1.8. 
 
 What I do not like:
-- Vignetting: downside is some vignetting (darker edges) at F1.8, which is however easily controllable with automated lens corrections in Lightroom.
+- Vignetting: a downside is some vignetting (darker edges) at F1.8, which is however easily controllable with automated lens corrections in Lightroom.
+- CA: especially wide open there are purple fringes at high-contrast edges.
 
 ## My conclusion
 
