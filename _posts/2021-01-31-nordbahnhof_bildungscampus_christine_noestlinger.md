@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Bildungscampus Christine Noestlinger
+title:  Bildungscampus Christine Nöstlinger
 categories: [Photos];[GraetzlImWandel]
-excerpt: "Graetzl im Wandel" - Nordbahnhofviertel in Vienna in constant change, Part 1
+excerpt: "Grätzl im Wandel" - Nordbahnhofviertel in Vienna in constant change
 ---
 Part 1 of "Grätzl im Wandel", a visual documentation of a changing neigbourhood in Vienna. We live here for more than 5 years and love it. 
 
