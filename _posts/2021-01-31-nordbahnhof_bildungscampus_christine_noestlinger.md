@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Bildungscampus Christine Noestlinger
+title: Bildungscampus Christine Nöstlinger
 categories: [Photos, GraetzlImWandel]
-excerpt: "Graetzl im Wandel" - Nordbahnhofviertel in Vienna in constant change
+excerpt: Grätzl im Wandel - Nordbahnhofviertel in Vienna in constant change
 ---
 
-I start a new blog post series "Grätzl im Wandel", a visual documentation of our changing neighborhood in Vienna. We live here for more than 5 years and love it. 
+Today I start a new blog post series ["Grätzl im Wandel"](https://jakobhuerner.github.io/categories/#GraetzlImWandel), a visual documentation of our changing neighborhood in Vienna. We live here for more than 5 years and love it. 
 
-This time some pictures and architectural details of the new Bildungscampus Christine Nöstlinger, a new school for up to 1600 children. 
+I'll start with some pictures and architectural details of the [Bildungscampus Christine Nöstlinger](https://www.wien.gv.at/stadtentwicklung/architektur/oeffentliche-bauten/schulbauten/bildungscampus-leopoldstadt.html), a new school for up to 1600 children. 
 
 !["Grätzl im Wandel" - Bildungscampus Christine Nöstlinger](../images/20210131/bildungscampus_christine_noestlinger-01.jpg)
 
@@ -41,4 +41,4 @@ This time some pictures and architectural details of the new Bildungscampus Chri
 
 !["Grätzl im Wandel" - Bildungscampus Christine Nöstlinger](../images/20210131/bildungscampus_christine_noestlinger-16.jpg)
 
-Picture taken with the Sony A7C and the FE 1.8/35mm and FE 1.8/85mm.
+All pictures taken with the Sony A7C and the FE 1.8/35mm and FE 1.8/85mm.
