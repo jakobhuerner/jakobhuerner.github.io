@@ -5,7 +5,7 @@ categories: [Photos, GraetzlImWandel]
 excerpt: Graetzl im Wandel - Nordbahnhofviertel in Vienna in constant change
 ---
 
-Some images of the construction around the historic water tower, the landmark which will be the center of the "Freie Mitte", a large new park of 10 hectare. 
+Some images of the construction around the historic water tower, the landmark which will be the center of the "Freie Mitte", a large new park of 10 hectares. 
 
 !["Grätzl im Wandel" - Historic Wasserturm and Freie Mitte](../images/20210201/wasserturm-01.jpg)
 
@@ -29,4 +29,4 @@ Some images of the construction around the historic water tower, the landmark wh
 
 !["Grätzl im Wandel" - Historic Wasserturm and Freie Mitte](../images/20210201/wasserturm-11.jpg)
 
-Picture taken with the Sony A7C and the FE 1.8/35mm and FE 1.8/85mm.
+Pictures taken with the Sony A7C and the FE 1.8/35mm and FE 1.8/85mm.
