@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Bildungscampus Christine Nöstlinger
+title: Bildungscampus Christine Noestlinger
 categories: [Photos, GraetzlImWandel]
-excerpt: "Grätzl im Wandel" - Nordbahnhofviertel in Vienna in constant change
+excerpt: "Graetzl im Wandel" - Nordbahnhofviertel in Vienna in constant change
 ---
 
-Part 1 of "Grätzl im Wandel", a visual documentation of a changing neigbourhood in Vienna. We live here for more than 5 years and love it. 
+I start a new blog post series "Grätzl im Wandel", a visual documentation of our changing neighborhood in Vienna. We live here for more than 5 years and love it. 
 
-This time some pictures and architectural details of the new Bildungscampus Christine Nöstlinger, a school for up to 1600 children. 
+This time some pictures and architectural details of the new Bildungscampus Christine Nöstlinger, a new school for up to 1600 children. 
 
 !["Grätzl im Wandel" - Bildungscampus Christine Nöstlinger](../images/20210131/bildungscampus_christine_noestlinger-01.jpg)
 
