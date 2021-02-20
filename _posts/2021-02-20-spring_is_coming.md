@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spring is coming to Lunz am See
+title: Spring is coming
 categories: [Photos]
 excerpt: Some impressions from a walk in Lunz am See
 ---
