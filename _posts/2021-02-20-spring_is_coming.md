@@ -17,4 +17,4 @@ Winter slowly leaves Lunz am See for this season, as we found in today's walk ar
 
 ![Walk around Lunzer See](../images/20210220/lunzamsee-5.jpg)
 
-Pictures taken with the Sony A7C and the FE 1.8/35mm and the FE 3.5-5.6/28-60mm.
+Pictures taken with the Sony A7C with the FE 1.8/35mm and the FE 3.5-5.6/28-60mm.
