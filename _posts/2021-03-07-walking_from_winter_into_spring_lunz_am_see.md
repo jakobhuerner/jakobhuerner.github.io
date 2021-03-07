@@ -2,7 +2,7 @@
 layout: post
 title: Walking from Winter into Spring
 categories: [Photos]
-excerpt: A small hike in Lunz am See
+excerpt: Small hike in Lunz am See
 ---
 
 A small hike in Lunz am See, which started in winter and ended in spring (sort of).
