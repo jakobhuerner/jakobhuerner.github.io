@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Walking from Winter into Spring
+title: Walking from winter into spring
 categories: [Photos]
 excerpt: Small hike in Lunz am See
 ---
