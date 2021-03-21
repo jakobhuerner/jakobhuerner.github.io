@@ -17,4 +17,4 @@ In the last picture you find some ghosting in the evening sky from the cars' hea
 
 ![Evening walk along the Danube in Vienna](../images/20210321/vienna-4.jpg)
 
-Picture taken in February 2021 with the Apple iPhone 12 mini.
+Picture taken in February 2021 with the Apple iPhone 12 mini and the standard camera app.
