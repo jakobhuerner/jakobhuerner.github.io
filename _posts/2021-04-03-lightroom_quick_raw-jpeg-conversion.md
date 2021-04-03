@@ -27,12 +27,12 @@ Normally you are able to download JPEGs from Lightroom online just one by one. T
 ![Activate sharing in Adobe Lightroom](../images/20210403/lightroom-share-1.png)
 
 - Step 4: Open created link
-- Setp 5: Download via the three-dots-menu on the opper right
+- Step 5: Download via the three-dots-menu on the upper rightcorner
 - Step 6: In Lightroom, disable sharing via "Stop Sharing" in the "Share & Invite" menu again
 
 ![Activate sharing in Adobe Lightroom](../images/20210403/lightroom-share-2.png)
 
-I put this setup to a test with 10 RAWs from the Sony A7C on my Microsoft Surface Laptop (Intel Core i5 with 8GB, 150 mBit/s internet connection):
+I put this setup to a test with 10 RAWs from the Sony A7C on my Microsoft Surface Laptop (Intel Core i5 with 8GB, 150 MBit/s internet connection):
 
 - Local conversion: 118 seconds (roughly 2 minutes)
 - Cloud download: 20 seconds
