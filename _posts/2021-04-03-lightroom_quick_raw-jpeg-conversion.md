@@ -24,12 +24,13 @@ Step 1: Select album for bulk JPEG conversion
 Step 2: "Share & Invite"
 Setp 3: Enable sharing with link and apply "Allow JPEG downloads and export"
  
-![Activate sharing in Adobe Lightroom](../images/20210403/lightroom-share-4.png)
+![Activate sharing in Adobe Lightroom](../images/20210403/lightroom-share-1.png)
 
 Step 4: Open created link
-Setp 5: Downloard via the three-dots-menu on the opper right
+Setp 5: Download via the three-dots-menu on the opper right
 Step 6: In Lightroom, disable sharing via "Stop Sharing" in the "Share & Invite" menu again
 
+![Activate sharing in Adobe Lightroom](../images/20210403/lightroom-share-2.png)
 
 I put this setup to a test with 10 RAWs from the Sony A7C on my Microsoft Surface Laptop (Intel Core i5 with 8GB, 150 mBit/s internet connection):
 
