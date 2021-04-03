@@ -45,4 +45,4 @@ Big benefit of this trick is the really quick export. However, a few limitations
 - Manually added metadata like keywords or captions is not exported (camera EXIF are properly written into JPEGs)
 - There are no file naming options, the original file name will be used
 
-All in all, this options comes in handy in use cases as described above, if you just want the quickest possible conversion of your edited RAWs from Lightroom.
+All in all, this options comes in handy in use cases as described above, when you just want the quickest possible conversion of your edited RAWs from Lightroom.
