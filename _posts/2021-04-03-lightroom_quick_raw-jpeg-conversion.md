@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Lightroom tip for super-quick RAW-to-JPEG conversion
+title:  Lightroom trick for super-quick RAW-to-JPEG conversion
 categories: [Casual Photography Setup]
 excerpt: How to export a bulk of JPEGs from RAWs in seconds
 ---
@@ -20,15 +20,15 @@ A typical use case for me is a bulk export of images of a periode for a secondar
 
 Normally you are able to download JPEGs from Lightroom online just one by one. The web view of shared album, however, allows you to download the whole album at once as zip.
 
-Step 1: Select album for bulk JPEG conversion
-Step 2: "Share & Invite"
-Setp 3: Enable sharing with link and apply "Allow JPEG downloads and export"
+- Step 1: Select album for bulk JPEG conversion
+- Step 2: "Share & Invite"
+- Setp 3: Enable sharing with link and apply "Allow JPEG downloads and export"
  
 ![Activate sharing in Adobe Lightroom](../images/20210403/lightroom-share-1.png)
 
-Step 4: Open created link
-Setp 5: Download via the three-dots-menu on the opper right
-Step 6: In Lightroom, disable sharing via "Stop Sharing" in the "Share & Invite" menu again
+- Step 4: Open created link
+- Setp 5: Download via the three-dots-menu on the opper right
+- Step 6: In Lightroom, disable sharing via "Stop Sharing" in the "Share & Invite" menu again
 
 ![Activate sharing in Adobe Lightroom](../images/20210403/lightroom-share-2.png)
 
