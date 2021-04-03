@@ -28,9 +28,11 @@ Normally you are able to download JPEGs from Lightroom online just one by one. T
 
 - Step 4: Open created link
 - Step 5: Download via the three-dots-menu on the upper rightcorner
-- Step 6: In Lightroom, disable sharing via "Stop Sharing" in the "Share & Invite" menu again
 
 ![Activate sharing in Adobe Lightroom](../images/20210403/lightroom-share-2.png)
+
+- Step 6: In Lightroom, disable sharing via "Stop Sharing" in the "Share & Invite" menu again
+- Step 7: Done :)
 
 I put this setup to a test with 10 RAWs from the Sony A7C on my Microsoft Surface Laptop (Intel Core i5 with 8GB, 150 MBit/s internet connection):
 
