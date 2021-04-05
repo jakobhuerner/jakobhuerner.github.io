@@ -21,8 +21,9 @@ My type of photography can be described as rather casual. I want to take nice pi
 
 Considering all of the above, I have found the almost perfect setup for me by using
 - the Sony A7C  - the smallest full-frame interchangeable lens camera on the market 
-- the Sony FE 1.8/35mm - a compact and versatile lens with great optical quality
+- [the Sony FE 1.8/35mm](https://jakobhuerner.github.io/sony_sel35f18f_review/) - a compact and versatile lens with great optical quality
 - the Sony FE 1.8/85mm - same as the 35 but at 85mm
+- [the Sony FE 4-5.6/28-60mm](https://jakobhuerner.github.io/sony_sel2860_review/) - good choice for the smallest possible full-frame camera+lens package
 - [Adobe Lightroom](https://jakobhuerner.github.io/raw_workflow_with_adobe_lightroom/) (on iPad, PC and iPhone) - powerful RAW workflow tool that keeps the complexity of storing, synching and backing up your photos in the background by a robust cloud sychronisation
 
 ## The outlook
