@@ -11,6 +11,8 @@ When I bought the Sony A7C, it was meant for a [lean and high-quality photograph
 
 Part of this package must be, besides a handy and capable camera, a nice and small all-round lens. For this purpose I have bought the camera with the kit lens Sony FE 4-5.6/28-60mm.
 
+![Sony FE 4-5.6/28-60mm distortion corrected in Lightroom](../images/20210405/SEL2860.jpeg)
+
 Actually, I have used the 28-60mm much less than anticipated. This is mainly due to the qualities of the other lenses in my bag, the Sony 1.8/35mm and 1.8/85mm, and does not imply that the 28-60mm is a bad lens. But let’s look closer.
 
 ## Plus and minus
