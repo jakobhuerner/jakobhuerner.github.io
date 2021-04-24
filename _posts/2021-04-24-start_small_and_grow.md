@@ -8,7 +8,7 @@ excerpt: A forrest tree's tale
 *Start small and grow* is a principle that is true for most things in life.
 A large and strong beech*) tree, in this case "born" at Vienna's Lainzer Tiergarten, starts as a tiny and fragile sprout.
 
-*) At least I think it's a beech, in 1-3 years from now I hopefully know definitely.
+*) At least I think it is a beech, in 1-3 years from now I hopefully know definitely.
 
 ![Small tree - a beech?](../images/20210424/tree-1.jpg)
 
