@@ -6,6 +6,7 @@ excerpt: Nothing matches the beauty of fresh green leaves in spring sunlight
 ---
 
 Nothing matches the beauty of fresh green leaves in spring sunlight.
+
 Pictures from a small hike in Lunz am See.
 
 ![Forest in spring](../images/20210514/spring_forest_1.jpg)
@@ -16,4 +17,4 @@ Pictures from a small hike in Lunz am See.
 
 ![Forest in spring](../images/20210514/spring_forest_4.jpg)
 
-Picture taken with the Sony A7C and the Sony FE 4-5.6/28-60mm.
+Pictures taken with the Sony A7C and the Sony FE 4-5.6/28-60mm.
