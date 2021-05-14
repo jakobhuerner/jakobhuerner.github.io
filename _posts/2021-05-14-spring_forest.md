@@ -16,4 +16,4 @@ Pictures from a small hike in Lunz am See.
 
 ![Forest in spring](../images/20210514/spring_forest_4.jpg)
 
-Picture taken with the Sony A7C and Sony FE 4-5.6/28-60mm.
+Picture taken with the Sony A7C and the Sony FE 4-5.6/28-60mm.
