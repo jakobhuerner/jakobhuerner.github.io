@@ -2,10 +2,10 @@
 layout: post
 title: Spring blossoms
 categories: [Photos]
-excerpt: Beauty of spring sometimes lies in the details
+excerpt: Beauty of spring sometimes is in the details
 ---
 
-Beauty of spring sometimes lies in the details.
+Beauty of spring sometimes is in the details.
 
 Some pictures of a photo walk in Lunz am See.
 
