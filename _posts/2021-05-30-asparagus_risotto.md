@@ -2,12 +2,12 @@
 layout: post
 title: Risotto
 categories: [Photos]
-excerpt: A look at cooking risotto
+excerpt: Simple but delicious (I mean photogenic)
 ---
 
-Let's have a look at cooking risotto.
+Simple but delicious (I mean photogenic)
 
-No recipe, sorry - this is not a food blog!
+Just images, no recipe. Sorry - this is not a food blog!
 
 ![Asparagus Risotto Cooking](../images/20210530/asparagus_risotto_1.jpg)
 
