@@ -5,7 +5,7 @@ categories: [Photos]
 excerpt: A special place in Lower Austria's Waldviertel region
 ---
 
-Blockheide is a very special place with rich nature and famous giant granite blocks Lower Austria's Waldviertel region. It is especially beautiful in summer - but see for yourself!
+Blockheide is a very special place with rich nature and famous giant granite blocks in Lower Austria's Waldviertel region. It is especially beautiful in summer - but see for yourself!
 
 ![Blockheide Waldviertel](../images/20210613/blockheide-1.jpg)
 
