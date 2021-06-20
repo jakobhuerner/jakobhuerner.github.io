@@ -2,7 +2,7 @@
 layout: post
 title: Waldviertel
 categories: [Photos]
-excerpt: Some more impressions from the quite and beautiful region in Lower Austria
+excerpt: See more impressions of the quite and beautiful region in Lower Austria
 ---
 
 Waldviertel is a region in Lower Austria that is known for its quietness and landscape beauty. 
