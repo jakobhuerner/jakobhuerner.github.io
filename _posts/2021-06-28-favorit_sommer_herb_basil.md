@@ -2,10 +2,10 @@
 layout: post
 title: Favorit summer herb
 categories: [Photos]
-excerpt: Directly from the balcony
+excerpt: What does summer taste like?
 ---
 
-How does summer taste?
+What does summer taste like?
 
 For me: Tomatoes, mozarella, olive oil and basil.
 
