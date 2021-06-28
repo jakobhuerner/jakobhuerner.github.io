@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Favorit summer herb #1
+title: Favorit summer herb
 categories: [Photos]
 excerpt: Directly from the balcony
 ---
