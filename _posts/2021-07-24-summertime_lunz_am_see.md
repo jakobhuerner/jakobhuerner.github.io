@@ -5,7 +5,8 @@ categories: [Photos]
 excerpt: If think about summer in Lunz am See, I think about
 ---
 
-If think about summer in Lunz am See, I think about walk through the cool forest and along the river.
+If think about summer in Lunz am See, I think about walks through the cool forest and along the river.
+
 (And the lake, those images are to come ...)
 
 ![Summertime in Lunz am See](../images/20210724/summer_lunz-1.jpg)
