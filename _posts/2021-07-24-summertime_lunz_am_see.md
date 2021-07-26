@@ -2,7 +2,7 @@
 layout: post
 title: Summertime in Lunz am See
 categories: [Photos]
-excerpt: If think about summer in Lunz am See, I think about
+excerpt: If think about summer in Lunz am See, I think about ...
 ---
 
 If think about summer in Lunz am See, I think about walks through the cool forest and along the river.
