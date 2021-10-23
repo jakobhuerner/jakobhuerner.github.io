@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Summertime in Lunz am See
+title: Quiet summer joys
 categories: [Photos]
 excerpt: If think about summer in Lunz am See, I think about ...
 ---
