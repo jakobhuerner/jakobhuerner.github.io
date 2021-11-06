@@ -6,7 +6,7 @@ excerpt: My impressions of the Sony FE 1.8/35mm, which for me is a perfect every
 ---
 
 The following lines reflect my impressions on the Sony FE 1.8/35mm, which I use in combination with the Sony A7C.
-As [written before](https://jakobhuerner.github.io/leanest_highest_quality_casual_photography_setup/), I would describe my kind of photography not as ultra-ambitious, but as __casual__ paired with a high expectation to image quality. 
+As [written before](../leanest_highest_quality_casual_photography_setup/), I would describe my kind of photography not as ultra-ambitious, but as __casual__ paired with a high expectation to image quality. 
 
 Coming from this direction it means for me, that I need a lens for everyday use which is both portable enough not to be a burden and optically excellent. I have found this for the Sony A7C full-frame camera with the Sony FE 1.8/35mm.
 

@@ -5,7 +5,7 @@ categories: [Casual Photography Setup]
 excerpt: How to export a bulk of JPEGs from RAWs in seconds
 ---
 
-For [my kind of photography](https://jakobhuerner.github.io/leanest_highest_quality_casual_photography_setup/), taking RAW files and managing & editing them with Adobe Lightroom on my computer and mobile devices is a perfect choice. 
+For [my kind of photography](../leanest_highest_quality_casual_photography_setup/), taking RAW files and managing & editing them with Adobe Lightroom on my computer and mobile devices is a perfect choice. 
 
 However, a general downside of a RAW workflow is the significant processing time for exporting to JPEG, especially if the to-be-converted number of images is large.
 For certain cases I have found a nice trick to handle these bulk conversion within seconds.

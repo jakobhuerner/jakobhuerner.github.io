@@ -6,7 +6,7 @@ categories: [Casual Photography Setup,]
 excerpt: My impressions of the Sony FE 4-5.6/28-60mm, which for me is a great choice for the smallest possible package
 ---
 
-When I bought the Sony A7C, it was meant for a [lean and high-quality photography setup](https://jakobhuerner.github.io/leanest_highest_quality_casual_photography_setup/).
+When I bought the Sony A7C, it was meant for a [lean and high-quality photography setup](../leanest_highest_quality_casual_photography_setup/).
 
 
 Part of this package must be, besides a handy and capable camera, a nice and small all-round lens. For this purpose I have bought the camera with the kit lens Sony FE 4-5.6/28-60mm.
