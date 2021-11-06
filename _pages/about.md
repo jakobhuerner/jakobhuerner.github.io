@@ -23,3 +23,5 @@ Or you read some history lessons about [how I got into photography](https://jako
 
 
 Have fun and feel free to reach out to [me](https://www.twitter.com/jakobh).
+
+![Posts overview](../images/post_collage.jpg)
