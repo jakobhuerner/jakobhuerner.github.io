@@ -18,8 +18,8 @@ I recommend to start with a photographic trip through the seasons!
 - [autumn](../autumn/) is soon here as well.
 
 
-Alternatively, you can check out my technical posts about [The leanest & highest quality casual photography setup (2020)](https://jakobhuerner.github.io/leanest_highest_quality_casual_photography_setup/).
-Or you read some history lessons about [how I got into photography](https://jakobhuerner.github.io/my_personal_photography_history/).
+Alternatively, you can check out my technical posts about [The leanest & highest quality casual photography setup (2020)](../leanest_highest_quality_casual_photography_setup/).
+Or you read some history lessons about [how I got into photography](../my_personal_photography_history/).
 
 
 Have fun and feel free to reach out to [me](https://www.twitter.com/jakobh).
