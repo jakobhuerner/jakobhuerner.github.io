@@ -12,7 +12,7 @@ Focus: How casual photographers can make their photographic lives remarkably lea
 
 I recommend to start with a photographic trip through the seasons!
 
-- Starting with [winter](https://jakobhuerner.github.io/easter_sunday_winter_lunz_2021/),
+- Starting with [winter](../easter_sunday_winter_lunz_2021/),
 - continuing with [spring](https://jakobhuerner.github.io/spring_forest/),
 - and when [summer](https://jakobhuerner.github.io/waldviertel_impressions/) is in full glory,
 - [autumn](https://jakobhuerner.github.io/autumn/) is soon here as well.
