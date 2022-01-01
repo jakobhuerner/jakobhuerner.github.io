@@ -2,7 +2,7 @@
 layout: post
 title: Last day of 2021 
 categories: [Photos]
-excerpt: At Leckermoor in Göstling an der Ybbs
+excerpt: Evening walk at Leckermoor
 ---
 
 We caught the last rays of sunshine of the year 2021 at the Leckermoor in Göstling an der Ybbs.
