@@ -6,6 +6,6 @@ permalink: /contact/
 
 Responsible for this website:
 
-Jakob Hürner
-Vienna, Austria
+DI Jakob Hürner, MSc<br/>
+Vienna, Austria<br/>
 [mail@jakobhuerner.at](mailto:mail@jakobhuerner.at).
