@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Photography
+permalink: /photography/
 ---
 
 On these pages, I share selected photos and writes about his thoughts and experiences with digital photography.
