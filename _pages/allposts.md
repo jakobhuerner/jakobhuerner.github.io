@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: page
+permalink: /allposts/
+title: All Posts
 ---
 
 <div class="posts">
