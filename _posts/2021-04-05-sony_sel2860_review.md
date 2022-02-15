@@ -9,7 +9,7 @@ excerpt: My impressions of the Sony FE 4-5.6/28-60mm, which for me is a great ch
 When I bought the Sony A7C, it was meant for a [lean and high-quality photography setup](../leanest_highest_quality_casual_photography_setup/).
 
 
-Part of this package must be, besides a handy and capable camera, a nice and small all-round lens. For this purpose I have bought the camera with the kit lens Sony FE 4-5.6/28-60mm.
+Part of this package must be - besides a handy and capable camera - a nice and small all-round lens. For this purpose I have bought the camera with the kit lens Sony FE 4-5.6/28-60mm.
 
 ![Sony FE 4-5.6/28-60mm](../images/20210405/SEL2860.jpg)
 
@@ -20,17 +20,17 @@ Actually, I have used the 28-60mm much less than anticipated. This is mainly due
 What I like:
 
 - It is really compact. I mean really really compact for a full-frame zoom lens.
-- The optical quality is good, based on my workflow with post processing lens corrections in Lightroom it delivers appealing results.
-- Especially its sharpness is quite good for a lens of this type, which is important to me.
+- The optical quality is good. Based on my workflow with post processing lens corrections in Lightroom it delivers appealing results.
+- Especially its sharpness is quite good for a lens of this type. That is very important to me.
 - Despite being plasticy, the lens is solid.
 - Autofocus is fast and accurate.
 
 What I do not like:
-- Generally a 2x zoom lens is sort of a strange thing. Sometimes it feels equally feasible to just use the fabulous 1.8/35mm and crop the image afterwards - you'll get similar results. (Still, the package is larger.)
+- Generally a 2x zoom lens is sort of a strange thing. Sometimes it feels equally feasible to just use the fabulous 1.8/35mm and crop the image afterwards - you'll get quite similar results. (Still, the package is larger.)
 - Distortion is hefty, but that's no big problem in my Lightroom workflow.
 - I would love to have a shorter minimum focus distance, which would be great for example for detail shots at hiking trips.
 - Its look is not the nicest, sometimes I think it looks almost comically small on a full-frame body and also a bit cheap.
-- Did I say cheap ... that is something the lens is not, but for its qualities reasonably it is priced in my point of view.
+- Did I say cheap ... that is something the lens is not, but for its qualities it is reasonably priced in my point of view.
 
 ![Sony FE 4-5.6/28-60mm distortion corrected in Lightroom](../images/20210405/SEL2860_lightroom_distortion.gif)
 
@@ -38,7 +38,7 @@ Distortion at 28mm: original shot and corrected version in Lightroom (correction
 
 ## My conclusion
 
-With all its downsides, this lens is still delivering on the major requirements for me - being really compact and producing high-quality results on a full-frame camera body. While in normal situations my lenses of choice will be the primes, the Sony FE 4-5.6/28-60mm will be on my camera whenever I will only bring the smallest possible full-frame camera+lens package with me, for travelling, family trips, hiking and the like.
+With all its downsides, this lens is still delivering on the major requirements for me - being really compact and producing high-quality results on a full-frame camera body. While in normal situations my lenses of choice will be the primes, the Sony FE 4-5.6/28-60mm will be on my camera whenever I only bring the smallest possible full-frame camera+lens package with me, for travelling, family trips, hiking and the like.
 
 ## Samples
 
