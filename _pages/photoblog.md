@@ -4,11 +4,9 @@ permalink: /photoblog/
 title: Photo Blog
 ---
 
-[Find an overview of all posts by category here!](../categories)
-
 <div id="archives">
   <section id="archive">
-     <h2>Most Recent Posts</h2>
+     <h2 style="text-align:left;">Most Recent Posts</h2>
       {%for post in site.posts %}
       {% unless post.next %}
       <ul class="this">
