@@ -8,7 +8,7 @@ title: Photo Blog
 
 <div id="archives">
   <section id="archive">
-     <h3>Most Recent Posts</h3>
+     <h2>Most Recent Posts</h2>
       {%for post in site.posts %}
       {% unless post.next %}
       <ul class="this">
