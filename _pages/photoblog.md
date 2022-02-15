@@ -4,6 +4,7 @@ permalink: /photoblog/
 title: Photo Blog
 ---
 
+[Find an overview of all posts by category here!](../categories)
 
 <div id="archives">
   <section id="archive">
