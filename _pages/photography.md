@@ -4,11 +4,9 @@ title: Photography
 permalink: /photography/
 ---
 
-In the photo blog section, I share selected photos and write about my thoughts and experiences with digital photography.
+In the photo [blog section](../photoblog) I share selected photos and write about my thoughts and experiences with digital photography.
 
 Focus: How casual photographers can make their photographic lives remarkably lean & easy nowadays, allowing them to focus more on the __moment__ (pictures), and less on __things__ (equipment).
-
-[Find an overview of all posts here!](../photoblog)
 
 ## Where should I start?
 
