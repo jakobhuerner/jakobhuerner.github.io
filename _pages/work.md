@@ -18,6 +18,6 @@ I see my core strength in "connecting the dots". I am always interested in under
 
 ## Professional blog
 
-I am writing about various aspects of my work in my [professional blog on LinkedIn](https://www.linkedin.com/pulse/welcome-jakobs-linkedin-blog-updated-lists-all-posts-jakob-h%C3%BCrner/") - check it out!
+I am writing about various aspects of my work, new work and carrer in my [professional blog on LinkedIn](https://www.linkedin.com/pulse/welcome-jakobs-linkedin-blog-updated-lists-all-posts-jakob-h%C3%BCrner/") - check it out!
 
 It not only helps me reflect on my challenges and my professional development. I also want to share my experiences so that others can benefit from it. 
