@@ -12,7 +12,7 @@ In the course of my career I helped shaping activities and programs that signifi
 
 ## My strength
 
-I see my core strength in "connecting the dots". I am always interested in understanding systems behind the surface, the systems' actors and their connections. Only by understanding systems and their dynamics, you are able to effectively shape them in a permanent and sustainable way.
+I see my core strength in "connecting the dots". I am always interested in understanding systems below the surface, the systems' actors and their connections. Only by understanding systems and their dynamics, you are able to effectively shape them in a permanent and sustainable way.
 
 ![Posts overview](../images/work_jakob_strenth.jpg)
 
