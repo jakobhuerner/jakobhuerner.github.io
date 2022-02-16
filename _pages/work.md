@@ -14,10 +14,10 @@ In the course of my career I helped shaping activities and programs that signifi
 
 I see my core strength in "connecting the dots". I am always interested in understanding systems behind the surface, the systems' actors and their connections. Only by understanding systems and their dynamics, you are able to effectively shape them in a permanent and sustainable way.
 
-[![Posts overview](../images/post_collage.jpg)](../categories/)
+![Posts overview](../images/work_jakob_strenth.jpg)
 
 ## Professional blog
 
-I am writing about various aspects of my work in my [professional blog on LinkedIn](https://www.linkedin.com/pulse/welcome-jakobs-linkedin-blog-updated-lists-all-posts-jakob-h%C3%BCrner/") - check it ou!
+I am writing about various aspects of my work in my [professional blog on LinkedIn](https://www.linkedin.com/pulse/welcome-jakobs-linkedin-blog-updated-lists-all-posts-jakob-h%C3%BCrner/") - check it out!
 
 It not only helps me reflect on my challenges and my professional development. I also want to share my experiences so that others can benefit from it. 
