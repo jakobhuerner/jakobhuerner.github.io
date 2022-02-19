@@ -45,7 +45,7 @@ It is actually hard to believe how fast the M1 Max is! (And how cool and quiet i
 
 ![Benchmark: MacBook Pro, M1 Max: 45s; iPad Pro, A12X: 3min 22s; iPhone 12 mini, A14: 5 min 03s; Surface Laptop, Intel i5 : 11 min 03s;](../images/20220219/result_chart_lightroom_export_sony_a7c_raw_for_macbook_pro_m1max_test_benchmark.png)
 
-As you can see, the MacBook Pro with M1 Max needs less than a minute to compute all 56 RAWs, while the device in second place - the iPad Pro - takes four times longer for the same task. For the old Surface Laptop is even more than ten times slower.
+As you can see, the MacBook Pro with M1 Max needs less than a minute to compute all 56 RAWs, while the device in second place - the iPad Pro - takes four times longer for the same task. The old Surface Laptop is more than ten times slower.
 
 
 Please note: A clearly limiting factor for the older Windows PC was the lack of RAM, seen from permanently high activity of the SSD in the Windows Task Manager at Lightroom exports and Lightroom use in general.
