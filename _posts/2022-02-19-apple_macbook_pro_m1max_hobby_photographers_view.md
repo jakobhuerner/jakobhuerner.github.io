@@ -5,7 +5,7 @@ categories: [Casual Photography Setup]
 excerpt: Many tests and benchmarks have been done and published when the new M1 Pro and M1 Max MacBook Pros were released - here is a casual photographers' view
 ---
 
-Many tests and benchmarks have been done and published when the new M1 Pro and M1 Max MacBook Pros were released (like [here](https://www.youtube.com/watch?v=APbYu5QxiXI) on general tests and also [here](https://www.youtube.com/watch?v=I10WMJV96ns) on more photo/video creators’ tasks). Recently I had the chance to try out my photo workflow on one.My focus was on how Adobe Lightroom works on one of those well-received (hyped?) MacBook Pros. 
+Many tests and benchmarks have been done and published when the new M1 Pro and M1 Max MacBook Pros were released (like [here](https://www.youtube.com/watch?v=APbYu5QxiXI) on general tests and also [here](https://www.youtube.com/watch?v=I10WMJV96ns) on more photo/video creators’ tasks). Recently I had the chance to try out my photo workflow on one of those well-received (hyped?) MacBook Pros, too. 
 
 ![MacBook Pro M1 Max](../images/20220219/macbook_pro_m1max.jpg)
 
@@ -18,7 +18,7 @@ My first impression: “Oh, it’s heavy and bulky for a MacBook!”
 
 Given the performance and general positioning as a professional tool, the size and weight is reasonable. The overall build quality is simply great, as you would expect.
 
-It’s great that you can power it via USB-C if you like, this makes an extra charger obsolete if you want to travel as  light as possible.
+It is great that you can power it via USB-C if you like, this makes an extra charger obsolete if you want to travel as  light as possible.
 
 One nice feature for photographers is the built-in SD card slot. It does not support the speed of the highest-end cards, but I guess for 95% of the photographers using this laptop it’s a great feature.
 
@@ -28,7 +28,7 @@ As expected, the screen of the MacBook Pro is wonderful. Its resolution, its bri
 
 # Performance (+ a casual photographer’s test)
 
-A big promise of the M1 Pro/Max is its outstanding performance. I tried it using Adobe Lightroom in the latest versions as of February 2022. It is a great test setting, as Lightroom is a cross-platform solution that really shines in the integration of different device categories and operating systems. It already runs as native application on the M1 chip in the tested version.
+A big promise of the M1 Pro/Max is its outstanding performance. I tried it using Adobe Lightroom in the latest versions as of February 2022. It is a great test setting, as Lightroom is a cross-platform solution that really shines in the integration of different device categories and operating systems. It runs as native application on the M1 chip in the tested version.
 
 ## The test samples
 
@@ -41,9 +41,10 @@ Disclaimer: It is a casual photographers test, results from tests  in a fully co
 
 ## The test results
 
+It is actually hard to believe how fast the M1 Max is! (And how cool and quiet is stays when editing and exporting.)
+
 ![Benchmark: MacBook Pro, M1 Max: 45s; iPad Pro, A12X: 3min 22s; iPhone 12 mini, A14: 5 min 03s; Surface Laptop, Intel i5 : 11 min 03s;](../images/20220219/result_chart_lightroom_export_sony_a7c_raw_for_macbook_pro_m1max_test_benchmark.png)
 
-It is actually hard to believe how fast the M1 Max is. And how cool and quiet is stays when editing and exporting.
 
 Please note: A clearly limiting factor for the older Windows PC was the lack of RAM, seen from permanently high activity of the SSD in the Windows Task Manager at Lightroom exports and Lightroom use in general.
 
@@ -60,4 +61,4 @@ Its screen, performance, and overall robustness makes it a perfect photographer�
 Would I buy this MacBook Pro with M1 Max: __No!__ 
 The price of this computer is simply too high, looking at the requirements of a casual photographer who is not dependent on the shortest export times, the quickest editing capabilities and most accurate colour representation on the laptop screen.
 
-For me personally the 13” MacBook Pro with M1 is perhaps the sweet spot between capability and price.
+For me personally the 13” MacBook Pro with M1 is perhaps the sweet spot between capabilities, performance and price.
