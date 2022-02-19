@@ -5,7 +5,7 @@ categories: [Casual Photography Setup]
 excerpt: Many tests and benchmarks have been done and published when the new M1 Pro and M1 Max MacBook Pros were released - here is a hobby photographers view
 ---
 
-Many tests and benchmarks have been done and published when the new M1 Pro and M1 Max MacBook Pros were released (like here on general tests and also here on more photo/video creators’ tasks). Recently I had the chance to try out my photo workflow on one.My focus was on how Adobe Lightroom works on one of those well-received (hyped?) MacBook Pros. 
+Many tests and benchmarks have been done and published when the new M1 Pro and M1 Max MacBook Pros were released (like [here](https://www.youtube.com/watch?v=APbYu5QxiXI) on general tests and also [here](https://www.youtube.com/watch?v=I10WMJV96ns) on more photo/video creators’ tasks). Recently I had the chance to try out my photo workflow on one.My focus was on how Adobe Lightroom works on one of those well-received (hyped?) MacBook Pros. 
 
 The computer I used is a MacBook Pro with M1 Max, 64GB of RAM, and 1 TB of SSD storage.
 I reflect on it in the context of my normal hobby photographer setup using an older Microsoft Surface Laptop with an Intel i5-7200U and 8GB, and an Apple iPad Pro with A12X chip.
