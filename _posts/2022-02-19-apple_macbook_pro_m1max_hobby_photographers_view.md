@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Apple MacBook Pro M1 Max (a hobby photographer's view)
+title:  Apple MacBook Pro M1 Max (a casual photographer's view)
 categories: [Casual Photography Setup]
-excerpt: Many tests and benchmarks have been done and published when the new M1 Pro and M1 Max MacBook Pros were released - here is a hobby photographers view
+excerpt: Many tests and benchmarks have been done and published when the new M1 Pro and M1 Max MacBook Pros were released - here is a casual photographers' view
 ---
 
 Many tests and benchmarks have been done and published when the new M1 Pro and M1 Max MacBook Pros were released (like [here](https://www.youtube.com/watch?v=APbYu5QxiXI) on general tests and also [here](https://www.youtube.com/watch?v=I10WMJV96ns) on more photo/video creators’ tasks). Recently I had the chance to try out my photo workflow on one.My focus was on how Adobe Lightroom works on one of those well-received (hyped?) MacBook Pros. 
@@ -10,7 +10,7 @@ Many tests and benchmarks have been done and published when the new M1 Pro and M
 ![MacBook Pro M1 Max](../images/20220219/macbook_pro_m1max.jpg)
 
 The computer I used is a MacBook Pro with M1 Max, 64GB of RAM, and 1 TB of SSD storage.
-I reflect on it in the context of my normal hobby photographer setup using an older Microsoft Surface Laptop with an Intel i5-7200U and 8GB, and an Apple iPad Pro with A12X chip.
+I reflect on it in the context of my [casual photographer](../leanest_highest_quality_casual_photography_setup) setup using an older Microsoft Surface Laptop with an Intel i5-7200U and 8GB, and an Apple iPad Pro with A12X chip.
 
 # General
 
@@ -26,7 +26,7 @@ Moreover, an outstanding feature is the computer’s efficiency and battery life
 
 As expected, the screen of the MacBook Pro is wonderful. Its resolution, its brightness and also the colour representation are superb in my point of view (literally).
 
-# Performance (+ a hobby photographer’s test)
+# Performance (+ a casual photographer’s test)
 
 A big promise of the M1 Pro/Max is its outstanding performance. I tried it using Adobe Lightroom in the latest versions as of February 2022. It is a great test setting, as Lightroom is a cross-platform solution that really shines in the integration of different device categories and operating systems. It already runs as native application on the M1 chip in the tested version.
 
@@ -37,7 +37,7 @@ All devices were restarted before running the test.
 
 ![RAW Samples for MacBook Pro M1 Max Benchmark Test with Sony A7C files](../images/20220219/lightroom_sony_a7c_raw_for_macbook_pro_m1max_test_benchmark.jpeg)
 
-Disclaimer: It is a hobby photographers test, results from tests  in a fully controlled environment might differ.
+Disclaimer: It is a casual photographers test, results from tests  in a fully controlled environment might differ.
 
 ## The test results
 
@@ -58,6 +58,6 @@ Is the MacBook Pro with M1 Max a great tool for photographers: __Yes!__ (Most pr
 Its screen, performance, and overall robustness makes it a perfect photographer’s companion. 
 
 Would I buy this MacBook Pro with M1 Max: __No!__ 
-The price of this computer is simply too high, looking at the requirements of a hobby photographer who is not dependent on the shortest export times, the quickest editing capabilities and most accurate colour representation on the laptop screen.
+The price of this computer is simply too high, looking at the requirements of a casual photographer who is not dependent on the shortest export times, the quickest editing capabilities and most accurate colour representation on the laptop screen.
 
 For me personally the 13” MacBook Pro with M1 is perhaps the sweet spot between capability and price.
