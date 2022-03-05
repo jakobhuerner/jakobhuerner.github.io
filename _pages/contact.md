@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact & Imprint
+title: Contact and Imprint
 permalink: /contact/
 ---
 
