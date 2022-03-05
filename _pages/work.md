@@ -4,7 +4,7 @@ title: Work
 permalink: /work/
 ---
 
-After my school and university education within technology and industrial engineering I started my career in an international group in the steel industry. While staying already 10 with the company, I had a wide variety of roles within industrial management, based at the group's Vienna headquarters and a production site in Sweden.
+After my school and university education within technology and industrial engineering I started my career in an international group in the steel industry. While already 10 with the company, I had a wide variety of roles within industrial management, based at the group's Vienna headquarters and a production site in Sweden.
 
 Over the years I developed an increasing interest in all things digital, both by taking on roles concerning digitalisation and by postgraduate education in Data Science.
 
