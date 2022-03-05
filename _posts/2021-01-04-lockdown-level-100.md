@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Lockdown Level 100
+title:  Lockdown level 100
 categories: [Photos] 
 excerpt: Rainy day during a long lockdown
 ---

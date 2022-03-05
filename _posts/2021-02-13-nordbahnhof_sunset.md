@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nordbahnhof Sunset
+title: Nordbahnhof sunset
 categories: [Photos, GraetzlImWandel]
 excerpt: Winter sunset over the Nordbahnhof
 ---

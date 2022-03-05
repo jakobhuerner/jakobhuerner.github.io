@@ -2,7 +2,7 @@
 layout: post
 title: Augarten 
 categories: [Photos]
-excerpt: On a Winter evening
+excerpt: On a winter evening
 ---
 
 Walk in Vienna's Augarten on a January evening.

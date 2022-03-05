@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  If you are Santa ... 
+title:  If you are santa ... 
 categories: [Photos,] 
 excerpt: ... don't let Covid spoil you ride to Vienna
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  December Morning at Prater 
+title:  December morning at Prater 
 categories: [Photos] 
 excerpt: December morning walk in one of Vienna's largest parks
 ---
