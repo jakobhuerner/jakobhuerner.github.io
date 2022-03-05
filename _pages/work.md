@@ -6,7 +6,7 @@ permalink: /work/
 
 After my school and university education within technology and industrial engineering I started my career in an international group in the steel industry. While already 10 years with the company, I had a wide variety of roles within industrial management, based at the group's Vienna headquarters and a production site in Sweden.
 
-Over the years I developed an increasing interest in all things digital, both by taking on roles concerning digitalisation and by postgraduate education in Data Science.
+Over the years I have developed an increasing interest in all things digital, both by taking on roles concerning digitalisation and by postgraduate education in Data Science.
 
 In the course of my career I helped shaping activities and programs that significantly increase efficiency and reduce the environmental footprint of the company group. I develop teams and programs within the global company network and establish completely new capability fields for the group. 
 
