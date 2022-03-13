@@ -3,6 +3,7 @@ layout: post
 title:  Apple MacBook Pro M1 Max (a casual photographer's view)
 categories: [Casual Photography Setup]
 excerpt: Many tests and benchmarks have been done and published when the new M1 Pro and M1 Max MacBook Pros were released - here is a casual photographers' view
+image: /images/20220219/macbook_pro_m1max.jpg
 ---
 
 Countless tests and benchmarks have been done and published when the new M1 Pro and M1 Max MacBook Pros were released (like [here](https://www.youtube.com/watch?v=APbYu5QxiXI) on general purposes and also [here](https://www.youtube.com/watch?v=I10WMJV96ns) on more photo/video creators’ tasks). Recently I had the chance to try out my photo workflow on one of those well-received (hyped?) MacBook Pros, too. 
