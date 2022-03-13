@@ -3,6 +3,7 @@ layout: post
 title: Historic map of Lunz am See
 categories: [Photos]
 excerpt: Historic map of my hometown Lunz am See
+image: /images/20220305/lunzamsee_map-2.jpg
 ---
 
 Here is a picture of a historic map of my hometown Lunz am See in Lower Austria.
