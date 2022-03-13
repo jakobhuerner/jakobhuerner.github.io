@@ -3,6 +3,7 @@ layout: post
 title: Spring is coming
 categories: [Photos, GraetzlImWandel]
 excerpt: Graetzl im Wandel - Spring is coming to Freie Mitte
+page.image: ../images/20220313/freie_mitte_spring-1.jpg
 ---
 
 Spring is coming to Vienna's Nordbahnhof (Freie Mitte).
