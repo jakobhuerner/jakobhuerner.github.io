@@ -3,7 +3,7 @@ layout: post
 title: Freie Mitte covered in Snow
 categories: [Photos, GraetzlImWandel]
 excerpt: Graetzl im Wandel - Nordbahnhofviertel during winter
-image: /images/20211209/freiemitte_snow-01.jpg
+image: /images/20211209/freiemitte_snow-09.jpg
 
 ---
 
