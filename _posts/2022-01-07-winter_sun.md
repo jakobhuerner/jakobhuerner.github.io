@@ -3,6 +3,7 @@ layout: post
 title: Winter Sun 
 categories: [Photos]
 excerpt: Walk along the Stadtpark in Vienna
+image: /images/20220107/wintersun-3.jpg
 ---
 
 A walk along Vienna's Stadtpark through the winter sun.

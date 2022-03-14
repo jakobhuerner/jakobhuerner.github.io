@@ -3,6 +3,7 @@ layout: post
 title:  Lainzer Tiergarten
 categories: [Photos] 
 excerpt: Walk at Lainzer Tiergarten in Vienna
+image: /images/20210105/lainzer-tiergarten-1.jpg
 ---
 Walk at Lainzer Tiergarten in Vienna.
 

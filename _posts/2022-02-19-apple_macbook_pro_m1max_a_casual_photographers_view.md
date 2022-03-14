@@ -62,6 +62,6 @@ Is the MacBook Pro with M1 Max a great tool for photographers: __Yes!__ (Most pr
 Its screen, performance, and overall robustness makes it a perfect photographer’s companion. 
 
 Would I buy this MacBook Pro with M1 Max: __No!__ 
-The price of this computer is simply too high, looking at the requirements of a casual photographer who is not dependent on the shortest export times, the quickest editing capabilities and most accurate colour representation on the laptop screen.
+The price of this computer is simply too high, looking at the requirements of a casual photographer who is not dependent on the shortest export times, the quickest editing capabilities and most accurate colour representation on the laptop screen. 
 
 For me personally the 13” MacBook Pro with M1 is perhaps the sweet spot between capabilities, performance and price.

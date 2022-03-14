@@ -3,6 +3,7 @@ layout: post
 title: Rainy Autumn
 categories: [Photos]
 excerpt: Everyone loves shiny autumn photos ...
+image: /images/20211023/rainy_autumn.jpg
 ---
 
 Everyone loves sunny and shiny autumn photos ... but have you seen how beautiful autumn can be on a rainy morning?

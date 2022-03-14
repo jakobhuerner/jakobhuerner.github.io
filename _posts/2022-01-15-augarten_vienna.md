@@ -3,6 +3,7 @@ layout: post
 title: Augarten 
 categories: [Photos]
 excerpt: On a winter evening
+image: /images/20220115/wintersun-5.jpg
 ---
 
 Walk in Vienna's Augarten on a January evening.

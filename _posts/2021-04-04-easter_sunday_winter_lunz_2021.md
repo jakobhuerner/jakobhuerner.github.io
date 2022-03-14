@@ -3,6 +3,7 @@ layout: post
 title: Easter Sunday in Lunz (it's cold!)
 categories: [Photos]
 excerpt: Pictures from the winter Easter Sunday in Lunz am See
+image: /images/20210404/ostersonntag-lunz-1.jpg
 ---
 On this year's Ester Sunday, winter had another revival.
 

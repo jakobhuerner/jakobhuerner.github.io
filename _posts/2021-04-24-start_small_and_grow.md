@@ -3,6 +3,7 @@ layout: post
 title: Start small and grow
 categories: [Photos]
 excerpt: A forrest tree's tale 
+image: /images/20210424/tree-1.jpg
 ---
 
 *Start small and grow* is a principle that is true for most things in life.

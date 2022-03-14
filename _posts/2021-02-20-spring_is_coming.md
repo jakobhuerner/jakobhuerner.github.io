@@ -3,6 +3,7 @@ layout: post
 title: Spring is coming
 categories: [Photos]
 excerpt: Some impressions from a walk in Lunz am See
+image: /images/20210220/lunzamsee-1.jpg
 ---
 
 Winter slowly leaves Lunz am See for this season, as we found in today's walk around the lake.

@@ -3,6 +3,7 @@ layout: post
 title: Nordbahnhof construction
 categories: [Photos, GraetzlImWandel]
 excerpt: Graetzl im Wandel - Nordbahnhofviertel in Vienna
+image: /images/20210709/nordbahnhof_construction-01.jpg
 ---
 
 Just five months ago, this area looked [quite differently](https://jakobhuerner.github.io/wasserturm_freie-mitte/). 

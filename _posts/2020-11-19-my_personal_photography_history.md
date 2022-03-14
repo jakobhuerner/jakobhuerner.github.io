@@ -3,6 +3,7 @@ layout: post
 title:  My personal photography history
 categories: [Casual Photography Setup, ]
 excerpt: A look back at almost 20 years of digital photography, photo equipment and photo sharing
+image: /images/20201119/PICT0007.JPG
 ---
 
 My personal history of digital photography and photo sharing started almost 20 years ago (this even suprised me when I started thinking about it). I started photography with mainly a technology interest in the beginning, and this is up to this day a motivating factor for me. I like tech and modern equipment, the "artistic" side of photography developed over time. So my look back in this post is also based on the equipment side in the beginning.

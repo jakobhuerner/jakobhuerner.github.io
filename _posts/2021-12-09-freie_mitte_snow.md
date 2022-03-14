@@ -4,7 +4,6 @@ title: Freie Mitte covered in Snow
 categories: [Photos, GraetzlImWandel]
 excerpt: Graetzl im Wandel - Nordbahnhofviertel during winter
 image: /images/20211209/freiemitte_snow-09.jpg
-
 ---
 
 Early December 2021, the "Freie Mitte" at Vienna's Nordbahnhof covered in snow.

@@ -3,6 +3,7 @@ layout: post
 title:  Lockdown level 100
 categories: [Photos] 
 excerpt: Rainy day during a long lockdown
+image: /images/20210104/coffee_1.jpg
 ---
 Unlocked lockdown level 100 during a rainy day in Corona lockdown in Vienna.
 

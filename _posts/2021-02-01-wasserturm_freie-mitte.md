@@ -3,6 +3,7 @@ layout: post
 title: Wasserturm Nordbahnhof
 categories: [Photos, GraetzlImWandel]
 excerpt: Graetzl im Wandel - Nordbahnhofviertel in Vienna in constant change
+image: /images/20210201/wasserturm-01.jpg
 ---
 
 Some images of the construction around the historic water tower, the landmark which will be the center of the "Freie Mitte", a large new park of 10 hectares. 

@@ -3,6 +3,7 @@ layout: post
 title: Evening Walk
 categories: [Photos]
 excerpt: Pictures of an evening walk along the Danube in Vienna
+image: /images/20210321/vienna-1.jpg
 ---
 Getting some fresh air after a homeoffice day.
 

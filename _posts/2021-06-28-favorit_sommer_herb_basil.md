@@ -3,6 +3,7 @@ layout: post
 title: Favorit summer herb
 categories: [Photos]
 excerpt: What does summer taste like?
+image: /images/20210628/basil.jpg
 ---
 
 What does summer taste like?

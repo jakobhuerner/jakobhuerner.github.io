@@ -3,6 +3,7 @@ layout: post
 title: Spring time in Vienna
 categories: [Photos]
 excerpt: Look at those colours!
+image: /images/20210417/wild_garlic-1.jpg
 ---
 
 You know it's spring time at Prater Vienna when the forest soil is covered with a carpet of fresh green colour from wild garlic.

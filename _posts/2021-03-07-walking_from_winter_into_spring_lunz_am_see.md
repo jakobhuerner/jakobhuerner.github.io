@@ -3,6 +3,7 @@ layout: post
 title: Walking from winter into spring
 categories: [Photos]
 excerpt: Small hike in Lunz am See
+image: /images/20210307/rehberg-01.jpg
 ---
 
 A small hike in Lunz am See, which started in winter and ended in spring (sort of).

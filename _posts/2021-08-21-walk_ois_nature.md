@@ -3,6 +3,7 @@ layout: post
 title: River walk
 categories: [Photos]
 excerpt: Walk along the Ois river in Lunz am See
+image: /images/20210821/ois-1.jpg
 ---
 
 Walking along the Ois river in Lunz am See and appreciating the beauty of nature. It's wonderful.

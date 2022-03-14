@@ -2,7 +2,8 @@
 layout: post
 title:  Decay and renewal
 categories: [General]
-excerpt: Something new is on the horizon
+excerpt: Something new is on the horizon 
+image: /images/something_new.jpg 
 ---
 
 It's the way of life.

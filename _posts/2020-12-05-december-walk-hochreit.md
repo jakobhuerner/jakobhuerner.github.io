@@ -3,6 +3,7 @@ layout: post
 title:  December walk at Leckermoor
 categories: [Photos] 
 excerpt: Picture from a snow-less December walk at "Leckermoor" Hochreit
+image: /images/20201205/20201205-1.jpg
 ---
 
 [![Hochmoor Hochreit 1](../images/20201205/20201205-1.jpg)](../images/20201205/20201205-1.jpg)

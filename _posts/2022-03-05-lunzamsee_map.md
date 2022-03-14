@@ -12,7 +12,7 @@ What's special about that? It was painted by my great-grandfather a long time ag
 
 Since I can remember, it is placed on a house wall in my hometown, and I always wanted to digitalise it and with that "preserve" it from further degradation.
 
-Done! Here you can find the original in high resolution: [Lunz am See Map](../images/20220305/lunzamsee_map_fullsize.zip) (20 MB)
+Done! Here you can find the original in high resolution: [Lunz am See Map](../images/20220305/lunzamsee_map_fullsize.zip) (approx. 20 MB)
 
 ![Lunz am See - Historic map](../images/20220305/lunzamsee_map-1.jpg)
 

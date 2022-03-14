@@ -3,6 +3,7 @@ layout: post
 title: Spring mood
 categories: [Photos]
 excerpt: Creating some indoor spring mood
+image: /images/20210313/spring.jpg
 ---
 Creating some indoor spring mood
 

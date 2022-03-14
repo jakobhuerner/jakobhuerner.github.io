@@ -3,6 +3,8 @@ layout: post
 title:  Christmas in Vienna 
 categories: [Photos] 
 excerpt: Christmas in Vienna is almost the same as always, but different this time
+image: /images/20201220/vienna_christmas_2020-1.jpg
+
 ---
 The Christmas season in Vienna is beautiful, some even say magical. Both Vienna residents and tourists enjoy the weeks before Christmas for strolling through the city, having Glühwein and do some Christmas shopping. Normally.
 This year, the decorated city looks almost the same as a year ago, but feels totally different. 

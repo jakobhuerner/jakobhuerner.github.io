@@ -3,6 +3,7 @@ layout: post
 title:  Lightroom trick for super-quick RAW-to-JPEG conversion
 categories: [Casual Photography Setup]
 excerpt: How to export a bulk of JPEGs from RAWs in seconds
+image: /images/20210403/lightroom-share-1.png
 ---
 
 For [my kind of photography](../leanest_highest_quality_casual_photography_setup/), taking RAW files and managing & editing them with Adobe Lightroom on my computer and mobile devices is a perfect choice. 

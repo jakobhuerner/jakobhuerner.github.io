@@ -3,6 +3,7 @@ layout: post
 title: Risotto
 categories: [Photos]
 excerpt: Simple but delicious (I mean photogenic)
+image: /images/20210530/asparagus_risotto_1.jpg
 ---
 
 Simple but delicious (I mean photogenic)

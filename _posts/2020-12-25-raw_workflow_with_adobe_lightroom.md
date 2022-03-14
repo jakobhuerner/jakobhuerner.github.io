@@ -3,6 +3,8 @@ layout: post
 title:  A lean, convenient, and frictionless RAW workflow with Adobe Lightroom
 categories: [Casual Photography Setup,] 
 excerpt: Discussion of requirements, pros and cons and a practical solution for a RAW workflow with Adobe Lightroom
+image: /images/20201225/adobe-lightroom-on-ipad-pro.gif
+
 ---
 As [described before](https://jakobhuerner.github.io/leanest_highest_quality_casual_photography_setup/), I was looking for a digital photography workflow, that yields highest quality photos and at the same time does not create a huge manual workload and complexity in the process.
 

@@ -3,6 +3,7 @@ layout: post
 title: Quiet summer joys
 categories: [Photos]
 excerpt: If think about summer in Lunz am See, I think about ...
+image: /images/20210724/summer_lunz-1.jpg
 ---
 
 If think about summer in Lunz am See, I think about walks through the cool forest and along the river.

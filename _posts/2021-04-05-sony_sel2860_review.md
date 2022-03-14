@@ -4,6 +4,7 @@ title:  Sony FE 4-5.6/28-60mm
  - My experiences
 categories: [Casual Photography Setup,]
 excerpt: My impressions of the Sony FE 4-5.6/28-60mm, which for me is a great choice for the smallest possible package
+image: /images/20210405/SEL2860.jpg
 ---
 
 When I bought the Sony A7C, it was meant for a [lean and high-quality photography setup](../leanest_highest_quality_casual_photography_setup/).

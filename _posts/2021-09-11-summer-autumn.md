@@ -3,6 +3,7 @@ layout: post
 title: Last days of summer
 categories: [Photos]
 excerpt: Sunny September days in Vienna
+image: /images/20210911/late-summer1.jpg
 ---
 
 Sunny September days in Vienna with clear signs of autumn.
