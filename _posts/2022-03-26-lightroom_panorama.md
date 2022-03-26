@@ -16,7 +16,7 @@ With the Panorama feature in Lightroom you can merge multiple pictures into one 
 
 You start with a series of photos in one or multiple rows that "scan" the final frame. By using some overlap between the images, Lightroom is able to detect how to merge them into one final image.
 
-![Adobe Lightroom Panorama Merge](../images/20220327/lightroom_pano-2.png)
+![Adobe Lightroom Panorama Merge](../images/20220326/lightroom_pano-2.png)
 
 The whole process is almost fully automatic and therefore very convenient. The resulting file is a .dng that you can further process using the RAW information of the source images.
 
@@ -27,11 +27,11 @@ I did a simple test of the feature, taking a panoramic photo of the Reichsbrück
 
 I took 46 picture with the Sony A7C and the FE 1.8/85mm that were then merged in Lightroom. The pictures were taken hand-held without special consideration of how to pan over the frame - concerning the distance to the subjects this should also not be a big issue.
 
-![Adobe Lightroom Panorama Merge](../images/20220327/lightroom_pano-1.png)
+![Adobe Lightroom Panorama Merge](../images/20220326/lightroom_pano-1.png)
 
 The resulting .dng image has approx. 175 megapixels and a file size of 650 MB. Here shown is a version with reduced file size.
 
-![Adobe Lightroom Panorama Merge](../images/20220327/lightroom_pano.jpg)
+![Adobe Lightroom Panorama Merge](../images/20220326/lightroom_pano.jpg)
 
 # Recommendations
 
