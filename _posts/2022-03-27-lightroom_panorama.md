@@ -21,7 +21,7 @@ You start with a series of photos in one or multiple rows that "scan" the final 
 The whole process is almost fully automatic and therefore very convenient. The resulting file is a .dng that you can further process using the RAW information of the source images.
 
 
-#Example
+# Example
 
 I did a simple test of the feature, taking a panoramic photo of the Reichsbrücke and Franz-von-Assisi church in Vienna's second district.
 
@@ -29,11 +29,11 @@ I took 46 picture with the Sony A7C and the FE 1.8/85mm that were then merged in
 
 ![Adobe Lightroom Panorama Merge](../images/20220327/lightroom_pano-1.png)
 
-The resulting .png image has approx. 175 megapixels and a file size 650 MB. Here shown is a version with reduced file size.
+The resulting .dng image has approx. 175 megapixels and a file size 650 MB. Here shown is a version with reduced file size.
 
 ![Adobe Lightroom Panorama Merge](../images/20220327/lightroom_pano.jpg)
 
-#Recommendations
+# Recommendations
 
 Defining factor for the quality of the final panorama is of course the quality of the source images.
 
