@@ -29,7 +29,7 @@ I took 46 picture with the Sony A7C and the FE 1.8/85mm that were then merged in
 
 ![Adobe Lightroom Panorama Merge](../images/20220327/lightroom_pano-1.png)
 
-The resulting .dng image has approx. 175 megapixels and a file size 650 MB. Here shown is a version with reduced file size.
+The resulting .dng image has approx. 175 megapixels and a file size of 650 MB. Here shown is a version with reduced file size.
 
 ![Adobe Lightroom Panorama Merge](../images/20220327/lightroom_pano.jpg)
 
