@@ -6,7 +6,7 @@ excerpt: Discussion of requirements, pros and cons and a practical solution for 
 image: /images/20201225/adobe-lightroom-on-ipad-pro.gif
 
 ---
-As [described before](https://jakobhuerner.github.io/leanest_highest_quality_casual_photography_setup/), I was looking for a digital photography workflow, that yields highest quality photos and at the same time does not create a huge manual workload and complexity in the process.
+As [described before](../leanest_highest_quality_casual_photography_setup/), I was looking for a digital photography workflow, that yields highest quality photos and at the same time does not create a huge manual workload and complexity in the process.
 
 Major Requirements
 * Highest image quality, utilising the full potential of the used camera and its RAWs - my goal of photo processing is to make the final images look like I remember the scene (I don’t do artistic/“over-photoshopped” photos)
@@ -47,4 +47,4 @@ The described setup works really well for a casual photographer like me. While i
 
 ## Conclusion
 
-Overall, for me personally the pros outweigh the cons by far. In my attempt to get the [“leanest & highest quality casual photography setup”](https://jakobhuerner.github.io/leanest_highest_quality_casual_photography_setup/) the element Adobe Lightroom blends into the setup perfectly and makes all further steps lean, convenient, and frictionless once the pictures are on the camera’s memory card.
+Overall, for me personally the pros outweigh the cons by far. In my attempt to get the [“leanest & highest quality casual photography setup”](../leanest_highest_quality_casual_photography_setup/) the element Adobe Lightroom blends into the setup perfectly and makes all further steps lean, convenient, and frictionless once the pictures are on the camera’s memory card.
