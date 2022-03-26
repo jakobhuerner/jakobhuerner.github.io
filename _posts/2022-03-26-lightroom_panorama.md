@@ -6,7 +6,7 @@ excerpt: Using the built-in panorama image feature of Lightroom, plus some recom
 image: /images/20220327/lightroom_pano-2.png
 ---
 
-I have written [before]() about how Adobe Lightroom serves as a great RAW workflow solution for the - in my opinion - [“leanest & highest quality casual photography setup”](../leanest_highest_quality_casual_photography_setup/).
+I have written [before](../raw_workflow_with_adobe_lightroom/) about how Adobe Lightroom serves as a great RAW workflow solution for the - in my opinion - [“leanest & highest quality casual photography setup”](../leanest_highest_quality_casual_photography_setup/).
 
 Today I want to elaborate on one of its sophisticated and at the same time simple feature - the built-in panorama functionality. 
 
