@@ -10,7 +10,7 @@ I have written [before](../raw_workflow_with_adobe_lightroom/) about how Adobe L
 
 Today I want to elaborate on one of its sophisticated and at the same time simple feature: the built-in panorama functionality. 
 
-# How it works
+## How it works
 
 With the panorama feature in Adobe Lightroom you can merge multiple pictures into one high-res panoramic image.
 
@@ -20,8 +20,7 @@ You start with a series of photos in one or multiple rows that "scan" the final 
 
 The whole process is almost fully automatic and therefore very convenient. The resulting file is a .dng that you can further process using the RAW information of the source images.
 
-
-# Example
+## Example
 
 I did a simple test of the feature, taking a panoramic photo of the Reichsbrücke and Franz-von-Assisi church in Vienna's second district.
 
@@ -33,7 +32,7 @@ The resulting .dng image merged by Adobe Lightroom has approx. 175 megapixels an
 
 ![Adobe Lightroom Panorama Merge](../images/20220326/lightroom_pano.jpg)
 
-# Recommendations
+## Recommendations
 
 Defining factor for the quality of the final panorama is of course the quality of the source images.
 
