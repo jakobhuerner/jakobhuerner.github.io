@@ -15,7 +15,11 @@ _Fun-Fact_: Maybe this tech-driven approach is also the reason why I was never i
 This day one was in summer 2001, when I got my first digital camera, the Sony DSC-P1. I was 13 years old back then, and I guess my marks in school must have been quite decent to justify that present. I was actually one of the first people in my hometown who had a digital camera. This was a totally novel thing back then, unbelievable today.
 
 The [DSC-P1](https://www.dpreview.com/reviews/sonydscp1) was already a quite nice and usable camera. It featured a 3 MPx sensor and a 3x zoom lens and saved images on a 8 MB flash drive, which I later replaced with a 64 MB one.
-The first photo with the camera I deleted obviously, but here's the file called "DSC00002.JPG" 
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YrdZUIsUBF0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+A review of the DSC-P1 from 2022 perspective.
+
+My first photo with the camera I deleted obviously, but here's the file called "DSC00002.JPG" 
 
 ![DSC00002.JPG](../images/20201119/DSC00002.JPG)
 
