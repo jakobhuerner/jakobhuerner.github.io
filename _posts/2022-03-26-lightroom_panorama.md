@@ -43,4 +43,4 @@ Here some tips and tricks:
 - If you create a handheld panorama, consider some safety margin for exposure time, so you do not get motion blur when panning across the frame. In my example I used 1/320s for my shots with the 1.8/85mm lens.
 - Handheld panoramas work fine if there is sufficient distance between the subject and the camera. If you want to take panoramas of closer subjects, the geometry and how to move the camera using a tripod and special adjustment plates is not trivial. 
 
-In general I found that the Adobe Lightroom panorama functionality works very well for me. I really appreciate having this feature build into Lightroom directly, keeping everyhing neatly in the workflow and synched across devices etc.
+In general I found that the Adobe Lightroom panorama functionality works very well for me. I really appreciate having this feature built into Lightroom directly, keeping everything neatly in the workflow and synced across devices etc.
