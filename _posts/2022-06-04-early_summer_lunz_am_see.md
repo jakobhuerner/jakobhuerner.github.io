@@ -2,7 +2,7 @@
 layout: post
 title: Early Summer in Lunz am See
 categories: [Photos]
-excerpt: Graetzl im Wandel - Spring is here at Freie Mitte
+excerpt: Summer is coming to Lunzer See
 image: /images/20220604/lunzer_see_early_summer-2.jpg
 ---
 
