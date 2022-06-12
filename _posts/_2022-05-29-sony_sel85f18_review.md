@@ -6,34 +6,36 @@ excerpt: My impressions of the Sony FE 1.8/85mm, great lens for people and natur
 image: /images/20220529/SEL85F18.jpg
 ---
 
-The following lines reflect my impressions on the Sony FE 1.8/35mm, which I use in combination with the Sony A7C.
-As [written before](../leanest_highest_quality_casual_photography_setup/), I would describe my kind of photography not as ultra-ambitious, but as __casual__ paired with a high expectation to image quality. 
+After writing about the [Sony FE 1.8/35mm](../sony_sel35f18f_review) and the [Sony FE 4-5.6/28-60mm ](../sony_sel2860_review), I want to conclude the review series of the lenses I use (as of 2022) with the Sony A7C with this review of the Sony FE 1.8/85mm.
+How to read it: [As written before](../leanest_highest_quality_casual_photography_setup/), I am valueing a lean and high-quality setup, spporting a __casual__ photography style. 
 
-Coming from this direction it means for me, that I need a lens for everyday use which is both portable enough not to be a burden and optically excellent. I have found this for the Sony A7C full-frame camera with the Sony FE 1.8/35mm.
+The Sony FE 1.8/85mm is a great choice for this as part of the mentioned setup with the Sony A7C full-frame camera.
 
 ![The Sony FE 1.8/85mm](../images/20220529/sony_SEL85F18.jpg)
 
 ## Plus and minus
 
 What I like:
-- Autofocus: the AF is very fast, silent and accurate, it can keep up with tracking the moves of a three-year-old with ease.
-- Build quality: the look and feel is very solid, Sony also promises basic water-resistance.
+- Autofocus: the AF is very fast, silent and accurate, it can keep up with tracking the moves of a toddler with ease.
+- Build quality: the look and feel is very solid for its class, Sony also promises basic water-resistance.
 - Sharpness: The lens is very sharp, starting at F1.8 and even improving with stopping down to f2.8. 
 
 What I do not like:
-- Minimum focus distance: with a minimum focus distance of 0,8m you often reach the closest limit. (For [close ups](../spring_blossoms/)  I use simple extension tubes - these make the lens a nice and cost-effective macro option.)
+- Minimum focus distance: with a minimum focus distance of 0,8m you often reach the proximity limit. (For [close ups](../spring_blossoms/) I use simple extension tubes - these make the lens a nice and cost-effective macro option.)
 - Vignetting: the edges of the frame are notably darker at F1.8, which is however easily controllable with automated lens corrections in Lightroom.
-- CA: especially wide open there are purple fringes at high-contrast edges.
+- CA: you'll find some  purple fringes at high-contrast edges when using this lense at fast apertures.
 
 ## My conclusion
 
-I am impressed by this lens. If I compare it to similar mid-range lenses that I used for years on my Canons, this lens plays in another league. I am personally very much into sharpness as central optical quality, and I was used to stopping down fast lenses at least one full aperture stop for good sharpness. Not this one, concerning sharpness at all apertures this lens scores 10/10 for me.
+....
+To use the benefits of full-frame for family and .., you need a fast portrait lens as the Sony FE 1.8/85mm.
+Not this one, concerning sharpness at all apertures this lens scores 10/10 for me.
 
-Overall, the 1.8/35mm on the A7C delivers the perfect all-rounder package for me, with portability and excellent image quality at a handy focal length for everyday use.
+Overall, ...
 
 ## Samples
 
-Below you‘ll find some samples with the Sony FE 1.8/35mm on the Sony A7C. I applied my normal processing using Adobe Lightroom and developed the RAWs according to my taste.
+How the Sony FE 1.8/85mm performs on the Sony A7C you will see on the images below. As always, I applied my normal processing using Adobe Lightroom and developed the RAWs according to my taste.
 Click to access the full-sized image.
 
 
