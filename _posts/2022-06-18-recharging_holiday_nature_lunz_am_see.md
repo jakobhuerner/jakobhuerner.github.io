@@ -6,7 +6,7 @@ excerpt: The best way to spend an extended weekend - in nature
 image: /images/20220618/lunz_summer-4.jpg
 ---
 
-The best way to spend an extended weekend: In nature. To use the time to recharge for the daily city business life.
+The best way to spend an extended weekend: In nature. To recharge for the daily city business life.
  
 
 ![Lunz am See](../images/20220618/lunz_summer-1.jpg)
