@@ -3,7 +3,7 @@ layout: post
 title:  Sony FE 1.8/85mm - My experiences
 categories: [Casual Photography Setup,]
 excerpt: My impressions of the Sony FE 1.8/85mm, great lens for people and nature including macro
-image: /images/20220723/SEL85F18.jpg
+image: /images/20220723/sony_SEL85F18.jpg
 ---
 
 After writing about the [Sony FE 1.8/35mm](../sony_sel35f18f_review) and the [Sony FE 4-5.6/28-60mm ](../sony_sel2860_review), I want to conclude the review series of the lenses I use (as of 2022) with the Sony A7C: The final one is the Sony FE 1.8/85mm.
