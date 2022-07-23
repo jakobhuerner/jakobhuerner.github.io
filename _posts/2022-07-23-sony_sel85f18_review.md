@@ -9,9 +9,9 @@ image: /images/20220723/SEL85F18.jpg
 After writing about the [Sony FE 1.8/35mm](../sony_sel35f18f_review) and the [Sony FE 4-5.6/28-60mm ](../sony_sel2860_review), I want to conclude the review series of the lenses I use (as of 2022) with the Sony A7C: The final one is the Sony FE 1.8/85mm.
 How to read it: [As written before](../leanest_highest_quality_casual_photography_setup/), I am valueing a lean and high-quality setup that supports a __casual__ photography style. 
 
-The Sony FE 1.8/85mm is a great choice for this requirement, as part of the mentioned lens setup with the Sony A7C full-frame camera.
-
 ![The Sony FE 1.8/85mm](../images/20220723/sony_SEL85F18.jpg)
+
+The Sony FE 1.8/85mm is a great choice for this requirement, as part of the mentioned lens setup with the Sony A7C full-frame camera.
 
 ## Plus and minus
 
@@ -28,7 +28,7 @@ What I do not like:
 
 ## My conclusion
 
-I use and like this lens more than I thought before the purchase.
+I use and like this lens more than I thought before I purchased it.
 To utilise the benefits of a full-frame camera body for family and people photography, you need a fast ~85mm lens. The Sony FE 1.8/85mm is a perfect choice as the optical and build qualities are almost without flaws, while being reasonably small and light.
 When using it for family, but also for nature & macro purposes, it is really versatile and therefor the perfect match in my [lean and high-quality photography setup](../leanest_highest_quality_casual_photography_setup/).
 
