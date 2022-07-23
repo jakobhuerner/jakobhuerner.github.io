@@ -38,18 +38,10 @@ How the Sony FE 1.8/85mm performs on the Sony A7C you will see on the images bel
 Click to access the full-sized image.
 
 
-[![SEL85F18](../images/20220723/SEL85F18_thumb-1.jpg)](https://raw.githubusercontent.com/jakobhuerner/jakobhuerner.github.io/master/images/20220723/SEL85F18-1.jpg)
-[![SEL85F18](../images/20220723/SEL85F18_thumb-2.jpg)](https://raw.githubusercontent.com/jakobhuerner/jakobhuerner.github.io/master/images/20220723/SEL85F18-2.jpg)
-
-[![SEL85F18](../images/20220723/SEL85F18_thumb-3.jpg)](https://raw.githubusercontent.com/jakobhuerner/jakobhuerner.github.io/master/images/20220723/SEL85F18-3.jpg)
-[![SEL85F18](../images/20220723/SEL85F18_thumb-4.jpg)](https://raw.githubusercontent.com/jakobhuerner/jakobhuerner.github.io/master/images/20220723/SEL85F18-4.jpg)
+[![SEL85F18](../images/20220723/SEL85F18_thumb-1.jpg)](https://raw.githubusercontent.com/jakobhuerner/jakobhuerner.github.io/master/images/20220723/SEL85F18-1.jpg) [![SEL85F18](../images/20220723/SEL85F18_thumb-3.jpg)](https://raw.githubusercontent.com/jakobhuerner/jakobhuerner.github.io/master/images/20220723/SEL85F18-3.jpg)
 
 
-[![SEL85F18](../images/20220723/SEL85F18_thumb-5.jpg)](https://raw.githubusercontent.com/jakobhuerner/jakobhuerner.github.io/master/images/20220723/SEL85F18-5.jpg)
-[![SEL85F18](../images/20220723/SEL85F18_thumb-7.jpg)](https://raw.githubusercontent.com/jakobhuerner/jakobhuerner.github.io/master/images/20220723/SEL85F18-7.jpg)
+[![SEL85F18](../images/20220723/SEL85F18_thumb-5.jpg)](https://raw.githubusercontent.com/jakobhuerner/jakobhuerner.github.io/master/images/20220723/SEL85F18-5.jpg) [![SEL85F18](../images/20220723/SEL85F18_thumb-7.jpg)](https://raw.githubusercontent.com/jakobhuerner/jakobhuerner.github.io/master/images/20220723/SEL85F18-7.jpg)
 
-[![SEL85F18](../images/20220723/SEL85F18_thumb-6.jpg)](https://raw.githubusercontent.com/jakobhuerner/jakobhuerner.github.io/master/images/20220723/SEL85F18-6.jpg)
-[![SEL85F18](../images/20220723/SEL85F18_thumb-8.jpg)](https://raw.githubusercontent.com/jakobhuerner/jakobhuerner.github.io/master/images/20220723/SEL85F18-8.jpg)
 
-[![SEL85F18](../images/20220723/SEL85F18_thumb-9.jpg)](https://raw.githubusercontent.com/jakobhuerner/jakobhuerner.github.io/master/images/20220723/SEL85F18-9.jpg)
-[![SEL85F18](../images/20220723/SEL85F18_thumb-10.jpg)](https://raw.githubusercontent.com/jakobhuerner/jakobhuerner.github.io/master/images/20220723/SEL85F18-10.jpg)
+[![SEL85F18](../images/20220723/SEL85F18_thumb-8.jpg)](https://raw.githubusercontent.com/jakobhuerner/jakobhuerner.github.io/master/images/20220723/SEL85F18-8.jpg) [![SEL85F18](../images/20220723/SEL85F18_thumb-9.jpg)](https://raw.githubusercontent.com/jakobhuerner/jakobhuerner.github.io/master/images/20220723/SEL85F18-9.jpg)
