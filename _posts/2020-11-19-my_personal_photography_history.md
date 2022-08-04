@@ -6,7 +6,7 @@ excerpt: A look back at almost 20 years of digital photography, photo equipment 
 image: /images/20201119/motorola_milestone.jpg
 ---
 
-My personal history of digital photography and photo sharing started almost 20 years ago (this even suprised me when I started thinking about it). I started photography with mainly a technology interest in the beginning, and this is up to this day a motivating factor for me. I like tech and modern equipment, the "artistic" side of photography developed over time. So my look back in this post is also based on the equipment side in the beginning.
+My personal history of digital photography and photo sharing started almost 20 years ago (this even suprised me when I started thinking about it). I started photography mainly with a technology interest in the beginning, and this is up to this day a motivating factor for me. I like tech and modern equipment, the "artistic" side of photography developed over time. So my look back in this post is also based on the equipment side in the beginning.
 
 _Fun-Fact_: Maybe this tech-driven approach is also the reason why I was never interested in analogue photography. In fact, I never really used an analogue camera and film. My entry into photography was digital from day one.
 
@@ -27,7 +27,7 @@ My first photo with the camera I deleted obviously, but here's the file called "
 
 ### 2003
 
-Within two years later my interest in photography grow that I wanted to get more serious about camera equipment. In this time the [Minolta DiMAGE 7i](https://www.dpreview.com/reviews/minoltadimage7i) was a hot and still affordable camera for enthusiast hobbyists. Better image quality, a nice 28-200 equiv. lens and a cool look made me spend my saved money on this new camera. I think, this was the actual step into more ambitious photography for me. Image results with this camera were quite decent. The big weakpoint were the batteries; a set of 4 AA NiMH batteries was good for 50 pictures or so. Meaning, you were always better off having 12, or in winter conditions preferrably 15 batteries in your bag.
+Within two years my interest in photography grew so that I wanted to get more serious about camera equipment. At this time the [Minolta DiMAGE 7i](https://www.dpreview.com/reviews/minoltadimage7i) was a hot and still affordable camera for enthusiast hobbyists. Better image quality, a nice 28-200 equiv. lens and a cool look made me spend my saved money on this new camera. I think this was the actual step into more ambitious photography for me. Image results with this camera were quite decent. The big weakpoint were the batteries; a set of 4 AA NiMH batteries was good for 50 pictures or so. Meaning, you were always better off having 12, or in winter conditions preferrably 16 batteries in your bag.
 
 ![PICT0007.JPG](../images/20201119/PICT0007.JPG)
 
@@ -38,7 +38,8 @@ I still remember how my first website looked, unfortunately I have not archived 
 ### 2004
 
 My big wish at this time was a DSLR camera, which was not reachable for me due to the price of such an equipment back then. However, in 2003 things came together: Canon released a stripped-down amateur version of their semiprofessional DSLR model; I earned some (little) money with photography already and had found someone who wanted to purchase my Minolta. That was the perfect opportunity to step up the ladder and go for a DSLR, the [Canon EOS 300D](https://www.dpreview.com/reviews/canoneos300d).
-Quite quickly it became clear that the key ingredient for a good photography setup are the lenses.
+
+The 300D plus its kit lens was a really nice tool. However, quite quickly it became clear that the key ingredient for a good photography setup are the lenses. The investment planning continued. ;-)
 
 ### 2005
 
