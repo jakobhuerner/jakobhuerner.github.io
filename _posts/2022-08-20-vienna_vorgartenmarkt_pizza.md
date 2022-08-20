@@ -6,7 +6,7 @@ excerpt: Pizza at Vienna's Vorgartenmarkt
 image: /images/20220820/vienna_vorgartenmarkt_pizza.jpg
 ---
 
-Like a holiday in Italy for lunch - Pizza at Vienna's Vorgartenmarkt.
+It's a little bit like holiday in Italy for lunch - Pizza at Vienna's Vorgartenmarkt.
 
 
 ![Pizza Vienna Vorgartenmarkt](../images/20220820/vienna_vorgartenmarkt_pizza.jpg)
