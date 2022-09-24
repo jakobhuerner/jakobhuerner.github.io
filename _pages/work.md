@@ -24,7 +24,7 @@ I am writing about various aspects of my work, new work and career in my [profes
 
 It not only helps me reflect on my challenges and my professional development. I also want to share my experiences so that others can benefit from it. 
 
-### List of posts (🔗 LinkedIn)
+### List of posts (external links)
 
 *   [My professional journey from mechanical engineering to management of digitalisation and data science programs](https://www.linkedin.com/pulse/my-professional-journey-from-mechanical-engineering-data-jakob-h%C3%BCrner/)
 *   [3 competences I could carry over from mechanical engineering to digitalisation and data science](https://www.linkedin.com/pulse/3-competences-i-could-carry-over-from-mechanical-data-jakob-h%C3%BCrner/)
