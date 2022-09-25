@@ -37,4 +37,5 @@ It not only helps me reflect on my challenges and my professional development. I
 *   [Using modern ways to communicate novel and complex topics in a corporate environment](https://www.linkedin.com/pulse/using-modern-ways-communicate-novel-complex-topics-corporate-h%C3%BCrner)
 *   [What I have learnt about career and health & fitness](https://www.linkedin.com/pulse/what-i-have-learnt-career-health-fitness-jakob-h%2525C3%2525BCrner)
 *   [3 of my learnings for most relaxing holidays](https://www.linkedin.com/pulse/3-my-learnings-most-relaxing-holidays-jakob-h%25C3%25BCrner)
+*   [Facilitate learning and free up your mind by consistently maintaining personal notes]([https://www.linkedin.com/pulse/3-my-learnings-most-relaxing-holidays-jakob-h%25C3%25BCrner](https://www.linkedin.com/pulse/facilitate-learning-free-up-your-mind-consistently-personal-h%25C3%25BCrner))
 *   (continuously updated, approx. 1 post per month)
