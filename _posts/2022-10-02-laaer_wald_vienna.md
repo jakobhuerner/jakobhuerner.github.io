@@ -2,11 +2,11 @@
 layout: post
 title: Autumn leaves at Laaer Wald
 categories: [Photos]
-excerpt: Laaer Wald in Vienna - Worth a visit in Autumn
+excerpt: Laaer Wald in Vienna - Worth a visit in autumn
 image: /images/20221002/laaer_wald-3.jpg
 ---
 
-The "Laaer Wald" forest in Vienna is especially beautiful during autumn when the leaves change their colour.
+The "Laaer Wald" forest in Vienna is especially beautiful during autumn when the leaves change their colours.
  
 
 ![Laaer Wald - Vienna](../images/20221002/laaer_wald-1.jpg)
