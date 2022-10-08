@@ -24,7 +24,7 @@ As the name of the photoblog series says, it's a ["Grätzl im Wandel"](../catego
 
 !["Grätzl im Wandel" - The last building plots take shape around Freie Mitte at Nordbahnhof Vienna](../images/20221008/nordbahnhof_autumn-07.jpg)
 
-!["Grätzl im Wandel" - The last building plots take shape around Freie Mitte at Nordbahnhof Vienna](../images/20221008/nordbahnhof_autumn-08jpg)
+!["Grätzl im Wandel" - The last building plots take shape around Freie Mitte at Nordbahnhof Vienna](../images/20221008/nordbahnhof_autumn-08.jpg)
 
 !["Grätzl im Wandel" - The last building plots take shape around Freie Mitte at Nordbahnhof Vienna](../images/20221008/nordbahnhof_autumn-09.jpg)
 
