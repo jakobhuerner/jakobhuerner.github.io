@@ -28,6 +28,7 @@ It not only helps me reflect on my challenges and my professional development. I
 
 #### List of posts (external links)
 
+*	[Welcome to Jakob's LinkedIn blog (+ updated list of all posts)](https://www.linkedin.com/pulse/welcome-jakobs-linkedin-blog-updated-lists-all-posts-jakob-h%C3%BCrner/)
 *   [My professional journey from mechanical engineering to management of digitalisation and data science programs](https://www.linkedin.com/pulse/my-professional-journey-from-mechanical-engineering-data-jakob-h%C3%BCrner/)
 *   [3 competences I could carry over from mechanical engineering to digitalisation and data science](https://www.linkedin.com/pulse/3-competences-i-could-carry-over-from-mechanical-data-jakob-h%C3%BCrner/)
 *   [3 competences I had to acquire when changing from mechanical engineering to digitalisation and data science](https://www.linkedin.com/pulse/3-competences-i-had-acquire-when-changing-from-data-science-hürner)
