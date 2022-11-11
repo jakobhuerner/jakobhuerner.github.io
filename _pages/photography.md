@@ -6,7 +6,7 @@ permalink: /photography/
 
 In my [photo blog](../photoblog) I share selected photos and write about my thoughts and experiences with digital photography.
 
-Focus: How casual photographers can make their photographic lives remarkably lean & easy nowadays, allowing them to focus more on the __moment__ (pictures), and less on __things__ (equipment).
+Focus: How casual photographers can make their photographic lives remarkably [lean & easy](../leanest_highest_quality_casual_photography_setup/) nowadays, allowing them to focus more on the __moment__ (pictures), and less on __things__ (equipment).
 
 ## Where should I start?
 
