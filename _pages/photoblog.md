@@ -8,6 +8,7 @@ title: Photo Blog
   <section id="archive">
      <h2 style="text-align:left;">Most Recent Posts</h2>
       {%for post in site.posts %}
+	  {% if post.categories contains 'Photoblog' %}
       {% unless post.next %}
       <ul class="this">
           {% else %}
@@ -25,7 +26,8 @@ title: Photo Blog
           {% endif %}
           {% endunless %}
           <p><b><a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a></b> - {% if post.date and post.date != "" %}{{ post.date | date: "%e %B %Y" }}{%endif%}</p>
-          {% endfor %}
+          {% endif %}
+		  {% endfor %}
       </ul>
   </section>
 </div>
