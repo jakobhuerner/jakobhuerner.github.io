@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Väterkarenz
-categories: [vaeterblog]
+categories: [Vaeterblog]
 excerpt: Start in die Väterkarenz
 image: /images/20221030/autumn-05.jpg
 ---
