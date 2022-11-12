@@ -6,7 +6,9 @@ excerpt: Acht Monate in Vollzeit mit dem Nachwuchs
 image: /images/vaeterblog/20220911.jpg
 ---
 
-Nachdem ich bei unserem ersten Kind 4 Monate in Karenz war und damit in meinem Umfeld durchaus Neuland betreten habe, haben meine Frau und ich entschieden, beim zweiten Kind die Zeit zu Hause 50:50 zu teilen. Das heißt, wir planen unsere 16 Monate (2 Monate vor der Geburt und 12+2 Karenz nach der Geburt mit einkommensabhängigem Kinderbetreuungsgeld) in zwei 8-monatige Abschnitte aufzuteilen. Jeweils ein Elternteil ist „in Vollzeit“ daheim für den Nachwuchs da, der andere Elternteil ist in Vollzeit im Beruf.
+Nachdem ich bei unserem ersten Kind 4 Monate in Karenz war und damit in meinem Umfeld durchaus Neuland betreten habe, haben meine Frau und ich entschieden, beim zweiten Kind die Zeit zu Hause 50:50 zu teilen.
+
+Das heißt, wir planen unsere 16 Monate (2 Monate vor der Geburt und 12+2 Karenz nach der Geburt mit einkommensabhängigem Kinderbetreuungsgeld) in zwei 8-monatige Abschnitte aufzuteilen. Jeweils ein Elternteil ist „in Vollzeit“ daheim für den Nachwuchs da, der andere Elternteil ist in Vollzeit im Beruf.
 
 ![Jakob Hürner](../images/vaeterblog/20220911.jpg)
 Foto: Theresa Pewal
@@ -29,6 +31,7 @@ Unsere Arbeitgeber haben - abseits vom rechtlichen Rahmen der einen Anspruch auf
 ### Appell und Ausblick
 
 Insgesamt also einige Dinge, die Motivatoren und Ermöglicher für eine 50:50-Karenz sind. Wobei ich davor warnen würde, bei Nichtvorhandensein dieser pauschal zu sagen: „Bei uns geht das nicht, weil …“. Das höre ich leider meiner Meinung nach viel zu oft von anderen. 
+
 Dazu aber mehr in kommenden Beiträgen.
 
 
