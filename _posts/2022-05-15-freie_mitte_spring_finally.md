@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring is here
-categories: [Photos, GraetzlImWandel]
+categories: [Photoblog, Photos, GraetzlImWandel]
 excerpt: Graetzl im Wandel - Spring is here at Freie Mitte
 image: /images/20220515/stadtwildnis_spring-1.jpg
 ---

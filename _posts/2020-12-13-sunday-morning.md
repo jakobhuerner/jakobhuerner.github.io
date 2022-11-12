@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Sunday morning
-categories: [Photos] 
+categories: [Photoblog, Photos] 
 excerpt: All you need for sunday morning
 image: /images/20201213/sunday-morning.jpg
 

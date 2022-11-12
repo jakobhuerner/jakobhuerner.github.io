@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Last days of summer
-categories: [Photos]
+categories: [Photoblog, Photos]
 excerpt: Sunny September days in Vienna
 image: /images/20210911/late-summer1.jpg
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Start small and grow
-categories: [Photos]
+categories: [Photoblog, Photos]
 excerpt: A forrest tree's tale 
 image: /images/20210424/tree-1.jpg
 ---

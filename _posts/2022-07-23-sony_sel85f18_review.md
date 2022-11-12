@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Sony FE 1.8/85mm - My experiences
-categories: [Casual Photography Setup,]
+categories: [Photoblog, Casual Photography Setup,]
 excerpt: My impressions of the Sony FE 1.8/85mm, great lens for people and nature including macro
 image: /images/20220723/sony_SEL85F18.jpg
 ---

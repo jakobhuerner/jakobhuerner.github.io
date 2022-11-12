@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Christmas in Vienna 
-categories: [Photos] 
+categories: [Photoblog, Photos] 
 excerpt: Christmas in Vienna is almost the same as always, but different this time
 image: /images/20201220/vienna_christmas_2020-1.jpg
 

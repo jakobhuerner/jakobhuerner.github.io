@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Leckermoor in summer
-categories: [Photos]
+categories: [Photoblog, Photos]
 excerpt: Leckermoor in Göstling an der Ybbs
 image: /images/20220729/leckermoor-2.jpg
 ---

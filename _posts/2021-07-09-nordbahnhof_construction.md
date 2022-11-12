@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nordbahnhof construction
-categories: [Photos, GraetzlImWandel]
+categories: [Photoblog, Photos, GraetzlImWandel]
 excerpt: Graetzl im Wandel - Nordbahnhofviertel in Vienna
 image: /images/20210709/nordbahnhof_construction-01.jpg
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  If you are santa ... 
-categories: [Photos,] 
+categories: [Photoblog, Photos,] 
 excerpt: ... don't let Covid spoil you ride to Vienna
 ---
 ... don't let Covid spoil you ride to Vienna.

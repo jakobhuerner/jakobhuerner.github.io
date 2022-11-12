@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring is coming
-categories: [Photos]
+categories: [Photoblog, Photos]
 excerpt: Some impressions from a walk in Lunz am See
 image: /images/20210220/lunzamsee-1.jpg
 ---

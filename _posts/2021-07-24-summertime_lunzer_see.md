@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Summertime at Lunzer See
-categories: [Photos]
+categories: [Photoblog, Photos]
 excerpt: Summer highlight in Lunz am See
 image: /images/20210804/summer_lunzer_see.jpg
 ---

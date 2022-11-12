@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Riesenrad
-categories: [Photos]
+categories: [Photoblog, Photos]
 excerpt: An evening Riesenrad Wien ride on a December evening
 image: /images/20211218/riesenrad-0.jpg
 ---

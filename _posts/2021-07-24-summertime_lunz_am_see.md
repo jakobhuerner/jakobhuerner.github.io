@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quiet summer joys
-categories: [Photos]
+categories: [Photoblog, Photos]
 excerpt: If think about summer in Lunz am See, I think about ...
 image: /images/20210724/summer_lunz-1.jpg
 ---

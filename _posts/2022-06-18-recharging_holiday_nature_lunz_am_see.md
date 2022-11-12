@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Recharging holiday in nature
-categories: [Photos]
+categories: [Photoblog, Photos]
 excerpt: The best way to spend an extended weekend - in nature
 image: /images/20220618/lunz_summer-4.jpg
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: River walk
-categories: [Photos]
+categories: [Photoblog, Photos]
 excerpt: Walk along the Ois river in Lunz am See
 image: /images/20210821/ois-1.jpg
 ---

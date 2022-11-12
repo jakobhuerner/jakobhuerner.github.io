@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Autumn leaves at Laaer Wald
-categories: [Photos]
+categories: [Photoblog, Photos]
 excerpt: Laaer Wald in Vienna - Worth a visit in autumn
 image: /images/20221002/laaer_wald-3.jpg
 ---

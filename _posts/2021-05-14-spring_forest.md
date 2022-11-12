@@ -1,7 +1,7 @@
 ---
 layout: post
 title: In love with spring forest colours
-categories: [Photos]
+categories: [Photoblog, Photos]
 excerpt: Nothing matches the beauty of fresh green leaves in spring sunlight
 image: /images/20210514/spring_forest_1.jpg
 ---

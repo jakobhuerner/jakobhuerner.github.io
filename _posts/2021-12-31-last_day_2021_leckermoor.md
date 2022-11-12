@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Last day of 2021 
-categories: [Photos]
+categories: [Photoblog, Photos]
 excerpt: Evening walk at Leckermoor
 image: /images/20211231/leckermoor-1.jpg
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Last building plots take shape
-categories: [Photos, GraetzlImWandel]
+categories: [Photoblog, Photos, GraetzlImWandel]
 excerpt: The last building plots take shape around Freie Mitte at Nordbahnhof Vienna
 image: /images/20221008/nordbahnhof_autumn-05.jpg
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Risotto
-categories: [Photos]
+categories: [Photoblog, Photos]
 excerpt: Simple but delicious (I mean photogenic)
 image: /images/20210530/asparagus_risotto_1.jpg
 ---

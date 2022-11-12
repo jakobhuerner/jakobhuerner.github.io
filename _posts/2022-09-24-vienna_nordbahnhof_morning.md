@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Nordbahnhof Morning
-categories: [Photos, GraetzlImWandel]
+categories: [Photoblog, Photos, GraetzlImWandel]
 excerpt: Graetzl im Wandel - A morning at Vienna's Nordbahnhof in Autumn
 image: /images/20220924/nordbahnhof_morning-1.jpg
 ---

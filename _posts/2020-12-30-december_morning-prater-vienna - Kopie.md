@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  December morning at Prater 
-categories: [Photos] 
+categories: [Photoblog, Photos] 
 excerpt: December morning walk in one of Vienna's largest parks
 image: /images/20201230/prater_1.jpg
 

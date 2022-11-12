@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Winter Sun 
-categories: [Photos]
+categories: [Photoblog, Photos]
 excerpt: Walk along the Stadtpark in Vienna
 image: /images/20220107/wintersun-3.jpg
 ---

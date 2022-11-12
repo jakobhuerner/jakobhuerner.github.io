@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Little Italy in Vienna
-categories: [Photos]
+categories: [Photoblog, Photos]
 excerpt: Pizza at Vienna's Vorgartenmarkt 
 image: /images/20220820/vienna_vorgartenmarkt_pizza.jpg
 ---

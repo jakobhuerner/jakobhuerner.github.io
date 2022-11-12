@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Water is amazing
-categories: [Photos]
+categories: [Photoblog, Photos]
 excerpt: Some water close-ups
 image: /images/20221016/water_drops_ginkgo-4.jpg
 ---

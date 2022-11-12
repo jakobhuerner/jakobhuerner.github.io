@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wasserturm Construction Site
-categories: [Photos, GraetzlImWandel]
+categories: [Photoblog, Photos, GraetzlImWandel]
 excerpt: Graetzl im Wandel - Nordbahnhofviertel in Vienna in constant change
 image: /images/20220122/wasserturm.jpg
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  A lean, convenient, and frictionless RAW workflow with Adobe Lightroom
-categories: [Casual Photography Setup,] 
+categories: [Photoblog, Casual Photography Setup,] 
 excerpt: Discussion of requirements, pros and cons and a practical solution for a RAW workflow with Adobe Lightroom
 image: /images/20201225/adobe-lightroom-on-ipad-pro.gif
 
