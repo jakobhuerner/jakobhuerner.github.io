@@ -9,7 +9,7 @@ _Der Fokus dieses Bereichs liegt auf persönliche Themen rund um Familie und Elt
 
 ### Väterblog
 
-Für mich als Vater und gesellschaftlich-politisch interessierten Menschen ist das Thema Elternschaft, und wie diese "modern" organisiert sein soll, ein Anliegen. Insbesondere macht sich das Thema an Karenzzeiten und Betreuungsmodellen fest, auf die ich in den folgenden Beiträgen in Blog-Form laufend eingehen werde.
+Für mich als Vater und gesellschaftlich-politisch interessierten Menschen ist das Thema Elternschaft, und wie diese "modern" organisiert sein soll, ein Anliegen. Insbesondere macht sich das Thema an Karenzzeiten und Betreuungsmodellen fest, auf die ich in den folgenden Beiträgen in Form eines Blog besonders eingehen werde.
 
 <div id="archives">
   <section id="archive">
