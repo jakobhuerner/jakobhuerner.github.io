@@ -18,7 +18,7 @@ I see my core strength in "connecting the dots". I am good at identifying patter
 
 Going hand in hand with the point above, I am always interested in understanding systems below the surface, the systems' actors, and their connections. Only by understanding systems and their dynamics, you are able to effectively shape them in a permanent and sustainable way.
 
-![Posts overview](../images/work_jakob_strenth.jpg)
+![Posts overview](../images/work_jakob_strength.jpg)
 
 ## Professional blog
 
