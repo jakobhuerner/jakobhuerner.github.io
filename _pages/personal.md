@@ -4,12 +4,14 @@ permalink: /personal/
 title: Personal
 ---
 
-_Der Fokus dieses Bereichs liegt auf persönliche Themen rund um Familie und Elternsein. Er ist in Deutsch gehalten, da diese Themen  direkt mit dem Umfeld und rechtlichen Rahmenbedingungen in Österreich verbunden sind und damit im Wesentlichen nur für deutschprachige Leserinnen und Leser von Interesse sein wird._ 
+Der Fokus dieses Bereichs liegt auf persönliche Themen rund um Familie und Elternsein.
 
+_Er ist in Deutsch gehalten, da diese Themen  direkt mit dem Umfeld und rechtlichen Rahmenbedingungen in Österreich verbunden sind und damit im Wesentlichen nur für deutschprachige Leserinnen und Leser von Interesse sein wird._ 
 
-### Väterblog
 
 Für mich als Vater und gesellschaftlich-politisch interessierten Menschen ist das Thema Elternschaft, und wie diese "modern" organisiert sein soll, ein Anliegen. Insbesondere macht sich das Thema an Karenzzeiten und Betreuungsmodellen fest, auf die ich in den folgenden Beiträgen in Form eines Blog besonders eingehen werde.
+
+### Väterblog
 
 <div id="archives">
   <section id="archive">
