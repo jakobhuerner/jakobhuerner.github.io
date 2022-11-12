@@ -6,14 +6,14 @@ title: Personal
 
 Der Fokus dieses Bereichs liegt auf persönliche Themen rund um Familie und Elternsein.
 
-_Er ist in Deutsch gehalten, da diese Themen  direkt mit dem Umfeld und rechtlichen Rahmenbedingungen in Österreich verbunden sind und damit im Wesentlichen nur für deutschprachige Leserinnen und Leser von Interesse sein wird._ 
+_Er ist in Deutsch gehalten, da diese Themen  direkt mit dem Umfeld und rechtlichen Rahmenbedingungen in Österreich verbunden sind. Damit werden sie im Wesentlichen nur für deutschprachige Leserinnen und Leser von Interesse sein._ 
 
 
 Für mich als Vater und gesellschaftlich-politisch interessierter Mensch ist das Thema Elternschaft, und wie diese "modern" organisiert sein soll, ein großes Anliegen. Insbesondere macht sich das Thema an Karenzzeiten und Betreuungsmodellen fest, auf die ich in den folgenden Beiträgen in Form eines Blog besonders eingehen werde.
 
 ## Väterblog
 
-Die Beiträge geben meine Erfahrungen und persönlichen Meinungen wieder.
+Die Beiträge geben meine persönlichen Erfahrungen und Meinungen wieder.
 
 
 <div id="archives">
