@@ -4,7 +4,7 @@ permalink: /personal/
 title: Personal
 ---
 
-Der Fokus dieses Bereichs liegt auf persönliche Themen rund um Familie und Elternsein.
+Der Fokus dieses Bereichs liegt auf persönlichen Themen rund um Familie und Elternsein.
 
 _Er ist in Deutsch gehalten, da diese Themen  direkt mit dem Umfeld und rechtlichen Rahmenbedingungen in Österreich verbunden sind. Damit werden sie im Wesentlichen nur für deutschprachige Leserinnen und Leser von Interesse sein._ 
 
