@@ -41,4 +41,5 @@ It not only helps me reflect on my challenges and my professional development. I
 *   [What I have learnt about career and health & fitness](https://www.linkedin.com/pulse/what-i-have-learnt-career-health-fitness-jakob-h%2525C3%2525BCrner)
 *   [3 of my learnings for most relaxing holidays](https://www.linkedin.com/pulse/3-my-learnings-most-relaxing-holidays-jakob-h%25C3%25BCrner)
 *   [Facilitate learning and free up your mind by consistently maintaining personal notes](https://www.linkedin.com/pulse/facilitate-learning-free-up-your-mind-consistently-personal-h%25C3%25BCrner)
+*   [How to overcome the initial data-availability dilemma in data projects](https://www.linkedin.com/pulse/how-overcome-initial-data-availability-dilemma-data-projects-h%C3%BCrner)
 *   (continuously updated, approx. 1 post per month)
