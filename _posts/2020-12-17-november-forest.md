@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  November forest
-categories: [Photos] 
+categories: [Photoblog, Photos] 
 excerpt: Walk through november forest
 image: /images/20201217/1.jpg
 

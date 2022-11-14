@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  My personal photography history
-categories: [Casual Photography Setup, ]
+categories: [Photoblog, Casual Photography Setup, ]
 excerpt: A look back at almost 20 years of digital photography, photo equipment and photo sharing
 image: /images/20201119/motorola_milestone.jpg
 ---

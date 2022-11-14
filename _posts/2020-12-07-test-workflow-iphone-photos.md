@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Small test - Quality-optimized photo workflow for iPhone photos
-categories: [Casual Photography Setup,] 
+categories: [Photoblog, Casual Photography Setup,] 
 excerpt: A non-scientific test of the iPhone 8 Camera and Photos apps versus the Adobe Lightroom app
 image: /images/20201207/1_std-app.jpg
 

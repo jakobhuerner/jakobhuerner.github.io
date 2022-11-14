@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Lainzer Tiergarten
-categories: [Photos] 
+categories: [Photoblog, Photos] 
 excerpt: Walk at Lainzer Tiergarten in Vienna
 image: /images/20210105/lainzer-tiergarten-1.jpg
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Winter night over Vienna
-categories: [Photos] 
+categories: [Photoblog, Photos] 
 excerpt: A view from the DC Tower
 image: /images/20210123/vienna_winter_dc-tower.jpg
 ---

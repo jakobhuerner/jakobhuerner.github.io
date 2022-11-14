@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring is coming
-categories: [Photos, GraetzlImWandel]
+categories: [Photoblog, Photos, GraetzlImWandel]
 excerpt: Graetzl im Wandel - Spring is coming to Freie Mitte
 image: /images/20220313/freie_mitte_spring-2.jpg
 ---

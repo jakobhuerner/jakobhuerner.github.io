@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Walking from winter into spring
-categories: [Photos]
+categories: [Photoblog, Photos]
 excerpt: Small hike in Lunz am See
 image: /images/20210307/rehberg-01.jpg
 ---

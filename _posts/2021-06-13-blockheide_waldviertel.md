@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blockheide
-categories: [Photos]
+categories: [Photoblog, Photos]
 excerpt: A special place in Lower Austria's Waldviertel region
 image: /images/20210613/blockheide-1.jpg
 ---

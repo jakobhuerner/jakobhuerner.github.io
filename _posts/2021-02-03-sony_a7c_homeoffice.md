@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Sony A7C for homeoffice use
-categories: [General] 
+categories: [Photoblog, General] 
 excerpt: The Sony A7C has multiple qualities
 image: /images/20210203/a7c_homeoffice.jpg
 ---

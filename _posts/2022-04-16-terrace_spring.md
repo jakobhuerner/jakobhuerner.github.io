@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Terrace view in spring
-categories: [Photos]
+categories: [Photoblog, Photos]
 excerpt: A view onto the spring terrace
 image: /images/20220416/terrace.jpg
 ---

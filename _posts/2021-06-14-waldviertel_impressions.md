@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Waldviertel
-categories: [Photos]
+categories: [Photoblog, Photos]
 excerpt: See more impressions of the quite and beautiful region in Lower Austria
 image: /images/20210614/waldviertel-1.jpg
 ---

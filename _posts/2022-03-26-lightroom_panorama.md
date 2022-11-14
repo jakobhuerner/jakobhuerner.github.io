@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  How to easily create panorama images with Adobe Lightroom
-categories: [Casual Photography Setup]
+categories: [Photoblog, Casual Photography Setup]
 excerpt: Using the built-in panorama image feature of Lightroom, plus some recommendations on how to achieve the best results
 image: /images/20220326/lightroom_pano-2.png
 ---

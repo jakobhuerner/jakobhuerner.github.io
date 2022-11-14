@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Historic map of Lunz am See
-categories: [Photos]
+categories: [Photoblog, Photos]
 excerpt: Historic map of my hometown Lunz am See
 image: /images/20220305/lunzamsee_map-2.jpg
 ---

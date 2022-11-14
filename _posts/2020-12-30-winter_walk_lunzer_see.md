@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Winter walk at "Lunzer See" 
-categories: [Photos] 
+categories: [Photoblog, Photos] 
 excerpt: Walk around the cold Lake in Lunz am See
 image: /images/20201230_1/lunzer_see_1.jpg
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Augarten 
-categories: [Photos]
+categories: [Photoblog, Photos]
 excerpt: On a winter evening
 image: /images/20220115/wintersun-5.jpg
 ---

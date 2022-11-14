@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring blossoms
-categories: [Photos]
+categories: [Photoblog, Photos]
 excerpt: Beauty of spring sometimes is in the details
 image: /images/20210515/spring_blossoms_1.jpg
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Evening Walk
-categories: [Photos]
+categories: [Photoblog, Photos]
 excerpt: Pictures of an evening walk along the Danube in Vienna
 image: /images/20210321/vienna-1.jpg
 ---

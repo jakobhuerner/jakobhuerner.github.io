@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wasserturm Nordbahnhof
-categories: [Photos, GraetzlImWandel]
+categories: [Photoblog, Photos, GraetzlImWandel]
 excerpt: Graetzl im Wandel - Nordbahnhofviertel in Vienna in constant change
 image: /images/20210201/wasserturm-01.jpg
 ---

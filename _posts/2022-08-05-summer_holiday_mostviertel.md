@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Summer holidays at home
-categories: [Photos]
+categories: [Photoblog, Photos]
 excerpt: Spending summer holidays in beautiful Mostviertel in Lower Austria 
 image: /images/20220805/summer_mostviertel-1.jpg
 ---

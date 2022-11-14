@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Early Summer in Lunz am See
-categories: [Photos]
+categories: [Photoblog, Photos]
 excerpt: Summer is coming to Lunzer See
 image: /images/20220604/lunzer_see_early_summer-2.jpg
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring time in Vienna
-categories: [Photos]
+categories: [Photoblog, Photos]
 excerpt: Look at those colours!
 image: /images/20210417/wild_garlic-1.jpg
 ---

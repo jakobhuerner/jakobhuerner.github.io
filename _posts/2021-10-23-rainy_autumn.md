@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rainy Autumn
-categories: [Photos]
+categories: [Photoblog, Photos]
 excerpt: Everyone loves shiny autumn photos ...
 image: /images/20211023/rainy_autumn.jpg
 ---

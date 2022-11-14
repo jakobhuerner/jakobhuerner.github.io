@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Warm and sunny autumn day in Lunz am See
-categories: [Photos]
+categories: [Photoblog, Photos]
 excerpt: Unusually warm autumn stroll at Lunz am See
 image: /images/20221030/autumn-05.jpg
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Easter Sunday in Lunz (it's cold!)
-categories: [Photos]
+categories: [Photoblog, Photos]
 excerpt: Pictures from the winter Easter Sunday in Lunz am See
 image: /images/20210404/ostersonntag-lunz-1.jpg
 ---

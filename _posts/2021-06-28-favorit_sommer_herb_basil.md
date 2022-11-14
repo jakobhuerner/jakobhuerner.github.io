@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Favorit summer herb
-categories: [Photos]
+categories: [Photoblog, Photos]
 excerpt: What does summer taste like?
 image: /images/20210628/basil.jpg
 ---
