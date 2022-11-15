@@ -6,7 +6,7 @@ title: Personal
 
 Der Fokus dieses Bereichs liegt auf Themen, die in meinem besonderen Interesse liegen: Familie und Elternsein, Gesellschaft, Nachhaltigkeit etc.
 
-_Der Bereich ist in Deutsch gehalten, da diese Themen oft direkt mit dem Umfeld und rechtlichen Rahmenbedingungen in Österreich verbunden sind. Damit werden sie im Wesentlichen nur für deutschprachige Leserinnen und Leser von Interesse sein._ 
+_Der Bereich ist in Deutsch gehalten. Die Themen sind oft direkt mit dem Umfeld in Österreich verbunden, weshalb sie im Wesentlichen nur für deutschprachige Leserinnen und Leser von Interesse sein werden._ 
 
 
 ## Väterblog
