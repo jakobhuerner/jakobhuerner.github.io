@@ -8,12 +8,11 @@ Der Fokus dieses Bereichs liegt auf Themen, die in meinem besonderen Interesse l
 
 _Der Bereich ist in Deutsch gehalten. Die Themen sind oft direkt mit dem Umfeld in Österreich verbunden, weshalb sie im Wesentlichen nur für deutschprachige Leserinnen und Leser von Interesse sein werden._ 
 
+Die Beiträge geben meine persönlichen Erfahrungen und Meinungen wieder.
 
 ## Väterblog
 
 Für mich als Vater und gesellschaftlich-politisch interessierter Mensch ist das Thema Elternschaft, und wie diese "modern" organisiert sein soll, ein großes Anliegen. Insbesondere macht sich das Thema an Karenzzeiten und Betreuungsmodellen fest, auf die ich in den folgenden Beiträgen in Form eines Blog besonders eingehen werde.
-
-Die Beiträge geben meine persönlichen Erfahrungen und Meinungen wieder.
 
 
 <div id="archives">
