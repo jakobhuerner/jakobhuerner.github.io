@@ -4,9 +4,11 @@ permalink: /personal/
 title: Personal
 ---
 
+_This section is written in German._
+
 Der Fokus dieses Bereichs liegt auf Themen, die in meinem besonderen Interesse liegen: Familie und Elternsein, Gesellschaft, Nachhaltigkeit etc.
 
-_Der Bereich ist in Deutsch gehalten. Die Themen sind oft direkt mit dem Umfeld in Österreich verbunden, weshalb sie im Wesentlichen nur für deutschprachige Leserinnen und Leser von Interesse sein werden._ 
+Der Bereich ist in Deutsch gehalten. Die Themen sind oft direkt mit dem Umfeld in Österreich verbunden, weshalb sie im Wesentlichen nur für deutschprachige Leserinnen und Leser von Interesse sein werden.
 
 Die Beiträge geben meine persönlichen Erfahrungen und Meinungen wieder.
 
