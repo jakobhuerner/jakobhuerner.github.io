@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tschüss, Twitter
+title: Adieu, Twitter
 categories: [General]
 excerpt: Es ist an der Zeit, meine Online-Medien-Nutzung wieder einmal zu überdenken
 image: /images/general/20221116_twitter_jakobh.png
