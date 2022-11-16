@@ -10,6 +10,8 @@ Ich werde nach fast 15 Jahren meine Twitter-Aktivitäten einschränken bzw. lang
 
 ![Twitter @jakobh](../images/general/20221116_twitter_jakobh.png)
 
+_Anmeldedatum bei Twitter: März 2008 ... wie die Zeit vergeht!_
+
 ## Meine Bewegründe
 
 **Grund 1:** Ich möchte meine Aktivitäten in hochfrequenten Nachrichtenquellen mit schlechtem Signal-Rausch-Verhältnis - wie eben Twitter - zukünftig reduzieren. Damit möchte ich den Kopf freier bekommen zum Im-Moment-sein und auch mehr Themen und Situationen aktiv reflektieren anstatt hauptsächlich zu konsumieren.
