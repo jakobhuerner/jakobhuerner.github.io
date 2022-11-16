@@ -6,6 +6,8 @@ excerpt: Nordbahnhof and Freie Mitter covered in November mist
 image: /images/20221116/foggy_nordbahnhof-1.jpg
 ---
 
+Views of a misty November morning at the Nordbahnhof and Freie Mitte in Vienna. 
+
 Part of the ["Grätzl im Wandel"](../categories/#GraetzlImWandel) photo series.
 
 !["Grätzl im Wandel" - Foggy November Morning](../images/20221116/foggy_nordbahnhof-1.jpg)
