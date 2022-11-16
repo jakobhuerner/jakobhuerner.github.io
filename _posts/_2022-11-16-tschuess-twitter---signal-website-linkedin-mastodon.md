@@ -16,7 +16,9 @@ Ich werde nach fast 15 Jahren meine Twitter-Aktivitäten einschränken bzw. lang
 
 Oft hat man das Gefühl, etwas zu verpassen, wenn man nicht am Puls des Nachrichtengeschehens ist ("FOMO"). In Wirklichkeit stellt sich diese Angst aber als unbegründet heraus. Auch durch Nutzung von traditionelleren Medien, und insbesondere Qualitätsmedien, kann man auf einfache Weise sicherstellen, keine wesentlichen Entwicklungen zu versäumen. 
 
-**Grund 2:** Langfristig möchte ich verstärkt Alternativen zu Plattformen mit "Surveillance Business Model" nutzen (siehe hierzu auch Meredith Whittaker, die die Problematik gut erklärt - [hier](https://www.derstandard.at/story/2000138824340/neue-signal-chefin-wir-werden-uns-nicht-am-geschaeftsmodell-der) und [hier](https://www.theverge.com/23409716/signal-encryption-messaging-sms-meredith-whittaker-imessage-whatsapp-china) ). Ich habe zum Beispiel vor einiger Zeit schon Whatsapp gänzlich gegen Signal getauscht. Twitter ist der nächste Schritt - nun habe ich einen Anstoß für den Umstieg.
+Außerdem gilt der Ausspruch "Es ist schon alles gesagt, nur noch nicht von allen" in besonderem Maße für Twitter; egal ob es um Politik, Kommentierung des TV-Programs, Sport oder sonst etwas geht. All das trägt zum angesprochenen Signal-Rausch-Verhältnis bei.
+
+**Grund 2:** Langfristig möchte ich verstärkt Alternativen zu Plattformen mit "Surveillance Business Model" nutzen (siehe hierzu auch Meredith Whittaker, die die Problematik gut erklärt - [hier](https://www.derstandard.at/story/2000138824340/neue-signal-chefin-wir-werden-uns-nicht-am-geschaeftsmodell-der) und [hier](https://www.theverge.com/23409716/signal-encryption-messaging-sms-meredith-whittaker-imessage-whatsapp-china)). Ich habe zum Beispiel schon Whatsapp gänzlich gegen Signal getauscht. Twitter ist der nächste Schritt - nun habe ich einen Anstoß für den Umstieg.
 
 **Grund 3:** Die bei mir nur Kopfschütteln hervorrufenden Entscheidungen und das Vorgehen des neuen Twitter-Eigentümers. Dachte ich lange, "So schlimm wirds nicht werden. Hunde die bellen ...", würde es mich jetzt erstaunen, wenn Twitter in der mir bekannten und von vielen geschätzten Form überlebt.
 
