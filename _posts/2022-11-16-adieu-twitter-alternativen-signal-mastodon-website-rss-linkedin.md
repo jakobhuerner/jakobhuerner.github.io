@@ -37,8 +37,8 @@ Ganz konkreter Auslöser für meine Beschlussfassung war dann [diese Reaktion](h
 
 ## Zeit für Neues
 
-Von Zeit zu Zeit ist es empfehlenswert, seine Gewohnheiten zu überdenken und zum Besseren zu ändern. Was meine Nutzung von Online- und Sozialen Medien anbelangt ist für mich jetzt der Punkt.
+Von Zeit zu Zeit ist es empfehlenswert, seine Gewohnheiten zu überdenken und zum Besseren zu ändern. Was meine Nutzung von Online- und Sozialen Medien anbelangt war für mich nun dieser Punkt gekommen.
 
-Tipp: Probiere es auch einmal - es fühlt sich gut an. :-) 
+Tipp: Probiere es auch - es fühlt sich gut an. :-) 
 
 _Referenz: Tweet, Toot_
