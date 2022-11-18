@@ -2,7 +2,7 @@
 layout: post
 title: Adieu, Twitter
 categories: [General]
-excerpt: Es ist an der Zeit, meine Online-Medien-Nutzung wieder einmal zu überdenken
+excerpt: Es ist wieder einmal an der Zeit, meine Online-Medien-Nutzung zu überdenken
 image: /images/general/20221116_twitter_jakobh.png
 ---
 
