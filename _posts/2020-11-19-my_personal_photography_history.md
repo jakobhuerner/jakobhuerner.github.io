@@ -32,7 +32,7 @@ Within two years my interest in photography grew so that I wanted to get more se
 ![PICT0007.JPG](../images/20201119/PICT0007.JPG)
 
 In this year I also started sharing my pictures online using a personal blog - long before this term was really understood or used at least in Austria. :-)
-It started with some html pages and overcompressed jpeg images, but it created some attention within my personal environment. Sharing images publicly globally within minutes was something completely new back then.
+It started with some html pages and overcompressed jpeg images, but it created some attention within my personal environment. Sharing images publicly globally within minutes was something completely new for most people back then.
 I still remember how my first website looked, unfortunately I have not archived the pages back then.
 
 ### 2004
