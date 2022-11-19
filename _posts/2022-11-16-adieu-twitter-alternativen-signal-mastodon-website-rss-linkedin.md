@@ -41,4 +41,4 @@ Von Zeit zu Zeit ist es empfehlenswert, seine Gewohnheiten zu überdenken und zu
 
 Tipp: Probiere es auch - es fühlt sich gut an. :-) 
 
-_Referenz: [Tweet](https://twitter.com/jakobh/status/1593828776961609728?s=61&t=5uf4VS8NWhsqcKPY-iFEOg)_
+_Referenz: [Toot](https://aut.social/@jakobhuerner/109369152031135970), [Tweet](https://twitter.com/jakobh/status/1593828776961609728?s=61&t=5uf4VS8NWhsqcKPY-iFEOg)_
