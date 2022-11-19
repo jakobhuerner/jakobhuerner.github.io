@@ -24,7 +24,7 @@ Außerdem gilt der Ausspruch "Es ist schon alles gesagt, nur noch nicht von alle
 
 **Grund 3:** Die bei mir nur Kopfschütteln hervorrufenden Entscheidungen und das Vorgehen des neuen Twitter-Eigentümers. Dachte ich lange, "So schlimm wirds nicht werden. Hunde die bellen ...", würde es mich jetzt erstaunen, wenn Twitter in der mir bekannten und von vielen geschätzten Form überlebt.
 
-Ganz konkreter Auslöser für meine Beschlussfassung war dann [diese Reaktion](https://aut.social/@jakobhuerner/109341873166222554). Ich denke nicht, dass der neue Eigentümer (a) sich seiner Verantwortung für die globale Kommunikationsplattform Twitter bewusst ist, bzw. (b) überhaupt verstanden hat, was er da eigentlich gekauft hat.
+Ganz konkreter Auslöser für meine Beschlussfassung war dann [diese Reaktion](https://aut.social/@jakobhuerner/109341873166222554) (alle seine folgenden Aktionen machten es eher noch schlimmer). Ich denke nicht, dass der neue Eigentümer (a) sich seiner Verantwortung für die globale Kommunikationsplattform Twitter bewusst ist, bzw. (b) überhaupt verstanden hat, was er da eigentlich gekauft hat.
 
 
 ## Die Alternativen
