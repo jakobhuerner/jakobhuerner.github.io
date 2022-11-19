@@ -30,7 +30,7 @@ Ganz konkreter Auslöser für meine Beschlussfassung war dann [diese Reaktion](h
 ## Die Alternativen
 
 * Ich werde mich in der aktiven Kommunikation stärker auf mein persönliches Umfeld konzentrieren, das auf Signal versammelt ist.
-* Als neue Heimat für reduziertes Twitter-ähnliches Microblogging gebe ich Mastodon eine Chance: [aut.social/@jakobhuerner](https://aut.social/@jakobhuerner)
+* Als neue Heimat für Twitter-ähnliches Microblogging, um "mit der Welt da draußen" in Kontakt zu bleiben, gebe ich Mastodon eine Chance: [aut.social/@jakobhuerner](https://aut.social/@jakobhuerner)
 * Alles was mit berufs- und karrierebezogenem Austausch zu tun hat, werde ich weiterhin über LinkedIn machen: [linkedin.com/in/jakobhuerner](https://www.linkedin.com/in/jakobhuerner)
 * Für Nachrichtenkonsum habe ich RSS-Feeds nie aufgegeben, für mich nach wie vor eine praktikable und vor allem effiziente Lösung.
 * Als Angelpunkt für meine Online-Aktivitäten werde ich zukünftig stärker meine Website nutzen: [www.jakobhuerner.at](https://www.jakobhuerner.at/)
