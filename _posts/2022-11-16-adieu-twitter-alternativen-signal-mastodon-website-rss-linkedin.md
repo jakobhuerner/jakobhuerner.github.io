@@ -35,7 +35,7 @@ Ganz konkreter Auslöser für meine Beschlussfassung war dann [diese Reaktion](h
 * Für Nachrichtenkonsum habe ich RSS-Feeds nie aufgegeben, für mich nach wie vor eine praktikable und vor allem effiziente Lösung.
 * Als Angelpunkt für meine Online-Aktivitäten werde ich zukünftig stärker meine Website nutzen: [www.jakobhuerner.at](https://www.jakobhuerner.at/)
 
-## Zeit für Neues
+## Zeit für Veränderung ist jetzt
 
 Von Zeit zu Zeit ist es empfehlenswert, seine Gewohnheiten zu überdenken und zum Besseren zu ändern. Was meine Nutzung von Online- und Sozialen Medien anbelangt war für mich nun dieser Punkt gekommen.
 
