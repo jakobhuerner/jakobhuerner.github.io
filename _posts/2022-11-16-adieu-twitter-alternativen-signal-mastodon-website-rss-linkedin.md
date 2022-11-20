@@ -39,6 +39,8 @@ Ganz konkreter Auslöser für meine Beschlussfassung war dann [diese Reaktion](h
 
 Von Zeit zu Zeit ist es empfehlenswert, seine Gewohnheiten zu überdenken und zum Besseren zu ändern. Was meine Nutzung von Online- und Sozialen Medien anbelangt war für mich nun dieser Punkt gekommen.
 
+<iframe src="https://aut.social/@jakobhuerner/109375420897832720/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://aut.social/embed.js" async="async"></script>
+
 Tipp: Probiere es auch - es fühlt sich gut an. :-) 
 
 _Referenz: [Toot](https://aut.social/@jakobhuerner/109369152031135970), [Tweet](https://twitter.com/jakobh/status/1593828776961609728?s=61&t=5uf4VS8NWhsqcKPY-iFEOg)_
