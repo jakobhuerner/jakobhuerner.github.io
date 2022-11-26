@@ -6,9 +6,7 @@ excerpt: Catching a few rays of sunlight
 image: /images/20221125/donauinsel_autumn-7.jpg
 ---
 
-Vienna has the negative reputation of being a foggy and uncomfortable spot during autumn.
-
-That's sometimes true, but not always, as those pictures of a sunny November afternoon show.
+Vienna has the negative reputation of being a foggy and uncomfortable spot during autumn. That's sometimes true, but not always, as those pictures of a sunny November afternoon show.
 
 ![Donauinsel Vienna in autumn sun](../images/20221125/donauinsel_autumn-1.jpg)
 
