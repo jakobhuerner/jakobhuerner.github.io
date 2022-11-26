@@ -30,4 +30,4 @@ Part of the ["Grätzl im Wandel"](../categories/#GraetzlImWandel) photo series.
 
 
 
-Pictures taken with the Sony A7C and the FE 1.8/85mm.
+Pictures taken with the Sony A7C and the Sony FE 1.8/85mm.
