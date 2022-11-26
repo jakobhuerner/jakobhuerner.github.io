@@ -23,4 +23,4 @@ Vienna has the negative reputation of being a foggy and uncomfortable spot durin
 ![Donauinsel Vienna in autumn sun](../images/20221125/donauinsel_autumn-7.jpg)
 
 
-Picture taken with the Sony A7C and the Sony FE 4-5.6/28-60mm.
+Pictures taken with the Sony A7C and the Sony FE 4-5.6/28-60mm.
