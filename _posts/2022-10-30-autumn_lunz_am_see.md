@@ -29,4 +29,4 @@ Way too warm for [this time](../autumn) of the year ... but still a wonderful su
 ![Autumn in Lunz am See](../images/20221030/autumn-10.jpg)
 
 
-Pictures taken with the Sony A7C and the FE 1.8/85mm.
+Pictures taken with the Sony A7C and the Sony FE 1.8/85mm.
