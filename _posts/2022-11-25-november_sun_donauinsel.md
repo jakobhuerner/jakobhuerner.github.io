@@ -3,7 +3,7 @@ layout: post
 title: November sun at Donauinsel
 categories: [Photoblog, Photos]
 excerpt: Catching a few rays of sunlight
-image: /images/20221125/donauinsel_autumn-7.jpg
+image: /images/20221125/donauinsel_autumn-1.jpg
 ---
 
 Vienna has the negative reputation of being a foggy and uncomfortable spot during autumn. That's sometimes true, but not always, as those pictures of a sunny November afternoon show.
