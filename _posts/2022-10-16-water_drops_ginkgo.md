@@ -28,4 +28,4 @@ Just look at these beauties:
 ![Water drops Ginkgo - close-up](../images/20221016/water_drops_ginkgo-9.jpg)
 
 
-Picture taken with the Sony A7C and the FE 1.8/85mm with 16mm (partly +10mm) extension tubes.
+Picture taken with the Sony A7C and the Sony FE 1.8/85mm with 16mm (partly +10mm) extension tubes.
