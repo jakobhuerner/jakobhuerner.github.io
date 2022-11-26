@@ -27,4 +27,4 @@ Walk through a quiet weekend morning in early autumn at Vienna's Nordbahnhof.
 
 !["Grätzl im Wandel" - A morning at Vienna's Nordbahnhof in Autumn](../images/20220924/nordbahnhof_morning-9.jpg)
 
-Picture taken with the Sony A7C and the FE 1.8/35mm.
+Picture taken with the Sony A7C and the Sony FE 1.8/35mm.
