@@ -38,4 +38,4 @@ As the name of the photoblog series says, it's a ["Grätzl im Wandel"](../catego
 
 !["Grätzl im Wandel" - The last building plots take shape around Freie Mitte at Nordbahnhof Vienna](../images/20221008/nordbahnhof_autumn-14.jpg)
 
-Pictures taken with the Sony A7C and the FE 4-5.6/28-60mm.
+Pictures taken with the Sony A7C and the Sony FE 4-5.6/28-60mm.
