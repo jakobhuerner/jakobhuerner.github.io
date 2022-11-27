@@ -13,7 +13,7 @@ Es gibt dazu einige Beispiele, eines davon ist die Regelung des Karenzgeldes (ge
 
 Falsch (gefühlt fast alle in Österreich):
 
-> "In Österreich bekommt man 12+2 Monate Karenzgeld. <br>12 für die Frau, 2 für den Mann."
+> In Österreich bekommt man 12+2 Monate Karenzgeld. <br>12 für die Frau, 2 für den Mann.
 
 Richtig (in meinen Worten, vereinfacht):
 
