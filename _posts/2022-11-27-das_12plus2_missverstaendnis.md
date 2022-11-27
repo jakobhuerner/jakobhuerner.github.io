@@ -9,15 +9,15 @@ image: /images/vaeterblog/20220911.jpg
 Wundert ihr euch auch öfters, wie lange sich Fehlinterpretationen im kollektiven Verständnis einer Gesellschaft halten können?
 Es gibt dazu einige Beispiele, eines davon ist die Regelung des Karenzgeldes (genauer: Kinderbetreuungsgeldes) in Österreich.
 
-## Das 12+2 Missverständnis
+## Missverständnis
 
 Falsch (gefühlt fast alle in Österreich):
 
-> "In Österreich bekommt man 12+2 Monate Karenzgeld. 12 für die Frau, 2 für den Mann."
+> "In Österreich bekommt man 12+2 Monate Karenzgeld. </br>12 für die Frau, 2 für den Mann."
 
 Richtig (in meinen Worten, vereinfacht):
 
-> In Österreich gibt es 12 Monate Karenzgeld. Wenn beide Elternteile in Karenz gehen, stehen dem Paar insgesamt 14 Monate zu, wobei die Aufteilung zwischen Vater und Mutter wählbar ist.
+> In Österreich gibt es 12 Monate Karenzgeld. </br>Wenn beide Elternteile in Karenz gehen, stehen dem Paar insgesamt 14 Monate zu, wobei die Aufteilung zwischen Vater und Mutter wählbar ist.
 
 Dieses Missverständnis, hier angeführt am Beispiel des einkommensabhängigen Kinderbetreuungsgeldes, hält sich hartnäckig.
 
