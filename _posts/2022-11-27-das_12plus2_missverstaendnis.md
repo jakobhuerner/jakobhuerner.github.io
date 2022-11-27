@@ -20,10 +20,11 @@ Richtig (in meinen Worten, vereinfacht):
 > In Österreich gibt es 12 Monate Karenzgeld. Wenn beide Elternteile in Karenz gehen, stehen dem Paar insgesamt 14 Monate zu, wobei die Aufteilung zwischen Vater und Mutter wählbar ist.
 
 Dieses Missverständnis, hier angeführt am Beispiel des einkommensabhängigen Kinderbetreuungsgeldes, hält sich hartnäckig.
-Das Schlimme daran ist, dass es meiner Erfahrung nach dazu führt, dass viele Paare aus diesem Grund eine Karenzaufteilung zu gleichen Teilen gar nicht in Betracht ziehen.
-Viele Väter (und Mütter) fühlen sich wohl mit dem Gedanken, dass der Vater "seine" zwei Monate oder weniger in Karenz geht, scheinbar soll das ja so sein.
 
 ## Problem
+
+Das Schlimme daran ist, dass es meiner Erfahrung nach dazu führt, dass viele Paare aus diesem Grund eine Karenzaufteilung zu gleichen Teilen gar nicht in Betracht ziehen.
+Viele Väter (und Mütter) fühlen sich wohl mit dem Gedanken, dass der Vater "seine" zwei Monate oder weniger in Karenz geht, scheinbar soll das ja so sein.
 
 Väter und ihre Familien fallen damit um besondere Erfahrungen um, darüber hinaus wird sich der Motherhood Pay Gap als Folge auch weiter manifestieren.
 
