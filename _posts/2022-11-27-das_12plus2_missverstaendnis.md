@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Das 12+2 Missverständnis
-categories: []
+categories: [Vaeterblog]
 excerpt: Eine Fehlinterpretation zur Väterkarenz hält sich hartnäckig
 image: /images/vaeterblog/20220911.jpg
 ---
