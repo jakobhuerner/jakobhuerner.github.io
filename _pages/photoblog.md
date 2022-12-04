@@ -13,8 +13,6 @@ title: Photo Blog
 	  {% capture month %}{{ post.date | date: '%B %Y' }}{% endcapture %}
 	  {% capture nmonth %}{{ post.next.date | date: '%B %Y' }}{% endcapture %}
        
-	  <h3 style="text-align:left;">{{ post.date | date: '%B %Y' }}</h3>
-	  
 	  {% if month != nmonth %}
 	  	<h3 style="text-align:left;">{{ post.date | date: '%B %Y' }}</h3>
 	  {% endif %}
