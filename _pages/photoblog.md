@@ -9,7 +9,6 @@ title: Photo Blog
      <h2 style="text-align:left;">Most Recent Posts</h2>
       {%for post in site.posts %}
 	  {% if post.categories contains 'Photoblog' %}
-      {% unless post.next %}
 
       {% else %}
       {% capture month %}{{ post.date | date: '%B %Y' }}{% endcapture %}
