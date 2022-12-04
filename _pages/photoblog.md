@@ -6,7 +6,6 @@ title: Photo Blog
 
 <div id="archives">
   <section id="archive">
-     <h2 style="text-align:left;">Most Recent Posts</h2>
       {%for post in site.posts %}
 	  {% if post.categories contains 'Photoblog' %}
 
