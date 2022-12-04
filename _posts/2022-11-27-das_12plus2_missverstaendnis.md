@@ -3,7 +3,7 @@ layout: post
 title: Das 12+2 Missverständnis
 categories: [Vaeterblog]
 excerpt: Eine Fehlinterpretation zur Väterkarenz hält sich hartnäckig
-image: /images/vaeterblog/20221127.jpg
+image: /images/vaeterblog/20221127.jpeg
 ---
 
 Wundert ihr euch auch öfters, wie lange sich Fehlinterpretationen im kollektiven Verständnis einer Gesellschaft halten können?
@@ -31,4 +31,4 @@ Väter und ihre Familien fallen damit um besondere Erfahrungen um, darüber hina
 Also liebe Väter: Fühlt euch nicht an maximal 2 Monate Väterkarenz gebunden - ihr dürft viel mehr!
 
 
-![Jakob Hürner](../images/vaeterblog/20221127.jpg)
+![Jakob Hürner](../images/vaeterblog/20221127.jpeg)
