@@ -19,7 +19,6 @@ title: Photo Blog
       {% if month != nmonth %}
       <h3 style="text-align:left;">{{ post.date | date: '%B %Y' }}</h3>
       {% endif %}
-      {% endunless %}
       <p><a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a> - {% if post.date and post.date != "" %}{{ post.date | date: "%e %B %Y" }}{%endif%}</p>
       {% endif %}
 	  {% endfor %}
