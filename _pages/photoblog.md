@@ -10,7 +10,6 @@ title: Photo Blog
       {%for post in site.posts %}
 	  {% if post.categories contains 'Photoblog' %}
 
-      {% else %}
       {% capture month %}{{ post.date | date: '%B %Y' }}{% endcapture %}
       {% capture nmonth %}{{ post.next.date | date: '%B %Y' }}{% endcapture %}
       {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
