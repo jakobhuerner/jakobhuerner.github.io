@@ -28,7 +28,8 @@ Viele Väter (und Mütter) fühlen sich wohl mit dem Gedanken, dass der Vater "s
 
 Väter und ihre Familien fallen damit um besondere Erfahrungen um, darüber hinaus wird sich der Motherhood Pay Gap als Folge auch weiter manifestieren.
 
-Also liebe Väter: Fühlt euch nicht an maximal 2 Monate Väterkarenz gebunden - ihr dürft viel mehr!
-
 
 ![Jakob Hürner](../images/vaeterblog/20221127.JPG)
+
+
+Also liebe Väter: Fühlt euch nicht an maximal 2 Monate Väterkarenz gebunden - ihr dürft viel mehr!
