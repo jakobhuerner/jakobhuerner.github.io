@@ -8,7 +8,7 @@ image: /images/vaeterblog/20220911.jpg
 
 Ist es in Wirklichkeit nicht so: In vielen Familien bleibt die Frau zu Hause bei den Kindern und der Mann arbeitet, weil er mehr verdient. Sonst ginge es sich im Haushaltsbudget ja gar nicht aus.
 
-## Stimmt das?
+## Stimmt das, immer?
 
 Diesem Urteil sollte man sich als Jungfamilie nicht vorschnell hingeben, sondern genau berechnen, wie groß der Unterschied tatsächlich ist. Während es sicher Familien gibt, für die es ein Problem ist, führt Karenz in vielen Familien zu keinen existenzbedrohenden Einkommenseinbußen.
 
