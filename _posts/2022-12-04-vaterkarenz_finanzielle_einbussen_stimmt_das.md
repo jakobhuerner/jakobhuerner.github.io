@@ -26,7 +26,4 @@ Die Kostenseite sei also ein Urlaub. Die Nutzenseite dagegen:
 - Beitrag zum Abbau der Ungleichheit zwischen Müttern und Vätern in der Arbeitswelt
 - …
 
-Ist es das nicht wert? Jedenfalls sollten sich alle Familien, die nicht am Existenzminimum leben, diese Frage ernsthaft stellen. 
-
-
-
+Ist es das nicht wert? Jedenfalls sollten sich alle Familien, die nicht am Existenzminimum leben, diese Frage ernsthaft stellen.
