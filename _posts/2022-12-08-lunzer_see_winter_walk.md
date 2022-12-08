@@ -26,4 +26,4 @@ We started our walk around the Lunzer See in Lunz am See in dense fog. Half an h
 
 ![Lunzer See Winter](../images/20221208/winter_lunzer_see-9.jpg)
 
-Picture taken with the Sony A7C and the Sony FE 4-5.6/28-60mm.
+Pictures taken with the Sony A7C and the Sony FE 4-5.6/28-60mm.
