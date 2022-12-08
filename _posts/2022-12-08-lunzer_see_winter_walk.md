@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lunzer See Winter Walk 
+title: Lunzer See winter walk 
 categories: [Photoblog, Photos]
 excerpt: A foggy winter morning can quickly turn into a wonderful sunny day
 image: /images/20221208/winter_lunzer_see-5.jpg
