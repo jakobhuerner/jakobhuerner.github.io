@@ -28,4 +28,6 @@ Two days and a few snowflakes later, snow was here and Christmas felt a bit clos
 
 ![Lunzer See winter with snow](../images/20221210/winter_snow_lunzer_see-09.jpg)
 
+![Lunzer See winter with snow](../images/20221210/winter_snow_lunzer_see-10.jpg)
+
 Pictures taken with the Sony A7C and the Sony FE 4-5.6/28-60mm.
