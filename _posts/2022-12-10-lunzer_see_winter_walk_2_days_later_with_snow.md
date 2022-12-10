@@ -6,7 +6,7 @@ excerpt: 2 days and a few snowflakes later
 image: /images/20221210/winter_snow_lunzer_see-02.jpg
 ---
 
-[Two days ago](..7lunzer_see_winter_walk) we had a sunny stroll around the Lunzer See.
+[Two days ago](../lunzer_see_winter_walk) we had a sunny stroll around the Lunzer See.
 
 Two days and a few snowflakes later, snow was here and Christmas felt a bit closer.
 
