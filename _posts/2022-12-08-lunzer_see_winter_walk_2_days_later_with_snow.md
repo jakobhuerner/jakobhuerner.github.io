@@ -12,7 +12,7 @@ Two days and a few snowflakes later, snow was here and Christmas felt a bit clos
 
 ![Lunzer See winter with snow](../images/20221210/winter_snow_lunzer_see-01.jpg)
 
-![Lunzer See winter with snow](../images/20221210/winter_snow_lunzer_see-20.jpg)
+![Lunzer See winter with snow](../images/20221210/winter_snow_lunzer_see-02.jpg)
 
 ![Lunzer See winter with snow](../images/20221210/winter_snow_lunzer_see-03.jpg)
 
