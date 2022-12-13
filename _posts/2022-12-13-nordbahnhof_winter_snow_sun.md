@@ -3,7 +3,7 @@ layout: post
 title: A sunny snow-covered Nordbahnhof
 categories: [Photoblog, Photos, GraetzlImWandel]
 excerpt: Freie Mitte and Stadtwildnis on a snows and sunny day
-image: /images/20210213/nordbahnhof-sunset_1.jpg
+image: /images/20221213/nordbahnhof_winter_snow_sun-02.jpg
 ---
 
 A sunny winter day at the Freie Mitte and Stadtwildnis and a changing Nordbahnhof.
