@@ -10,7 +10,7 @@ Ist es in Wirklichkeit nicht so: In vielen Familien bleibt die Frau zu Hause bei
 
 ## Stimmt das, immer?
 
-Diesem Urteil sollte man sich als Jungfamilie nicht vorschnell hingeben, sondern genau berechnen, wie groß der Unterschied tatsächlich ist. Während es sicher Familien gibt, für die es ein Problem ist, führt Karenz in vielen Familien zu keinen existenzbedrohenden Einkommenseinbußen.
+Diesem Urteil sollte man sich als Jungfamilie nicht vorschnell hingeben, sondern genau berechnen, wie groß der Unterschied tatsächlich ist. Während es sicher Familien gibt, für die es tatsächlich ein finanzielels Problem ist, führt Karenz in vielen Familien zu keinen existenzbedrohenden Einkommenseinbußen.
 
 **Das sage übrigens nicht ich** (ich bin mir meiner privilegierten Situation bewusst), sondern Erich Lehner in der Podcastfolge [„Erklär mir Männlichkeit“](https://erklärmir.at/2022/11/01/232-erklaer-mir-maennlichkeit/) (ab ca. 1:00 h) bei Andreas Sator.
 
