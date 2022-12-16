@@ -26,7 +26,7 @@ Foto: Theresa Pewal
 
 Wir leben in Österreich, wo für beide Elternteile ein Rechtsanspruch auf Elternkarenz besteht. Darüber hinaus existieren verschiedene [Karenzgeld](../das_12plus2_missverstaendnis/)-Modelle die den meisten ein gutes Auskommen für die Karenzzeit ermöglichen sollten.
 
-Unsere Arbeitgeber haben - abseits vom rechtlichen Rahmen, der einen Anspruch auf Elternkarenz vorgibt - volle [Unterstützung](../vaeterkarenz_positives_feedback/) für unsere Entscheidung geleistet. In beiden Fällen sind es leitende Rollen in der Industrie. Dass damit die Einkommen beider Elternteile einerseits gut sind und andererseits in etwa gleichauf liegen, erspart uns ein Abwägen, welche Karenzaufteilung die finanziell günstigere ist.
+Unsere Arbeitgeber haben - abseits vom rechtlichen Rahmen, der einen Anspruch auf Elternkarenz vorgibt - volle [Unterstützung](../vaeterkarenz_positives_feedback/) für unsere Entscheidung geleistet. In beiden Fällen sind es leitende Rollen in der Industrie. Dass damit die Einkommen beider Elternteile einerseits gut sind und andererseits in etwa gleichauf liegen, erspart uns ein Abwägen, welche Karenzaufteilung die [finanziell](../vaterkarenz_finanzielle_einbussen_stimmt_das/) günstigere ist.
 
 ## Appell und Ausblick
 
