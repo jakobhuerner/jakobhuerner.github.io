@@ -20,10 +20,10 @@ Erich Lehner argumentiert, dass der Unterschied für einen Großteil der Familie
 
 Die Kostenseite sei also ein Urlaub. Die Nutzenseite dagegen:
 
-- Unwiederbringliche Momente als Vater mit dem Nachwuchs
-- Aufbau einer innigeren Beziehung zwischen Kind und Vater
-- Einmalige Erfahrungen für den Vater, von denen er auch über die Familie hinaus, wie im Beruf, profitieren kann
-- Beitrag zum Abbau der Ungleichheit zwischen Müttern und Vätern in der Arbeitswelt
+- Unwiederbringliche Momente als Vater mit dem Nachwuchs.
+- Aufbau einer innigeren Beziehung zwischen Kind und Vater von der beide lange profitieren.
+- Einmalige Erfahrungen für den Vater, von denen er auch über die Familie hinaus, wie im Beruf, profitieren kann.
+- Beitrag zum Abbau der Ungleichheit zwischen Müttern und Vätern in der Arbeitswelt.
 - …
 
 Ist es das nicht wert? Jedenfalls sollten sich alle Familien, die nicht am Existenzminimum leben, diese Frage ernsthaft stellen.
