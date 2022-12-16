@@ -14,7 +14,7 @@ Diesem Urteil sollte man sich als Jungfamilie nicht vorschnell hingeben, sondern
 
 **Das sage übrigens nicht ich** (ich bin mir meiner privilegierten Situation bewusst), sondern Erich Lehner in der Podcastfolge [„Erklär mir Männlichkeit“](https://erklärmir.at/2022/11/01/232-erklaer-mir-maennlichkeit/) (ab ca. 1:00 h) bei Andreas Sator.
 
-Erich Lehner argumentiert, dass der Unterschied für einen Großteil der Familien die Kosten eines größeren Urlaubs oder weniger ausmache. Gründe dafür sind, dass das Kinderbetreuungsgeldsystem in Österreich recht gut ausgebaut sei, und dass gerade zu Beginn der Karriere Einkommensunterschiede zwischen den Elternteilen auch noch geringer seien. (Anmerkung: Dieser Motherhood Paygap heißt nicht umsonst so …)
+Erich Lehner argumentiert, dass der Unterschied für einen Großteil der Familien die Kosten eines größeren Urlaubs oder weniger ausmache. Gründe dafür sind, dass das Kinderbetreuungsgeldsystem in Österreich recht gut ausgebaut sei, und dass gerade zu Beginn der Karriere Einkommensunterschiede zwischen den Elternteilen auch noch geringer seien. (Anmerkung: Dieser Motherhood Paygap heißt halt nicht umsonst so …)
 
 ## Kosten - Nutzen
 
