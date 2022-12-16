@@ -17,16 +17,16 @@ Foto: Theresa Pewal
 
 - Generell: Für uns ist eine 50:50-Aufteilung der Verantwortung zwischen den Elternteilen das Ideal nach dem wir streben.
 - Wir glauben daran, dass Mütter und Väter sich gleich gut um Kinder kümmern können.
-- Wir glauben, dass Kinder am besten aufwachsen wenn sich beide Elternteile gleichermaßen um sie kümmern, weil jede(r) eigene und einzigartige Aspekte einbringt.
+- Wir glauben, dass Kinder am besten aufwachsen, wenn sich beide Elternteile gleichermaßen um sie kümmern, weil jede(r) eigene und einzigartige Aspekte einbringt.
 - Wir möchten beide viel Zeit mit unserem Nachwuchs in jungen Jahren verbringen.
 - Wir sehen es als gesellschaftliche Verantwortung an, zu zeigen, dass eine 50:50 Elternschaft möglich ist.
 - Uns ist das Thema „Motherhood Paygap“ sehr bewusst - es soll nicht ein Elternteil überproportionale Nachteile in der Arbeit durch die Karenzzeit haben.
 
 ## Was ermöglicht unsere Entscheidung?
 
-Wir leben in Österreich, wo für beide Elternteile ein Rechtsanspruch auf Elternkarenz besteht. Darüber hinaus existieren verschiedene Karenzgeld-Modelle die den meisten ein gutes Auskommen für die Karenzzeit ermöglichen sollten.
+Wir leben in Österreich, wo für beide Elternteile ein Rechtsanspruch auf Elternkarenz besteht. Darüber hinaus existieren verschiedene [Karenzgeld](../das_12plus2_missverstaendnis/)-Modelle die den meisten ein gutes Auskommen für die Karenzzeit ermöglichen sollten.
 
-Unsere Arbeitgeber haben - abseits vom rechtlichen Rahmen der einen Anspruch auf Elternkarenz vorgibt - volle Unterstützung für unsere Entscheidung geleistet. In beiden Fällen sind es leitende Rollen in der Industrie; dass damit die Einkommen beider Elternteile einerseits gut sind und andererseits in etwa gleichauf liegen, erspart uns ein Abwägen, welche Karenzaufteilung die finanziell günstigere ist.
+Unsere Arbeitgeber haben - abseits vom rechtlichen Rahmen, der einen Anspruch auf Elternkarenz vorgibt - volle [Unterstützung](../vaeterkarenz_positives_feedback/) für unsere Entscheidung geleistet. In beiden Fällen sind es leitende Rollen in der Industrie. Dass damit die Einkommen beider Elternteile einerseits gut sind und andererseits in etwa gleichauf liegen, erspart uns ein Abwägen, welche Karenzaufteilung die finanziell günstigere ist.
 
 ## Appell und Ausblick
 
