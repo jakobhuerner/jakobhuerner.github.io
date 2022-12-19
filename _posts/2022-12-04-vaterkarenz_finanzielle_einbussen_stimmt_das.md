@@ -3,7 +3,7 @@ layout: post
 title: Auf Väterkarenz verzichten weil er mehr verdient. Muss das sein?
 categories: [Vaeterblog]
 excerpt: In vielen Familien ist Karenz aus finanziellen Gründen automatisch Frauensache. Bei näherer Betrachtung zeigt sich - das müsste vielleicht gar nicht sein.
-image: /images/vaeterblog/20220911.jpg
+image: 
 ---
 
 Ist es in Wirklichkeit nicht so: In vielen Familien bleibt die Frau zu Hause bei den Kindern und der Mann arbeitet, weil er mehr verdient. Sonst ginge es sich im Haushaltsbudget ja gar nicht aus.
