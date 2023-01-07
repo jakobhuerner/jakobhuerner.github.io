@@ -18,8 +18,6 @@ We started our year 2023 with a walk around the Lunzer See, which offered us an 
 
 ![Lunzer See - New Year's Day 2023](../images/20230101/new_year_2023-5.jpg)
 
-![Lunzer See - New Year's Day 2023](../images/20230101/new_year_2023-6.jpg)
-
 ![Lunzer See - New Year's Day 2023](../images/20230101/new_year_2023-7.jpg)
 
 ![Lunzer See - New Year's Day 2023](../images/20230101/new_year_2023-8.jpg)
