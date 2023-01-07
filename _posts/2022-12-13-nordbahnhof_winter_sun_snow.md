@@ -31,4 +31,4 @@ A sunny winter day at the Freie Mitte and Stadtwildnis and a changing Nordbahnho
 <iframe src="https://aut.social/@jakobhuerner/109507848512659376/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="740" allowfullscreen="allowfullscreen"></iframe><script src="https://aut.social/embed.js" async="async"></script>
 
 
-Pictures taken with the Sony A7C and the FE 1.8/35mm.
+Pictures taken with the Sony A7C and the Sony FE 1.8/35mm.
