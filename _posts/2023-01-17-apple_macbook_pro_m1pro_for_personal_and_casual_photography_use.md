@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  MacBook Pro - a solid and extremely capable laptop for many years to come
+title:  MacBook Pro - a solid and capable laptop for many years to come
 categories: [Photoblog, Casual Photography Setup]
 excerpt: My experiences with the 14“ MacBook Pro in context of my personal and casual photography use.
 image: /images/20230117/macbook_pro_m1pro-1.jpg
