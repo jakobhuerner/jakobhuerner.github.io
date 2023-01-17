@@ -22,7 +22,7 @@ The major 14“ model benefits over the 13“ model for me:
 
 I went for a 14" Apple MacBook Pro with base M1 Pro and extended the RAM to 32GB. It‘s my learning from almost every computer I bought in my life: Purchase double the RAM you think you need in the beginning, you‘ll need it in a few year‘s time. This is especially crucial if the RAM is not extendable as in many current devices by Apple and others.
 
-# My experience
+# My experiences
 
 My overall impression of the MacBook Pro after one and a half months is very good.
 
