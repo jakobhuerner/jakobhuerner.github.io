@@ -20,7 +20,7 @@ The major 14“ model benefits over the 13“ model for me:
 - A simple but welcome thing is the integrated SD card slot, which is convenient for transferring photos from the camera.
 - The price difference between 13“ and 14“ was only about 15% in the configurations interesting for me - given the 14“ model is simply the higher quality device.
 
-I went for an Apple MacBook Pro with base M1 Pro and extended the RAM to 32GB. It‘s my learning from almost every computer I bought in my life: Purchase double the RAM you think you need in the beginning, you‘ll need it in a few year‘s time. This is especially crucial if the RAM is not extendable as in many current devices by Apple and others.
+I went for a 14" Apple MacBook Pro with base M1 Pro and extended the RAM to 32GB. It‘s my learning from almost every computer I bought in my life: Purchase double the RAM you think you need in the beginning, you‘ll need it in a few year‘s time. This is especially crucial if the RAM is not extendable as in many current devices by Apple and others.
 
 # My experience
 
