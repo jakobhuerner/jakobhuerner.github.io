@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Apple MacBook Pro M1 Pro - my considerations and experiences
+title:  Apple MacBook Pro 14" - a solid and capable laptop for many years to come
 categories: [Photoblog, Casual Photography Setup]
 excerpt: My experiences with the 14“ MacBook Pro in context of my personal and casual photography use.
 image: /images/20230117/macbook_pro_m1pro-1.jpg
@@ -10,7 +10,7 @@ As my almost 6 year old Windows laptop needed to be replaced, I had to decide: W
 
 ![MacBook Pro M1 Pro](../images/20230117/macbook_pro_m1pro-1.jpg)
 
-I [tried the 14“ MacBook Pro](../apple_macbook_pro_m1max_a_casual_photographers_view) already in early 2022 and was impressed. In contrast to my conclusion back then I now chose the 14“ model over the 13“ model as my new laptop, with special consideration of my [casual photography](../leanest_highest_quality_casual_photography_setup) use.
+I [tried the 14“ MacBook Pro](../apple_macbook_pro_m1max_a_casual_photographers_view) already in early 2022 and was impressed. In contrast to my conclusion back then I now chose the 14“ model over the 13“ model as my new laptop, mainly due to my [casual photography](../leanest_highest_quality_casual_photography_setup) use.
 
 # My choice
 
@@ -20,9 +20,9 @@ The major 14“ model benefits over the 13“ model for me:
 - A simple but welcome thing is the integrated SD card slot, which is convenient for transferring photos from the camera.
 - The price difference between 13“ and 14“ was only about 15% in the configurations interesting for me - given the 14“ model is simply the higher quality device.
 
-I went for an Apple MacBook Pro with base M1 Pro and extended the RAM to 32GB. It‘s my learning from almost every computer I bought in my life: Purchase double the RAM you think you need in the beginning, you‘ll need it in a few year‘s time. This is especially crucial if the RAM is not extendable as in many current devices by Apple and others.
+I went for a 14" Apple MacBook Pro with base M1 Pro and extended the RAM to 32GB. It‘s my learning from almost every computer I bought in my life: Purchase double the RAM you think you need in the beginning, you‘ll need it in a few year‘s time. This is especially crucial if the RAM is not extendable as in many current devices by Apple and others.
 
-# My experience
+# My experiences
 
 My overall impression of the MacBook Pro after one and a half months is very good.
 
@@ -35,4 +35,4 @@ I also enjoy the battery life of several days in my personal use. While I mainly
 The performance does not need to be discussed especially, it is simply great (in my use for photo editing and normal web use). Last time I ran a [Lightroom export test with the M1 Max model](../apple_macbook_pro_m1max_a_casual_photographers_view) against other devices. I repeated the test with my M1 Pro model, the exact same export is now even consistently faster - there must have been additional software improvements in the meantime.
 I never experienced any performance-related hiccups in any tasks I did on my device. So, measured and perceived performance is exceptionally good with a lot of headroom for more challenging tasks and applications.
 
-My overall conclusion is simple, the 14“ MacBook Pro is the best laptop I have ever used. I am confident that it will accompany well as part of my [lean & high quality casual photography setup](../leanest_highest_quality_casual_photography_setup/) in the years to come.
+My overall conclusion is simple, the 14“ MacBook Pro is the best laptop I have ever used. I am confident that it will serve well as part of my [lean & high quality casual photography setup](../leanest_highest_quality_casual_photography_setup/) in the years to come.

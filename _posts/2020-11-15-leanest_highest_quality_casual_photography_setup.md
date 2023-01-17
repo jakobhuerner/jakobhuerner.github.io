@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The leanest & highest quality casual photography setup (2020)
+title:  The leanest & highest quality casual photography setup (updated 2023)
 categories: [Photoblog, Casual Photography Setup,]
 excerpt: Intro to series on casual photography that meets highest quality and convenience requirements
 image: /images/20201115/s20201115-1.jpg
@@ -26,6 +26,7 @@ Considering all of the above, I have found the almost perfect setup for me by us
 - [the Sony FE 1.8/85mm](../sony_sel85f18_review/) - same as the 35 but at 85mm
 - [the Sony FE 4-5.6/28-60mm](../sony_sel2860_review/) - tiny and optically quite good (travel-)zoom
 - [Adobe Lightroom](../raw_workflow_with_adobe_lightroom/) (on iPad, PC and iPhone) - powerful RAW workflow tool that keeps the complexity of storing, synching and backing up your photos in the background by a robust cloud sychronisation
+- [Apple MacBook Pro 14"](../apple_macbook_pro_m1pro_for_personal_and_casual_photography_use) - a solid and extremely capable laptop for photographers' use
 
 ## The outlook
 
