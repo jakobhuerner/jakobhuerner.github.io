@@ -10,7 +10,7 @@ As my almost 6 year old Windows laptop needed to be replaced, I had to decide: W
 
 ![MacBook Pro M1 Pro](../images/20230117/macbook_pro_m1pro-1.jpg)
 
-I [tried the 14“ MacBook Pro](../apple_macbook_pro_m1max_a_casual_photographers_view) already in early 2022 and was impressed. In contrast to my conclusion back then I now chose the 14“ model over the 13“ model as my new laptop, with special consideration of my [casual photography](../leanest_highest_quality_casual_photography_setup) use.
+I [tried the 14“ MacBook Pro](../apple_macbook_pro_m1max_a_casual_photographers_view) already in early 2022 and was impressed. In contrast to my conclusion back then I now chose the 14“ model over the 13“ model as my new laptop, mainly due to my [casual photography](../leanest_highest_quality_casual_photography_setup) use.
 
 # My choice
 
