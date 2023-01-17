@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Apple MacBook Pro M1 Pro - my considerations and experiences
+title:  Apple MacBook Pro M1 Pro - the best laptop I have ever used
 categories: [Photoblog, Casual Photography Setup]
 excerpt: My experiences with the 14“ MacBook Pro in context of my personal and casual photography use.
 image: /images/20230117/macbook_pro_m1pro-1.jpg
