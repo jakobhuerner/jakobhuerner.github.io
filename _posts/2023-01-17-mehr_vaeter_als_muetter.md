@@ -3,7 +3,7 @@ layout: post
 title: Mehr Väter als Mütter
 categories: [Vaeterblog]
 excerpt: Einer der Lichtblicke der Gleichstellung
-image: /images/vaeterblog/20220117.JPG
+image: /images/vaeterblog/20230117.JPG
 ---
 
 Es ist ein bewölkter und feucht-kühler Dienstagnachmittag im Jänner. Ich schaukle unseren Kleinen in der Nestschaukel auf einem Spielplatz im Nordbahnhofviertel.
@@ -14,4 +14,4 @@ Mit großem Erstaunen stelle ich fest: __Es sind mehr Väter als Mütter mit Kle
 
 Das erhellt triesten Nachmittag! Ein wahrer Lichtblick (für Kinder und Eltern und Gleichstellung)!
  
-![Mehr Väter als Mütter mit Kleinkindern am Spielplatz](../images/vaeterblog/20220117.JPG)
+![Mehr Väter als Mütter mit Kleinkindern am Spielplatz](../images/vaeterblog/20230117.JPG)
