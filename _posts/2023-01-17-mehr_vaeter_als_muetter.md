@@ -12,6 +12,6 @@ Dann schaue ich mich um. Ich blicke hinüber zu den anderen Eltern, die mit ihre
 
 Mit großem Erstaunen stelle ich fest: __Es sind mehr Väter als Mütter mit Kleinkindern auf diesem Spielplatz!__
 
-Das erhellt triesten Nachmittag! Ein wahrer Lichtblick (für Kinder und Eltern und Gleichstellung)!
+Das erhellt den triesten Nachmittag! Ein wahrer Lichtblick (für Kinder und Eltern und Gleichstellung)!
  
 ![Mehr Väter als Mütter mit Kleinkindern am Spielplatz](../images/vaeterblog/20230117.jpg)
