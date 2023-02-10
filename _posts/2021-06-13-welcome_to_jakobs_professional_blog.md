@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to Jakob’s Professional blog
+title: Welcome to Jakob’s professional blog
 categories: [ProfessionalBlog]
 excerpt: Start of my professional blog about work and life-long learning
 image: /images/professionalblog/20210613.jpg
