@@ -6,6 +6,8 @@ excerpt: Start of my professional blog about work and life-long learning
 image: /images/professionalblog/20210613.jpg
 ---
 
+![Jakob’s Professional blog](../images/professionalblog/20210613.jpg)
+
 I started this blog to share my thoughts on this major theme:
 
 > What I have learnt and still need to learn on my professional journey from an industrial engineer to a digitalisation lead 
@@ -19,3 +21,6 @@ All my life I liked exchanging ideas and teaching. On the one hand to pass on my
 I am interested in discussing all statements I make! However, I want to point out that there is no single right or wrong in most of those topics. I will only engage in discussions that extend the field of view in the matter, and will not comment on offensive comments or statements that I do not consider relevant to the topic.
 
 All content presented in this blog reflects my personal opinion and experience and does not necessarily represent my employers' or other partners' points of view. 
+
+
+If you would like to read more of my blog, check out the list of posts [here](../work)!
