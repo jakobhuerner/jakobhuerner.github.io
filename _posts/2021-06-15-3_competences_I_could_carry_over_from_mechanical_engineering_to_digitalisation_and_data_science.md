@@ -25,4 +25,4 @@ Next up
 
 All that education and experience will not directly make you a digitalisation management expert, of course. Here are my personal major [3 things, I had to learn on my journey](../3_competences_I_had_to_acquire_when_changing_from_mechanical_engineering_to_digitalisation_and_data_science).
 
-If you would like to read more of my blog, check out the list of posts [here](../work)!
+If you would like to read more of my blog, check out the list of posts [here](../work#professional-blog)!

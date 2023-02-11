@@ -29,4 +29,4 @@ Finally, the digitalisation business is also a people business. Therefore, you w
 Let's start with a trasitional engineering example: Everybody can relate to the functionality and utility of a car or a power plant. When it comes to digitalisation and data products, things get more difficult. It is really hard to explain the value of a technical solution which is not yet existing, sometimes very complicated and overall ... intangible. If people are used to solving “physical” problems, as it is the normal case for people in industry, you have to find new ways of explaining the value, and to manage expectations in an appropriate way. You will not get a buy-in if you underpromise, but it will also certainly lead to frustration if you start overselling your ideas. Open and very tailored communication and use of multiple media, creative design workshops with specialised methods, focus on continuous prototyping, etc. can be very helpful in this regard.
 
 
-If you would like to read more of my blog, check out the list of posts [here](../work)!
+If you would like to read more of my blog, check out the list of posts [here](../work#professional-blog)!

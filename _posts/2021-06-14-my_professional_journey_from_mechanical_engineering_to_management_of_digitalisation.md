@@ -30,4 +30,4 @@ Lessons learnt
 Key aspects this path has taught me is explained in the next posts [3 competences I could carry over from mechanical engineering](../3_competences_I_could_carry_over_from_mechanical_engineering_to_digitalisation_and_data_science), and [3 competences I had to learn new](../3_competences_I_had_to_acquire_when_changing_from_mechanical_engineering_to_digitalisation_and_data_science).
 
 
-If you would like to read more of my blog, check out the list of posts [here](../work)!
+If you would like to read more of my blog, check out the list of posts [here](../work#professional-blog)!

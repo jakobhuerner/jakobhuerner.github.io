@@ -23,4 +23,4 @@ I am interested in discussing all statements I make! However, I want to point ou
 All content presented in this blog reflects my personal opinion and experience and does not necessarily represent my employers' or other partners' points of view. 
 
 
-If you would like to read more of my blog, check out the list of posts [here](../work)!
+If you would like to read more of my blog, check out the list of posts [here](../work#professional-blog)!
