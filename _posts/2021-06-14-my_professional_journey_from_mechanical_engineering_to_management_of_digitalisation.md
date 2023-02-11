@@ -25,7 +25,8 @@ My studies of industrial engineering with a large share in business and manageme
 At some point the path I want to go became quite clear and I was able to connect the dots finally. In digitalisation management and especially data science I am able to bring together my strengths and interests in a unique way: be it IT and data, or information design, communication with people who come from "traditional" trades like engineering. As this field is not completely new but developed rapidely over the last years, there was a lot of uncharted terrain one could explore and make usable for people.
 
 It required continuous learning, support of my employer, lots of exchange with many different people and simply ... doing. But after all, I was able to successfully take this path into management and leadership of digitalisation with special focus on management of data science programs.
-Lessons learnt
+
+# Lessons learnt
 
 Key aspects this path has taught me is explained in the next posts [3 competences I could carry over from mechanical engineering](../3_competences_I_could_carry_over_from_mechanical_engineering_to_digitalisation_and_data_science), and [3 competences I had to learn new](../3_competences_I_had_to_acquire_when_changing_from_mechanical_engineering_to_digitalisation_and_data_science).
 
