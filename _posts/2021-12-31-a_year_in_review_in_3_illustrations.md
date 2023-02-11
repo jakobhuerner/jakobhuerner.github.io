@@ -16,7 +16,7 @@ I want to look back to 2021 with three inspirational illustrations I have come a
 
 ## Consistency
 
-![Views on a data set](../images/professionalblog/20211231_1.jpg)
+![Consistency](../images/professionalblog/20211231_1.png)
 
 On the one hand we often think about progress and innovation as revolutions and "Heureka" moments. On the other hand we totally underestimate how far we come in a year, or three or ten. The worst thing to do is never starting, even not taking the smallest steps.
 
@@ -24,13 +24,13 @@ In reality, what makes most of us successful most of the time is consistency and
 
 ## A question of perspective
 
-![Views on a data set](../images/professionalblog/20211231_1.jpg)
+![A question of perspective](../images/professionalblog/20211231_2.jpg)
 
 You only really understand things if you look at them from different perspectives. What looks impossible at first, might work out fine if you did not stop after the first glance or an early frustration.
 
 ## Opportunities in front of you
 
-![Views on a data set](../images/professionalblog/20211231_1.jpg)
+![Opportunities in front of you](../images/professionalblog/20211231_3.jpg)
 
 Too often we only look backwards when thinking about our life path and opportunities we used or did not use. In reality every day offers a new set of possibilities and opportunities that we should look for, evaluate and use. The future is bright. 
 
