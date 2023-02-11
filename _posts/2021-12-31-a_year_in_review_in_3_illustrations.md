@@ -8,7 +8,7 @@ image: /images/professionalblog/20211231.jpg
 
 ![Jakob’s Professional blog](../images/professionalblog/20211231.jpg)
 
- Year end is the time to look back to the last 12 months in retrospect, to reflect where your path led you and what mountains and rocks you have climbed.
+Year end is the time to look back to the last 12 months in retrospect, to reflect where your path led you and what mountains and rocks you have climbed.
 
 I want to look back to 2021 with three inspirational illustrations I have come across during this year. Those are pictures I have seen in social media channels this year - maybe even posted by YOU, thanks! - that made me think and that ended up in my "digital shoebox" for things I want to keep and remember.
 

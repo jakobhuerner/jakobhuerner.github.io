@@ -8,7 +8,7 @@ image: /images/professionalblog/20221113.jpg
 
 ![Jakob’s Professional blog](../images/professionalblog/20221113.jpg)
 
- If you have dealt with data (science) projects in the real world, you know the following situation: You have a good use case idea, but you lack data in the right quality or quantity.
+If you have dealt with data (science) projects in the real world, you know the following situation: You have a good use case idea, but you lack data in the right quality or quantity.
 
 __Three possible decisions:__
 
