@@ -12,7 +12,7 @@ Over the years I have developed an increasing interest in all things digital, bo
 
 In the course of my career I helped shaping activities and programs that significantly increase efficiency and reduce the environmental footprint of the company group. I develop teams and programs within the global company network and establish completely new capability fields for the group. 
 
-# My strength
+## My strength
 
 I see my core strength in "connecting the dots". I am good at identifying patterns in unfamiliar, opaque and messy situations. I enjoy most when I am able to successfully re-apply proven ideas and concepts from foreign fields, after understanding their similarities with the problem at hand.
 
@@ -20,9 +20,9 @@ Going hand in hand with the point above, I am always interested in understanding
 
 ![Jakob's strength](../images/work_jakob_strength.jpg)
 
-# Professional blog
+## Professional blog
 
-I am writing about various aspects of my work, new work and career in this section (see for reference also: [LinkedIn post](https://www.linkedin.com/pulse/welcome-jakobs-linkedin-blog-updated-lists-all-posts-jakob-h%C3%BCrner/).
+I am writing about various aspects of my work, new work and career in this section.
 
 It not only helps me reflect on my challenges and my professional development. I also want to share my experiences so that others can benefit from it. 
 
