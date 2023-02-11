@@ -26,6 +26,8 @@ I am writing about various aspects of my work, new work and career in this secti
 
 It not only helps me reflect on my challenges and my professional development. I also want to share my experiences so that others can benefit from it. 
 
+### List of posts
+
 <div id="archives">
   <section id="archive">
       {%for post in site.posts %}
