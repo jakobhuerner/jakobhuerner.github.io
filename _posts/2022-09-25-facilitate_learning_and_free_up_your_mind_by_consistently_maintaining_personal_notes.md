@@ -57,7 +57,7 @@ To find notes again I typically just use the search function. This works well in
 
 To keep my notes tidy, a categorisation with a small number of categories turned out to be helpful for me. This simple list of tags, in combination with search, is sufficient for me:
 
-![Todo labels in Google Keep](../images/professionalblog/20220925.jpg)
+![Todo labels in Google Keep](../images/professionalblog/20220925_1.jpg)
 
 ## Conclusion
 
