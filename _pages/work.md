@@ -16,9 +16,10 @@ In the course of my career I helped shaping activities and programs that signifi
 
 I see my core strength in "connecting the dots". I am good at identifying patterns in unfamiliar, opaque and messy situations. I enjoy most when I am able to successfully re-apply proven ideas and concepts from foreign fields, after understanding their similarities with the problem at hand.
 
+![Jakob's strength](../images/work_jakob_strength.jpg)
+
 Going hand in hand with the point above, I am always interested in understanding systems below the surface, the systems' actors, and their connections. Only by understanding systems and their dynamics, you are able to effectively shape them in a permanent and sustainable way.
 
-![Jakob's strength](../images/work_jakob_strength.jpg)
 
 ## Professional blog
 
