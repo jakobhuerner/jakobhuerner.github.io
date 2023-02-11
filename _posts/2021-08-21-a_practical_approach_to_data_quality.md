@@ -8,7 +8,7 @@ image: /images/professionalblog/20210821.jpg
 
 ![Jakob’s Professional blog](../images/professionalblog/20210821.jpg)
 
- There are not many things in digitalisation that are more discussed by all levels in a company including (and especially) the management. At the same time, discussions are vague, and real understanding of the topic and its practical implications is sometimes very limited: I am talking about data quality.
+There are not many things in digitalisation that are more discussed by all levels in a company including (and especially) the management. At the same time, discussions are vague, and real understanding of the topic and its practical implications is sometimes very limited: I am talking about data quality.
 
 While it is very important to acknowledge the importance of data quality in general, most discussions stay on the surface and sometimes miss the practical point. All digitalisation consultants have and sell great frameworks to achieve perfect data quality within an organisation, books and articles are written on every aspect of the big concept of data quality.
 

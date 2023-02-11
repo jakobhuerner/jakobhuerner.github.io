@@ -8,7 +8,7 @@ image: /images/professionalblog/20210711.jpg
 
 ![Jakob’s Professional blog](../images/professionalblog/20210711.jpg)
 
- In this post I would like to reflect on the one hand on the learnings in the COVID pandemic, on the other hand more broadly on the general concept of working in remote or even remote-only settings in contrast to traditional office-only settings.
+In this post I would like to reflect on the one hand on the learnings in the COVID pandemic, on the other hand more broadly on the general concept of working in remote or even remote-only settings in contrast to traditional office-only settings.
 
 One thing is clear to me - remote work is here to stay. Especially in fields in which the supply of talents is a problem and potentially limits the long-term success of organisations, they will have to be very open to those settings in the long run. Building up competence concerning remote work is therefore a crucial topic in professional development for most of us. By doing that, I am convinced we can use this way of working for the overall benefit over the strict office-only world of the past.
 
