@@ -12,7 +12,7 @@ As my almost 6 year old Windows laptop needed to be replaced, I had to decide: W
 
 I [tried the 14“ MacBook Pro](../apple_macbook_pro_m1max_a_casual_photographers_view) already in early 2022 and was impressed. In contrast to my conclusion back then I now chose the 14“ model over the 13“ model as my new laptop, mainly due to my [casual photography](../leanest_highest_quality_casual_photography_setup) use.
 
-# My choice
+## My choice
 
 The major 14“ model benefits over the 13“ model for me:
 
@@ -22,7 +22,7 @@ The major 14“ model benefits over the 13“ model for me:
 
 I went for a 14" Apple MacBook Pro with base M1 Pro and extended the RAM to 32GB. It‘s my learning from almost every computer I bought in my life: Purchase double the RAM you think you need in the beginning, you‘ll need it in a few year‘s time. This is especially crucial if the RAM is not extendable as in many current devices by Apple and others.
 
-# My experiences
+## My experiences
 
 My overall impression of the MacBook Pro after one and a half months is very good.
 
