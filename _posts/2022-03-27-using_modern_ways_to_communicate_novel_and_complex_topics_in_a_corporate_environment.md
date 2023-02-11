@@ -18,7 +18,7 @@ Traditional channels for internal corporate communication include employee magaz
 
 I have made the experience that there are two powerful modern channels to communicate especially complex and change-related topics.
 
-## Podcasts
+### Podcasts
 
 Internal audio podcasts have proven to be a promising choice if the topic is more complex and requires more time to bring the message across. Instead of having an estimated attention span of 15 seconds for an intranet article, you might successfully get 10 or 15 minutes of your listener’s attention in a podcast episode. 
 
@@ -28,7 +28,7 @@ If you make it easy for people to listen to it, adoption can be quite high in my
 
 Technically the production of audio podcasts is rather simple. Plus: The barrier to join an audio interview as a speaker is also lower compared to many other means of communication or presentation.
 
-## Videos
+### Videos
 
 Reading about a statement of your company’s leader is good, watching them actively talking about it is something completely different. 
 
