@@ -6,7 +6,7 @@ excerpt: Longing for warmth and light ...
 image: /images/20230212/urban_gardening_nordbahnhof-7.jpg
 ---
 
-I really like to have the urban gardening of [Mintzgarten](https://mintzgarten.wordpress.com) on my daily morning walk, as it allows me to live through all seasons.
+I really like to have the urban gardening of [Mintzgarten](https://mintzgarten.wordpress.com) on my daily morning walk, as it allows me to live with it through all seasons.
 
 Now in February we are all longing for spring to flourish again. ☺️
 
