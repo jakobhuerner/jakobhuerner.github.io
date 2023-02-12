@@ -6,7 +6,7 @@ excerpt: Learnings from practice of hybrid work
 image: /images/professionalblog/20210821.jpg
 ---
 
-![Jakob’s Professional blog](../images/professionalblog/20210821.jpg)
+![Jakob’s Professional blog](../images/professionalblog/20210829.jpg)
 
 There are not many things in digitalisation that are more discussed by all levels in a company including (and especially) the management. At the same time, discussions are vague, and real understanding of the topic and its practical implications is sometimes very limited: I am talking about data quality.
 
@@ -20,7 +20,7 @@ I am proposing a very simple approach: __Data quality is "fitness for purpose"__
 
 "Our data is not good, we need to achieve ~better data quality~ before we can do anything with it.", is an often heard sentence in digitalisation/data initiatives, and it's not helpful.
 
-![Views on a data set](../images/professionalblog/20210821_1.jpg)
+![Views on a data set](../images/professionalblog/20210829_1.jpg)
 
 A dataset's data quality must be assessed in the context of its use. One dataset might be perfectly suitable for purpose A, and at the same time useless for purpose B.
 
