@@ -21,7 +21,8 @@ From the perspective of mechanical engineering it is obvious that if you - let's
 ## 3. Building quality into the process
 
 Continuing on point 2, data quality is really one of the defining factors in any data science activity. But as with physical goods like washing machines or cars, it is not enough to do quality checks at the end of the assembly line and select good from bad units. Quite the opposite is true, you have to produce this quality at each step in your production chain. Transferred to data, it means you have to make sure that your sources are of decent quality, but also your data pipelines need to be designed to produce the final quality, this includes correct methods, robust checks/tests, and also traceability and documentation.
-Next up
+
+## Next up
 
 All that education and experience will not directly make you a digitalisation management expert, of course. Here are my personal major [3 things, I had to learn on my journey](../3_competences_I_had_to_acquire_when_changing_from_mechanical_engineering_to_digitalisation_and_data_science).
 
