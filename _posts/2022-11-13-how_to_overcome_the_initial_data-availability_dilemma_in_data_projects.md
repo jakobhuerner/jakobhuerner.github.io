@@ -12,9 +12,9 @@ If you have dealt with data (science) projects in the real world, you know the f
 
 __Three possible decisions:__
 
-- Kill the idea
-- Initiate a (tedious) data collection process
-- Start right away with what you have and improve gradually
+1. Kill the idea
+2. Initiate a (tedious) data collection process
+3. Start right away with what you have and improve gradually
 
 My definite recommendation is 3 - simply do it, start small and grow.
 
