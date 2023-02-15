@@ -31,7 +31,7 @@ Every good use case starts with an idea - the best ones start with an idea by a 
 
 ### Reason 2: Understand your data
 
-In most cases you do not have the right data, data quality and/or data quantity at hand when you start. That is perfectly normal. Moreover, you simply do not have the exact criteria to judge it in the beginning, as especially data quality is highly use case dependent.
+In most cases you do not have the right data, data quality and/or data quantity at hand when you start. That is perfectly normal. Moreover, you simply do not have the exact criteria to judge it in the beginning, as especially data quality is [highly use case dependent](../a_practical_approach_to_data_quality/).
 
 Often you start with a set of “small data”, like a spreadsheet or some measurement data. You should run through your first CRISP-DM cycle quickly to learn about your starting point. With some experience you also get a feeling of the feasibility of your idea’s hypothesis quite quickly.
 
