@@ -8,7 +8,7 @@ image: /images/professionalblog/20211101.jpg
 
 ![Jakob’s Professional blog](../images/professionalblog/20211101.jpg)
 
-For 20+ years, photography is one of my greatest hobbies. As a digital native, photography for me meant digital photography from day one on. In the course of twenty years there was quite a lot of technological progress in this field. This made me think about general technology lessons I have taken from photography into my professional work.
+For 20+ years, [photography](../photography) is one of my greatest hobbies. As a digital native, photography for me meant digital photography from day one on. In the course of twenty years there was quite a lot of technological progress in this field. This made me think about general technology lessons I have taken from photography into my professional work.
 
 Actually, I think mastering photography has quite some similarities with my professional work in managing and leading digitalisation programs. Both disciplines require a solid proficiency level of technologies and techniques. Those need to be combined with creativity and a good sense for people and the world around you. This brings me to my first lesson about technology in the photography field.
 
