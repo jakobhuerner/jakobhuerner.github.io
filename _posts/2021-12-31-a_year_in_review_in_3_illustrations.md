@@ -37,4 +37,4 @@ Too often we only look backwards when thinking about our life path and opportuni
 
 
 
-If you would like to read more of my blog, check out the list of posts [here](../work#professional-blog)!
+If you would like to read more of my blog, check out the list of posts [here](../welcome_to_jakobs_professional_blog)!

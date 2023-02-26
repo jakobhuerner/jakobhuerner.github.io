@@ -66,4 +66,4 @@ As written above, this concept requires a lot of discipline and some additional 
 If such a system works for you, depends on the type of person you are. If you are a structured person, hate the feeling of wasting time and draw satisfaction from constant self-improvement - you should give it a try! 
 
 
-If you would like to read more of my blog, check out the list of posts [here](../work#professional-blog)!
+If you would like to read more of my blog, check out the list of posts [here](../welcome_to_jakobs_professional_blog)!

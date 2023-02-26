@@ -51,4 +51,4 @@ I am convinced you can observe the points above also in other areas than photogr
 Finally, I expect that software and software-driven innovation will become very dominant in even more fields in the coming years. For all affected organisations this implies the need for learning of software competences and culture to be ready for this future. 
 
 
-If you would like to read more of my blog, check out the list of posts [here](../work#professional-blog)!
+If you would like to read more of my blog, check out the list of posts [here](../welcome_to_jakobs_professional_blog)!

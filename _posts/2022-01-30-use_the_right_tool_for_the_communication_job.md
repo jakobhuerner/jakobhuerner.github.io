@@ -46,4 +46,4 @@ Please note that the figures above is not complete, it should illustrate the bas
 How do you think about the way you communicate? 
 
 
-If you would like to read more of my blog, check out the list of posts [here](../work#professional-blog)!
+If you would like to read more of my blog, check out the list of posts [here](../welcome_to_jakobs_professional_blog)!

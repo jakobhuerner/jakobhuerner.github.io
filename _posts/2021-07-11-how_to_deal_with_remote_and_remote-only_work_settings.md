@@ -43,4 +43,4 @@ After all, the most effective single measure might be a very simple rule: Turn o
 While being a typical managerial task, clarity on expectations is even more crucial in remote settings than it is in normal office settings. In a traditional workday at the office you tend to meet each other from time to time, you can quickly check and align tasks and normally simply get some more feeling on how things go. In remote settings an even clearer structure and alignment of input, process and expected output is important in a team or a leadership role. In my daily work I switched consciously from oral task assignments to well-structured written descriptions of tasks that are subsequently personally discussed. Even if the description is short, a written form is generally much more precise. 
 
 
-If you would like to read more of my blog, check out the list of posts [here](../work#professional-blog)!
+If you would like to read more of my blog, check out the list of posts [here](../welcome_to_jakobs_professional_blog)!

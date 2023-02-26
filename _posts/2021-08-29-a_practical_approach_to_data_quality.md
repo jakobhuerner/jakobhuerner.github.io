@@ -37,4 +37,4 @@ I am convinced that only by doing this use case oriented approach can you motiva
 
 So, next time when someone tells you about bad data quality, ask him what he actually wants to do with the data. Or ask her by what criteria - in the context of her use case - she comes to this conclusion. If this cannot be answered, the discussion remains an academic or philosophic one. 
 
-If you would like to read more of my blog, check out the list of posts [here](../work#professional-blog)!
+If you would like to read more of my blog, check out the list of posts [here](../welcome_to_jakobs_professional_blog)!

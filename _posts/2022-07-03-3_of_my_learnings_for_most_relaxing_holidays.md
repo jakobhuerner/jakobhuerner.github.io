@@ -32,4 +32,4 @@ Risky is starting with a no-touch strategy and then looking up emails - you will
 All the best for your summer holidays! Make best use of it!   
 
 
-If you would like to read more of my blog, check out the list of posts [here](../work#professional-blog)!
+If you would like to read more of my blog, check out the list of posts [here](../welcome_to_jakobs_professional_blog)!

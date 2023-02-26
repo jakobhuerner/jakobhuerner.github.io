@@ -48,4 +48,4 @@ Examples:
 By doing that, you reach the broadest range of people, and reach them on a factual and personal level. Furthermore you give all of them the possibility to consume your communication in the way most convenient for them. Communication mission accomplished. 
 
 
-If you would like to read more of my blog, check out the list of posts [here](../work#professional-blog)!
+If you would like to read more of my blog, check out the list of posts [here](../welcome_to_jakobs_professional_blog)!

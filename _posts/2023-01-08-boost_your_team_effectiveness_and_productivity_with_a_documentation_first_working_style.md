@@ -49,4 +49,4 @@ Should I simply convert to a documentation-first working style for everything I 
 No. In the end you will be most successful if you choose [the right tool for the task](../use_the_right_tool_for_the_communication_job) at hand, and the right tool that suits your and your team's preferences. However, I am sure: A proper interactive documentation approach for async communication must be in your team's toolbox in any case! 
 
 
-If you would like to read more of my blog, check out the list of posts [here](../work#professional-blog)!
+If you would like to read more of my blog, check out the list of posts [here](../welcome_to_jakobs_professional_blog)!

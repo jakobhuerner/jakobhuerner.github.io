@@ -44,4 +44,4 @@ Tips to get more active in your daily work and private life routines:
 
 
 
-If you would like to read more of my blog, check out the list of posts [here](../work#professional-blog)!
+If you would like to read more of my blog, check out the list of posts [here](../welcome_to_jakobs_professional_blog)!
