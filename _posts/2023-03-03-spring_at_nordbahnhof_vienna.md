@@ -6,7 +6,7 @@ excerpt: Nordbahnhof starts flourishing
 image: /images/20230303/spring_nordbahnhof_graetzloase-1.jpg
 ---
 
-Finally, the first flowers at a small "Grätzloase" near the Austria Campus.
+Finally, the first flowers show up at a small "Grätzloase" near the Austria Campus.
 
 
 ![Grätzloase](../images/20230303/spring_nordbahnhof_graetzloase-1.jpg)
