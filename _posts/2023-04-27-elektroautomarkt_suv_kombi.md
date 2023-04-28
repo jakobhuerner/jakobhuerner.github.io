@@ -26,8 +26,8 @@ Da wir gewisse Anforderungen bei der Größe für vier Personen haben, blieben d
 
 Am Ende wurde es ... das E-SUV (2.).
 
-Das Fahrzeug an sich ist toll. Sicher, geräumig, spielt viele Stückerl die dem Komfort zuträglich sind, lädt schnell, hat eine sinnvolle Batteriegröße und ist auch sonst ein sehr ausgereiftes Produkt. Es wäre halt meiner Meinung nach viel gescheiter, es als eleganteren und effizienteren Kombi zu bauen. Man bekäme durch geringeren Luftwiderstand bei gleicher Batteriegröße auch noch mehr Reise-Reichweite "geschenkt".
+Das Fahrzeug an sich ist toll. Sicher, geräumig, spielt viele Stückerl die dem Komfort zuträglich sind, lädt schnell, hat eine sinnvolle Batteriegröße und ist auch sonst ein sehr ausgereiftes Produkt. Es wäre einzig viel gescheiter, es als eleganteren und effizienteren Kombi zu bauen. Man bekäme durch geringeren Luftwiderstand bei gleicher Batteriegröße auch noch mehr Reise-Reichweite "geschenkt".
 
-Wenn mir die Autoindustrie kommt mit: "Die Kunden wollen eben SUVs, nur deshalb bauen wir sie", kann ich nur müde lächeln. Die Nachfrage der Kunden für vernünftige, effiziente und hochqualitative Kombis vom Schnitte eines BMW 3er Touring, Skoda Octavia, ... wäre da. Ihre eigenen gezielten SUV-Marketingkampagnen seit Jahren und die erzielten Margen der Stadtgeländewagen sind die Gründe, weshalb die Automobilhersteller diese Autos priorisieren.
+Wenn mir die Autoindustrie kommt mit: "Die Kunden wollen eben SUVs, nur deshalb bauen wir sie", kann ich nur müde lächeln. Die Nachfrage der Kunden nach vernünftigen, effizienten und hochqualitativen Kombis vom Schnitte eines VW Passat, BMW 3er Touring, Skoda Octavia, ... wäre da. Ihre eigenen gezielten SUV-Marketingkampagnen seit Jahren und die erzielten Margen der Stadtgeländewagen sind wohl die wahren Gründe, weshalb die Automobilhersteller diese Autos priorisieren.
 
 ¹ Ein E-SUV der gleichen Preisklasse des gleichen Herstellers wäre binnen Wochen verfügbar gewesen. Man sieht also deutlich, welche Prioritäten Automobilhersteller setzen.
