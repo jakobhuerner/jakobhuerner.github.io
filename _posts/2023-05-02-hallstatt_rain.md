@@ -2,7 +2,7 @@
 layout: post
 title: Hallstatt
 categories: [Photoblog, Photos]
-excerpt: Hallstatt in the rain
+excerpt: A trip on tourist paths.
 image: /images/20230502/hallstatt-1.jpg
 ---
 
