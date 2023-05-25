@@ -18,19 +18,23 @@ Wien hat meiner Meinung nach eine erfreulich hohe Dichte an attraktiven Ladestat
 Ich wollte unser Fahrzeug in der Nähe unserer Wiener Wohnadresse schnellladen und musste dazu letztendlich vier Ladestationen verschiedener Betreiber anfahren, um Strom ins Auto zu bekommen.
 
 ❌ __Ladestation 1 - 50kW - Smatrics__
+
 Der erste Versuch war an einer Smatrics-Station. Mit Ladekarte erfolgreich authentifiziert, angesteckt, kurz gewartet, Fehlermeldung. Zweimal neu versucht, ging nicht.
 Also weiter fahren zur nächsten.
 
 ❌ __Ladestation 2 - 50kW - Wien Energie__
+
 Der zweite Versuch war dann an einer Wien-Energie-Station, glücklicherweise nicht weit von der ersten entfernt. Erfahrung ähnlich wie beim ersten Versuch, nur dass die Station schon bei der Authentifizierung hing.
 Also weiter zur nächsten, diesmal ein paar Kilometer. 
 
 ❌ __Ladestation 3 - 150kW - Smatrics__
+
 Der dritte Versuch war wieder an einer Smatrics-Station mit 4 Anschlüssen. Da drei andere Autos bereits angesteckt dort standen, war ich optimistisch.
 Also wieder versucht, den Ladevorgang zu starten. Die Anzeige meldete dann aber umgehend, dass kein Ladepunkt verfügbar sei, obwohl ich den freien Stecker in der Hand hatte. Trotz mehrmaliger Versuche kein Erfolg.
 Also weiter fahren zur nächsten.
 
 ✅ __Ladestation 4 - 150kW - da.emobil__
+
 Der vierte Versuch fand dann an einer da.emobil-Station statt.
 Dort lief es dann endlich wie es sein sollte: Ladekarte hinhalten, anstecken, laden mit hoher Leistung.
 
