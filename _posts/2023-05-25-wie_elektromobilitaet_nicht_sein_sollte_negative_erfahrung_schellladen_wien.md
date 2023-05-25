@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Wie Elektromobilität in der Praxis nicht sein soll (und leider auch ist))
+title: Wie Elektromobilität in der Praxis nicht sein soll (und leider auch ist)
 categories: [General]
 excerpt: Elektromobilität und die -infrastruktur funktionieren manchmal leider noch nicht wie sie sollen.
 image: /images/general/20230427_suv.jpg
 ---
-
-Teil 2 von 2 ([hier entlang zu 1](../wie_elektromobilitaet_sein_sollte_positive_erfahrung_volkswagen_id4/))
 
 ![Volkswagen ID.4 an einer funktionierenden 50kW Schnellladesäule](../images/general/20230525_elektromobilitaet_laden_vw_id4-2.jpg)
 _Foto: Elektroauto an 50kW-Ladestation (Symbolbild - diese Ladesäule funktionierte perfekt)_
@@ -48,3 +46,6 @@ Mein Vorhaben, “noch schnell” zu laden, war leider an diesem Tag in Wien nic
 An der Qualität der schnelleren Ladeinfrastruktur in Wien muss also, zumindest dort wo ich wohne, noch stark gearbeitet werden. Eine Infrastruktur, auf die man sich verlassen kann, ist eine Grundvoraussetzung für eine breitere Akzeptanz der Elektromobilität.
 
 Richtig ärgerlich wäre eine Situation, wie die von mir erlebte, auf der Langstrecke bzw. Autobahn. Hier sind meine Erfahrungen bisher aber umgekehrt sehr gut, was mich auch für Wien positiv stimmt - technisch ist es offenbar keine Hexerei.
+
+
+_Teil 2 von 2 ([hier entlang zu 1](../wie_elektromobilitaet_sein_sollte_positive_erfahrung_volkswagen_id4/))_

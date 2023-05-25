@@ -6,8 +6,6 @@ excerpt: Elektromobilität funktioniert in 2023, fast immer.
 image: /images/general/20230427_suv.jpg
 ---
 
-Teil 1 von 2 ([hier entlang zu 2](../wie_elektromobilitaet_nicht_sein_sollte_negative_erfahrung_schellladen_wien/))
-
 ![Volkswagen ID.4 an einer funktionierenden 50kW Schnellladesäule](../images/general/20230525_elektromobilitaet_laden_vw_id4-1.jpg)
 _Foto: Schnelladen eines Elektroautos an der Autobahn funktioniert und dauert ca. 30min_
 
@@ -28,3 +26,6 @@ Erstens: Der Fahrkomfort ist meiner Meinung nach überragend. Ein Elektroauto is
 Zweitens: Die Fahrt mit dem Elektroauto bedarf vielleicht ein klein bisschen mehr Überlegung und Planung - der Komfort und die Nerven leiden auf längeren Strecken aber keineswegs mehr als bei einem Benziner oder Diesel.
 
 Gleicher Komfort mit weniger Umweltbelastung - so solls sein. Ziel erfüllt.
+
+
+_Teil 1 von 2 ([hier entlang zu 2](../wie_elektromobilitaet_nicht_sein_sollte_negative_erfahrung_schellladen_wien/))_
