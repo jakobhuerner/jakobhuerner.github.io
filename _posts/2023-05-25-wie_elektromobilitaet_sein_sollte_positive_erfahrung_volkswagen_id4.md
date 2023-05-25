@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Kunden können jedes Elektroauto haben, so lange es ein SUV ist
+title: Wie Elektromobilität in der Praxis sein soll (und schon ist)
 categories: [General]
-excerpt: Liegt es an den Kund:innen, oder den Herstellern? Ich habe da meine eigene Meinung.
+excerpt: Elektromobilität funktioniert in 2023, fast immer.
 image: /images/general/20230427_suv.jpg
 ---
 
@@ -17,7 +17,9 @@ Etwas Neugierde und leichte Anspannung waren dabei, aber rückblickend waren sä
 ## Urlaubsfahrt ins Salzkammergut
 
 Vor uns lag eine Fahrt von gut dreieinhalb Stunden, also zumindest mit der Familie eine Distanz, die man in jedem Fall mit einer Pause fährt. Früh morgens ging es mit einer gut gefüllten Fahrzeugbatterie los. Nach etwa 2,5 Stunden machten wir dann eine Pause, in der ein Toilettengang notwendig war und die Kinder ein kleines Frühstück bekamen. Nebenbei lud das Elektroauto am Ionity Schnelllader und war praktisch zur gleichen Zeit mit dem Laden fertig, wie die vierköpfige Familie mit der notwendigen Pause. Das ist perfekt.
+
 Entspannt kamen wir in der Unterkunft an.
+
 Dort gab es eine Ladestation für Gäste, bei der wir das Auto vor Abfahrt über Nacht nochmals aufladen konnten, ehe wir die Rückreise wieder inklusive einer weiteren kurzen Pause für Mensch und Fahrzeug antraten.
 
 ## Eine rundum sehr positive Erfahrung
