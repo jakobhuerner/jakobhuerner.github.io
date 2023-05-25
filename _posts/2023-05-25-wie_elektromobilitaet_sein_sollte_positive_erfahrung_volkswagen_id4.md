@@ -9,7 +9,7 @@ image: /images/general/20230427_suv.jpg
 Teil 1 von 2 ([hier entlang zu 2](../wie_elektromobilitaet_nicht_sein_sollte_negative_erfahrung_schellladen_wien/))
 
 ![Volkswagen ID.4 an einer funktionierenden 50kW Schnellladesäule](../images/general/20230525_elektromobilitaet_laden_vw_id4-1.jpg)
-Schnelladen eines Elektroautos an der Autobahn funktioniert und dauert ca. 30min
+_Foto: Schnelladen eines Elektroautos an der Autobahn funktioniert und dauert ca. 30min_
 
 Als wir unser Elektroauto recht neu hatten, ging es gleich einmal in einen Urlaub in Österreich. Während wir mit dem Auto normalerweise kaum Strecken wesentlich über 250km am Tag zurücklegen, stand bei dieser Urlaubsfahrt die Langstreckentauglichkeit des neuen Fahrzeugs am Prüfstand.
 Etwas Neugierde und leichte Anspannung waren dabei, aber rückblickend waren sämtliche vorgelagerten Sorgen gänzlich unbegründet.

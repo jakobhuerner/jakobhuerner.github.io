@@ -9,7 +9,7 @@ image: /images/general/20230427_suv.jpg
 Teil 2 von 2 ([hier entlang zu 1](../wie_elektromobilitaet_sein_sollte_positive_erfahrung_volkswagen_id4/))
 
 ![Volkswagen ID.4 an einer funktionierenden 50kW Schnellladesäule](../images/general/20230525_elektromobilitaet_laden_vw_id4-2.jpg)
-Elektroauto an 50kW-Ladestation (Symbolbild - diese Ladesäule funktionierte perfekt)
+_Foto: Elektroauto an 50kW-Ladestation (Symbolbild - diese Ladesäule funktionierte perfekt)_
 
 Wien hat meiner Meinung nach eine erfreulich hohe Dichte an attraktiven Ladestationen im Leistungsbereich 11-22kW (“Normalladen” mit Wechselstrom, dauert mehrere Stunden). Beim Schnellladen mit 50kW+ (“Schnellladen” mit Gleichstrom in <1 Stunde) schaut es am Papier nicht besonders gut aus. Wie die hier geschilderte Erfahrung zeigt, kann man in der Praxis aber leider noch schlechter dran sein.
 

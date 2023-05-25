@@ -9,8 +9,7 @@ image: /images/general/20230427_suv.jpg
 Das abgewandelte Zitat von Henry Ford im Titel beschreibt die Situation am (österreichischen) Elektroautomarkt.
 
 ![Ein Stadtgeländewagen in seinem natürlichen Habitat (beliebiges Beispielfoto)](../images/general/20230427_suv.jpg)
-
-Foto: Ein obszön großer Stadtgeländewagen in seinem natürlichen Habitat (beliebiges Beispielfoto) 
+_Foto: Ein obszön großer Stadtgeländewagen in seinem natürlichen Habitat (beliebiges Beispielfoto)_
 
 Um eines vorweg zu klären: Man kann den Sinn eines eigenen PKW in der Stadt generell in Frage stellen. Wir haben für uns für den Luxus eines eigenen Autos zugunsten von umfangreicheren Freizeitgestaltungsmöglichkeiten entschieden.
 
