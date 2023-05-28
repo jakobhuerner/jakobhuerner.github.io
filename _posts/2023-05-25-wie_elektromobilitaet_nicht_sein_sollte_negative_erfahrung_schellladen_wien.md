@@ -3,7 +3,7 @@ layout: post
 title: Wie Elektromobilität in der Praxis nicht sein soll (und leider auch ist)
 categories: [General]
 excerpt: Elektromobilität und die -infrastruktur funktionieren manchmal leider noch nicht wie sie sollen.
-image: /images/general/20230427_suv.jpg
+image: /images/general/20230525_elektromobilitaet_laden_vw_id4-2.jpg
 ---
 
 ![Volkswagen ID.4 an einer funktionierenden 50kW Schnellladesäule](../images/general/20230525_elektromobilitaet_laden_vw_id4-2.jpg)
