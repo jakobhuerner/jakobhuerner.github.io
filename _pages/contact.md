@@ -13,7 +13,7 @@ Austria<br/>
 
 ## License 
 
-Feel free to reuse my published content on this website under the license Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)). If you want to reuse it commercially, please contact me via email!
+My content published on this website can be re-used under the terms of Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)). If you want to use it commercially, please contact me via email!
 
 ## Reference
 
