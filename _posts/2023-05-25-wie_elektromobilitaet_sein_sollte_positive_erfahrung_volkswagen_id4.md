@@ -3,7 +3,7 @@ layout: post
 title: Wie Elektromobilität in der Praxis sein soll (und schon ist)
 categories: [General]
 excerpt: Elektromobilität funktioniert in 2023, fast immer.
-image: /images/general/20230427_suv.jpg
+image: /images/general/20230525_elektromobilitaet_laden_vw_id4-1.jpg
 ---
 
 ![Volkswagen ID.4 an einer funktionierenden 50kW Schnellladesäule](../images/general/20230525_elektromobilitaet_laden_vw_id4-1.jpg)
