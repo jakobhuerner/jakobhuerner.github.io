@@ -3,7 +3,7 @@ layout: post
 title: Vogelbergsteig
 categories: [Photoblog, Photos]
 excerpt: A hike with exceptional views on the Wachau valley.
-image: /images/20230522/schrems_himmelsleiter-2.jpg
+image: /images/20230626/wachau_vogelbergsteig-08.jpg
 ---
 
 It is a real insider tip among people who like the beautiful Wachau valley in Lower Austria.
