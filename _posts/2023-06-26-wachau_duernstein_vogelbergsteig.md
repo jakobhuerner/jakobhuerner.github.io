@@ -32,6 +32,4 @@ The trail at the Vogelberg is a little difficult, but offers unmatched views ove
 
 ![Vogelbergsteig, Dürnstein, Wachau, Lower Austria](../images/20230626/wachau_vogelbergsteig-10.jpg)
 
-<iframe src="https://aut.social/@jakobhuerner/110606106856502086/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://aut.social/embed.js" async="async"></script>
-
 Pictures taken with the Sony A7C and the Sony FE 4-5.6/28-60mm.
