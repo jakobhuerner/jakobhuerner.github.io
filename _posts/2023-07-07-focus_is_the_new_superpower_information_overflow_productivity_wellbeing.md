@@ -26,7 +26,7 @@ We gave our devices and apps permission to constantly accelerate the information
 
 I feel this is not only true for our private communication, but also for our professional communication at work. As written in posts on this blog before, the number of communication channels increased strongly, and it is easy to lose oversight and a healthy usage level.
 
-You can try it out yourself: Check out your phone’s screen time ([Apple](https://support.apple.com/guide/iphone/view-your-screen-time-summary-iph24dcd4fb8/ios) , [Android](https://www.android.com/digital-wellbeing/). Surprised by the number of notifications and device unlocks per day?
+You can try it out yourself: Check out your phone’s screen time ([Apple](https://support.apple.com/guide/iphone/view-your-screen-time-summary-iph24dcd4fb8/ios) , [Android](https://www.android.com/digital-wellbeing/)). Surprised by the number of notifications and device unlocks per day?
 
 In times of regular overflow of information, I think we run into two major problems:
 
@@ -53,14 +53,14 @@ Focus in the age of information overflow means to me:
 
 I found out that the following practices are helpful for me to maintain focus on the important things, and to run my communication in a healthy and productive way.
 
-In private life:
+### Best practices in private life
 
 - Mute notifications for group chats with more than 5 people on your messaging app, check them maybe once a day. Normally no time-critical information is discussed in such chats.
 - Do not give away your private phone number unless absolutely needed. Try to run as much communication with businesses via email - so you can set the pace yourself.
 - Avoid Instagram, Twitter, TikTok, … altogether. News is best consumed in a curated way on a daily or weekly basis. As a normal human being, you do not need to be informed about every small political/economic/societal development in real-time.
 - Avoid the smartphone apps of online services whenever possible. Apps are typically intrusive and nudge you to open them much more frequently than needed. It is easier to stay disciplined when using the browser version, also because it is slightly less convenient. I for example stopped using the LinkedIn app, and check its webpage only every other day on average - which is certainly frequent enough. 
 
-In professional life:
+### Best practices in professional life 
 
 - Be conscious about your [communication channels ](../use_the_right_tool_for_the_communication_job). Also communicate your preferences to your co-workers.
 - Disable notifications for emails. Email is not a means of real-time communication and therefore a time to read/reply of about a day shall be allowed.
