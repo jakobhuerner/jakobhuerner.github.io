@@ -62,7 +62,7 @@ I found out that the following practices are helpful for me to maintain focus on
 
 ### Best practices in professional life 
 
-- Be conscious about your [communication channels ](../use_the_right_tool_for_the_communication_job). Also communicate your preferences to your co-workers.
+- Be conscious about your [communication channels](../use_the_right_tool_for_the_communication_job). Also communicate your preferences to your co-workers.
 - Disable notifications for emails. Email is not a means of real-time communication and therefore a time to read/reply of about a day shall be allowed.
 - Avoid notifications via email as much as possible. Various business applications and workflow solutions like to send out masses of emails - the value is often very limited.
 - Take some time to create clever email filters. Emails are easier to handle if you have a meaningful automatic pre-sorting in place.
