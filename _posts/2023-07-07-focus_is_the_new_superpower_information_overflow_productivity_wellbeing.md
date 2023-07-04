@@ -3,10 +3,10 @@ layout: post
 title: Focus is the new superpower
 categories: [ProfessionalBlog]
 excerpt: In times of information overflow, your productivity and well-being depends on your ability to focus 
-image: /images/professionalblog/202300707.jpg
+image: /images/professionalblog/20230707.jpg
 ---
 
-![Jakob’s Professional blog](../images/professionalblog/202300707.jpg)
+![Jakob’s Professional blog](../images/professionalblog/20230707.jpg)
 
 During the months of my parental leave I was more out in the „real world” in public transport, on city streets and in parks and playgrounds than usual. There, a bit detached from my daily work routine, I was thinking a lot about how we live and work, and especially how we use our time.
 
