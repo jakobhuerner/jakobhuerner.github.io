@@ -26,7 +26,7 @@ We gave our devices and apps permission to constantly accelerate the information
 
 I feel this is not only true for our private communication, but also for our professional communication at work. As written in posts on this blog before, the number of communication channels increased strongly, and it is easy to lose oversight and a healthy usage level.
 
-You can try it out yourself: Check out your phone’s screen time ([Apple](https://support.apple.com/guide/iphone/view-your-screen-time-summary-iph24dcd4fb8/ios) , [Android](https://www.android.com/digital-wellbeing/)). Surprised by the number of notifications and device unlocks per day?
+You can try it out yourself: Check out your phone’s screen time ([Apple](https://support.apple.com/guide/iphone/view-your-screen-time-summary-iph24dcd4fb8/ios), [Android](https://www.android.com/digital-wellbeing/)). Surprised by the number of notifications and device unlocks per day?
 
 In times of regular overflow of information, I think we run into two major problems:
 
