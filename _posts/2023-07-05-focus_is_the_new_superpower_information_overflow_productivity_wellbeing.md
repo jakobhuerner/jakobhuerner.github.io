@@ -15,7 +15,7 @@ I made many observations. I want to dedicate this post to the one that definitel
 ## Collectively addicted to our devices
 Let’s be honest: As a society we got completely addicted to our mobile devices and social media apps. If you look around you at the underground train, or if you watch parents on the playground - everywhere you will see people staring at their phones, checking out the newest TikTok videos and Instagram stories. Even more intrusive, smartphone notifications seem to come in all the time.
 
-Many people argue that people have always looked for distraction during idle times like commutes by reading newspapers or books. My impression, however, is that this distraction-seeking got more intense even in the last few years. People seem to be drawn in by all those blings, bells, and unread counters much more than a paper or book could ever do.
+Many people argue that people have always looked for distraction during idle times like commutes by reading newspapers or books. My impression, however, is that this distraction-seeking has got more intense even in the last few years. People seem to be drawn in by all those blings, bells, and unread counters much more than a paper or book could ever do.
 
 I do not want to blame the individual consumer. It’s the apps that are designed to make you addicted. We as consumers must be more conscious and clear about this fact. 
 
