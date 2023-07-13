@@ -22,7 +22,7 @@ Alternatively, you can check out my technical posts about [The leanest & highest
 Or you read some history lessons about [how I got into photography](../my_personal_photography_history/).
 
 
-Have fun and feel free to reach out to [me](https://www.twitter.com/jakobh).
+Have fun and feel free to reach out to [me](../contact).
 
 [![Posts overview](../images/post_collage.jpg)](../photoblog)
 
