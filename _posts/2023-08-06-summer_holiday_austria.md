@@ -12,7 +12,7 @@ After [last year](../summer_holiday_mostviertel) we enjoyed summer in Austria th
 
 ![Bad Blumau](../images/20230806/holiday_austria-1.jpg)
 
-![Wildnisgebiet Dürrenstein](../images/20230806/holiday_austria-1.jpg)
+![Wildnisgebiet Dürrenstein](../images/20230806/holiday_austria-2.jpg)
 
 
 
