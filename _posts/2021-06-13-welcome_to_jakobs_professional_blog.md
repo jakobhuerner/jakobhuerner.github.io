@@ -10,7 +10,7 @@ image: /images/professionalblog/20210613.jpg
 
 I started this blog to share my thoughts on this major theme:
 
-> What I have learnt and still need to learn on my professional journey from an industrial engineer to a digitalisation lead 
+> What I have learnt and still need to learn on my professional journey from an industrial engineer to a digitalisation lead, and later a head of department.
 
 ## Motivation
 
