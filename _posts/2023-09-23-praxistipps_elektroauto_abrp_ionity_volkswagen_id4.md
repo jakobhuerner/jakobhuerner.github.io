@@ -7,7 +7,7 @@ image: /images/general/20230923_vw_id4_laden_evn.jpg
 ---
 
 ![Volkswagen ID.4 an einer 11kW EVN-Ladesäule](../images/general/20230923_vw_id4_laden_evn.jpg)
-_Foto: Elektroauto an Ladesäule - Stehen heißt laden_
+_Foto: Stehen und laden sind gedanklich eins_
 
 ## Nutze Stehzeiten als Ladezeiten
 Das typische Nutzungsprofil eines Fahrzeuges umfasst einen überwiegenden Anteil an Stehzeiten. Ein Beispiel dafür ist eine Fahrt zu einem Wochenend-Ausflugsziel. Man kommt an, parkt das Auto, verbringt ein paar Stunden dort, und fährt dann wieder mit dem Auto heim. Stehzeiten wie diese kann man meist als ideale Ladezeiten fürs Fahrzeug nutzen, da bei vielen typischen Destinationen wie Museen, Ausstellungen, Geschäften etc. Lademöglichkeiten angeboten werden. Das Titelbild zeigt das Besucherzentrum des Nationalparks Thayatal im nördlichsten Waldviertel - selbst dort lassen sich an einem von mehreren 11kW-Ladern einige Kilowattstunden während des Besuchs nachladen. 
