@@ -7,10 +7,10 @@ image: /images/general/20230923_vw_id4_laden_evn.jpg
 ---
 
 ![Volkswagen ID.4 an einer 11kW EVN-Ladesäule](../images/general/20230923_vw_id4_laden_evn.jpg)
-_Foto: Motto "Steht er, dann lädt er"_
+_Foto: Elektroauto an Ladesäule - Stehen heißt laden_
 
 ## Nutze Stehzeiten als Ladezeiten
-Das typische Nutzungsprofil eines Fahrzeuges umfasst einen überwiegenden Anteil an Stehzeiten. Ein Beispiel dafür ist eine Fahrt zu einem Wochenend-Ausflugsziel. Man kommt an, parkt das Auto, verbringt ein paar Stunden dort, und fährt dann wieder mit dem Auto heim. Stehzeiten wie diese kann man meist als ideale Ladezeiten fürs Fahrzeug nutzen, da bei vielen typischen Destinationen wie Museen, Ausstellungen, Geschäften etc. Lademöglichkeiten angeboten werden. Das Beispielbild zeigt das Besucherzentrum des Nationalparks Thayatal im nördlichsten Waldviertel - selbst dort lassen sich an einem von mehreren 11kW-Ladern einige Kilowattstunden während des Besuchs nachladen. 
+Das typische Nutzungsprofil eines Fahrzeuges umfasst einen überwiegenden Anteil an Stehzeiten. Ein Beispiel dafür ist eine Fahrt zu einem Wochenend-Ausflugsziel. Man kommt an, parkt das Auto, verbringt ein paar Stunden dort, und fährt dann wieder mit dem Auto heim. Stehzeiten wie diese kann man meist als ideale Ladezeiten fürs Fahrzeug nutzen, da bei vielen typischen Destinationen wie Museen, Ausstellungen, Geschäften etc. Lademöglichkeiten angeboten werden. Das Titelbild zeigt das Besucherzentrum des Nationalparks Thayatal im nördlichsten Waldviertel - selbst dort lassen sich an einem von mehreren 11kW-Ladern einige Kilowattstunden während des Besuchs nachladen. 
 
 
 ## Setze auf ABRP für die Langstreckenplanung
@@ -26,7 +26,7 @@ Wer Langstrecken mit dem Elektroauto möglichst ohne negative Überraschungen zu
 
 [![ABRP Routenplanung von Wien nach Luleå mit einem VW ID.3](../images/general/20230923_abrp_vienna_lulea.jpg)](https://abetterrouteplanner.com/?plan_uuid=666a2ac3-2e6d-4fb9-936c-abf7374ec6b0)
 
-## Ersetze niedrige Schallemissionen mit doppelter Aufmerksamkeit 
+## Ersetze Schallemissionen mit doppelter Aufmerksamkeit 
 Ein großer Vorteil von Elektroautos ist gleichzeitig ein Nachteil. Gerade bei niedrigen Geschwindigkeiten, bevor Abroll- und Windgeräusche überwiegen, sind Elektroautos sehr leise.
 Dies führt dazu, dass diese von anderen Verkehrsteilnehmer:innen öfter einmal überhört werden. Gerade auf Parkplätzen oder Zufahrten erlebt man dies regelmäßig.
 Deshalb sollte die Devise sein, als Elektroautolenker:in gegenüber Fußgänger:innen und Radler:innen doppelt aufmerksam zu sein, um gefährlichen Situationen im Vorhinein vorzubeugen.
