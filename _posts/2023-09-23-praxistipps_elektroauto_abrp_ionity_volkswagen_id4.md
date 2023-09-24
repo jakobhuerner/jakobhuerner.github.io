@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Entspannt und sicher unterwegs mit dem Elektroauto - 4 Praxistipps
+title: Vier Praxistipps für Elektroauto
 categories: [General]
 excerpt: Meine Erfahrungen nach einem halben Jahr mit E-Auto 
 image: /images/general/20230923_vw_id4_laden_evn.jpg
