@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vier Praxistipps für Elektroauto
+title: Vier Praxistipps fürs Elektroauto
 categories: [General]
 excerpt: Meine Erfahrungen nach einem halben Jahr mit E-Auto 
 image: /images/general/20230923_vw_id4_laden_evn.jpg
