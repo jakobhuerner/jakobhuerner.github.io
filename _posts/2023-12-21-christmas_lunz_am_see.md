@@ -13,4 +13,4 @@ When it's Christmas time in Lunz am See ... it's quiet and beautiful.
 ![Christmas in Lunz am See](../images/20231221/christmas_lunz-2.jpg)
 
 
-Picture taken with the Apple iPhone 15 Pro.
+Pictures taken with the Apple iPhone 15 Pro.
