@@ -46,7 +46,7 @@ To celebrate the end of 2023 and the arrival of 2024, I* created a team song - h
 *Facing this task, oh, baby I only get by with a little help from my friend and copilot GPT-4.
 
 The question (prompt) I have given GPT-4 is: 
-*write an inspirational year end post for LinkedIn. write it in the style of rock music lyrics. mention team, steel, achievements and new opportunities for 2024*
+`write an inspirational year end post for LinkedIn. write it in the style of rock music lyrics. mention team, steel, achievements and new opportunities for 2024`
 
 It's remarkable what this type of AI can produce from this limited amount of input. Looking forward to exploring what AI and LLMs will bring to our (work) lives, after the first wave of exceeded expectations is over. :)
 
