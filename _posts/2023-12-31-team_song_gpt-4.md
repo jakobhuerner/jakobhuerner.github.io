@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Team Song for 2024
+title: The team song for 2024
 categories: [ProfessionalBlog]
 excerpt: Let's celebrate the arrival of the new year with a team song!
 image: /images/professionalblog/20231231.jpg
@@ -12,7 +12,8 @@ The year 2023 comes to an end, the new year will bring new challenges and opport
 
 To celebrate the arrival of 2024, I* created a team song - here it is!
 
-## 🎸 The Team Song for 2024 
+---
+### 🎸 The Team Song for 2024 
 
 *We rocked this year like a steel*<br>
 *We forged our path and made it real*<br>
@@ -41,9 +42,8 @@ To celebrate the arrival of 2024, I* created a team song - here it is!
 
 ---
 
-## 🎶 ... with a little help from my friend
 
-*I got a little help from my co-pilot GPT-4.
+*Facing this task, oh, baby I only get by with a little help from my friend and copilot GPT-4.
 
 The question (prompt) I have given it is: *write an inspirational year end post for LinkedIn. write it in the style of rock music lyrics. mention team, steel, achievements and new opportunities for 2024*
 
