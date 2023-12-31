@@ -14,10 +14,10 @@ To celebrate the arrival of 2024, I (*) created a team song - here it is!
 
 ## The Team Song for 2024
 
-*We rocked this year like a steel*
-*We forged our path and made it real*
-*We worked as a team with loyalty and will*
-*We conquered the challenges and fulfilled*
+*We rocked this year like a steel
+We forged our path and made it real
+We worked as a team with loyalty and will
+We conquered the challenges and fulfilled*
 
 *We produced awesome products and quality*
 *That pleased our customers and industry*
