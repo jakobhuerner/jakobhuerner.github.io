@@ -14,30 +14,45 @@ To celebrate the arrival of 2024, I (*) created a team song - here it is!
 
 ## The Team Song for 2024
 
-We rocked this year like a steel
-We forged our path and made it real
-We worked as a team with loyalty and will
-We conquered the challenges and fulfilled
+*We rocked this year like a steel*
 
-We produced awesome products and quality
-That pleased our customers and industry
-We reached our benchmarks and standards
-That proved our excellence and rewards
+*We forged our path and made it real*
 
-We also faced some complexity and pressure
-That demanded our creativity and measure
-We optimized and streamlined new ways
-That made us faster and ready for the next phase
+*We worked as a team with loyalty and will*
 
-Now we're looking forward to 2024
-With ambition and eagerness for more
-We have new opportunities and markets
-That will make us shine and lead
+*We conquered the challenges and fulfilled*
 
-We're not daunted by the competition
-We have the edge and the vision
-We're a team of rock and steel
-That will always rock our deal
+*We produced awesome products and quality*
+
+*That pleased our customers and industry*
+
+*We reached our benchmarks and standards*
+
+*That proved our excellence and rewards*
+
+*We also faced some complexity and pressure*
+
+*That demanded our creativity and measure*
+
+*We optimized and streamlined new ways*
+
+*That made us faster and ready for the next phase*
+
+*Now we're looking forward to 2024*
+
+*With ambition and eagerness for more*
+
+*We have new opportunities and markets*
+
+*That will make us shine and lead*
+
+*We're not daunted by the competition*
+
+*We have the edge and the vision*
+
+*We're a team of rock and steel*
+
+*That will always rock our deal*
 
 ---
 
