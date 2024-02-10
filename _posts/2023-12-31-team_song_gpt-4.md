@@ -10,10 +10,10 @@ image: /images/professionalblog/20231231.jpg
 
 The year 2023 comes to an end, the new year will bring new challenges and opportunities at work.
 
-To celebrate the arrival of 2024, I* created a team song - here it is!
+To celebrate the end of 2023 and the arrival of 2024, I* created a team song - here it is!
 
 ---
-### 🎸 The Team Song for 2024 
+### 🎸 The Team Song for New Year 2024
 
 *We rocked this year like a steel*<br>
 *We forged our path and made it real*<br>
@@ -45,12 +45,10 @@ To celebrate the arrival of 2024, I* created a team song - here it is!
 
 *Facing this task, oh, baby I only get by with a little help from my friend and copilot GPT-4.
 
-The question (prompt) I have given it is: *write an inspirational year end post for LinkedIn. write it in the style of rock music lyrics. mention team, steel, achievements and new opportunities for 2024*
+The question (prompt) I have given GPT-4 is: 
+`write an inspirational year end post for LinkedIn. write it in the style of rock music lyrics. mention team, steel, achievements and new opportunities for 2024`
 
-It's remarkable what this type of AI can produce from this limited amount of input.
-
-
-Looking forward to exploring what AI and LLMs will bring to our (work) lives, after the first wave of exceeded expectations is over. :)
+It's remarkable what this type of AI can produce from this limited amount of input. Looking forward to exploring what AI and LLMs will bring to our (work) lives, after the first wave of exceeded expectations is over. :)
 
 **Happy 2024!**
 
