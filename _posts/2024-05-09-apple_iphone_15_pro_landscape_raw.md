@@ -17,6 +17,6 @@ I think the image quality is just great. Moreover:, it gets really impressive, m
 
 Here is a crop from the image above:
 
-![Ruine Aggstein](../images/20240509/aggstein_iphone_15pro_raw_crop.jpg.jpg)
+![Ruine Aggstein](../images/20240509/aggstein_iphone_15pro_raw_crop.jpg)
 
 It is still the case that for maximum photographic freedom and overall image quality - and fun - you will go for a dedicated camera (e.g. [full frame mirrorless](../leanest_highest_quality_casual_photography_setup/)). For the vast majority of photos your smartphone, however, will do the job just as good.
