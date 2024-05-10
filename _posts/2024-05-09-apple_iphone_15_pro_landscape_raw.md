@@ -11,7 +11,7 @@ You might have seen my recent pictures from [Aggstein Castle](../aggstein). They
 The last picture was taken with the iPhone's main camera, which features a (for a phone) decently sized lens and a  48 MPx image sensor.
 For this image I used the RAW setting and converted the "ProRAW" file to JPG with Lightroom.
 
-I think the image quality is just great. Moreover:, it gets really impressive, maybe unbelievable, if you zoom into the picture. At 100%, the level of detail you get from this smartphone camera is simply mindblowing.
+I think the image quality is just great. Moreover, it gets really impressive, maybe unbelievable, if you zoom into the picture. At 100%, the level of detail you get from this smartphone camera is simply mindblowing.
 
 ![Ruine Aggstein](../images/20240509/aggstein-3.jpg)
 
