@@ -8,10 +8,10 @@ image: /images/20240509/aggstein-3.jpg
 
 You might have seen my recent pictures from [Aggstein Castle](../aggstein). They were taken with the cameras of the iPhone 15 Pro.
 
-The last picture was taken with the iPhone's main camera, which features a (for a phone) decently sized lens and a  48 MPx image sensor.
-For this image I used the RAW setting and converted the "ProRAW" file to JPG with Lightroom.
+I took the last picture with the iPhone's main camera, which features a (for a phone) decently sized lens and a  48 MPx image sensor.
+For the image I used the RAW setting of the built-in camera app and converted the "ProRAW" file to JPG with Lightroom.
 
-I think the image quality is just great. Moreover, it gets really impressive, maybe unbelievable, if you zoom into the picture. At 100%, the level of detail you get from this smartphone camera is simply mind blowing.
+In my opinion the image quality is just great. Moreover, it gets almost unbelievable if you zoom into the picture. At 100%, the level of detail you get from this smartphone camera is simply mind blowing.
 
 ![Ruine Aggstein](../images/20240509/aggstein-3.jpg)
 
@@ -19,4 +19,4 @@ Here is a crop from the image above:
 
 ![Crop from 48 MPx Raw of the iPhone 15 Pro + Lightroom](../images/20240509/aggstein_iphone_15pro_raw_crop.jpg)
 
-It is still the case that for maximum photographic freedom and overall image quality - and fun - you will go for a dedicated camera (e.g. [full frame mirrorless](../leanest_highest_quality_casual_photography_setup/)). For the vast majority of photos your smartphone, however, will do the job just as good.
+The gap between dedicated photo cameras like [full-frame mirrorless systems](../leanest_highest_quality_casual_photography_setup/)) and smartphones keeps closing.
