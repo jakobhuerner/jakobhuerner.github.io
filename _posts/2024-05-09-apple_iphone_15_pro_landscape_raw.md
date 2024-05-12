@@ -19,4 +19,4 @@ Here is a crop from the image above:
 
 ![Crop from 48 MPx Raw of the iPhone 15 Pro + Lightroom](../images/20240509/aggstein_iphone_15pro_raw_crop.jpg)
 
-The gap between dedicated photo cameras like [full-frame mirrorless systems](../leanest_highest_quality_casual_photography_setup/)) and smartphones keeps closing.
+The gap between dedicated photo cameras like [full-frame mirrorless systems](../leanest_highest_quality_casual_photography_setup/) and smartphones keeps closing. Exciting times!
