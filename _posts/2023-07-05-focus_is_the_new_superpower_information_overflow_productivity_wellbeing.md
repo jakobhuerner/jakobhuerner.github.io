@@ -22,7 +22,7 @@ I do not want to blame the individual consumer. It’s the apps that are designe
 
 ## Acceleration and overflow
 
-We gave our devices and apps permission to constantly accelerate the information flow into our lives and turn it into a mere overflow. 
+We have given our devices and apps permission to constantly accelerate the information flow into our lives and turn it into a mere overflow. 
 
 I feel this is not only true for our private communication, but also for our professional communication at work. As written in posts on this blog before, the number of communication channels increased strongly, and it is easy to lose oversight and a healthy usage level.
 
@@ -37,7 +37,7 @@ In times of regular overflow of information, I think we run into two major probl
 
 Handling the information overflow age is no rocket science.
 
-One element is to consciously choose how you communicate what. I have written a blog post [before](../use_the_right_tool_for_the_communication_job), in which I describe how I try to select communication channels in my professional life. 
+One element is to consciously choose how you communicate what, as I described [here].(../use_the_right_tool_for_the_communication_job).
 
 I am fully convinced that in times of too much information in too many channels in too many situations of our everyday (work-)life, __focus is the new superpower__.
 
@@ -58,7 +58,7 @@ I found out that the following practices are helpful for me to maintain focus on
 - Mute notifications for group chats with more than 5 people on your messaging app, check them maybe once a day. Normally no time-critical information is discussed in such chats.
 - Do not give away your private phone number unless absolutely needed. Try to run as much communication with businesses via email - so you can set the pace yourself.
 - Avoid Instagram, Twitter, TikTok, … altogether. News is best consumed in a curated way on a daily or weekly basis. As a normal human being, you do not need to be informed about every small political/economic/societal development in real-time.
-- Avoid the smartphone apps of online services whenever possible. Apps are typically intrusive and nudge you to open them much more frequently than needed. It is easier to stay disciplined when using the browser version, also because it is slightly less convenient. I for example stopped using the LinkedIn app, and check its webpage only every other day on average - which is certainly frequent enough. 
+- Avoid the smartphone apps of online services whenever possible. Apps are typically intrusive and nudge you to open them much more frequently than needed. It is easier to stay disciplined when using the browser version, also because it is slightly less convenient. 
 
 ### Best practices in professional life 
 
@@ -66,14 +66,14 @@ I found out that the following practices are helpful for me to maintain focus on
 - Disable notifications for emails. Email is not a means of real-time communication and therefore a time to read/reply of about a day shall be allowed.
 - Avoid notifications via email as much as possible. Various business applications and workflow solutions like to send out masses of emails - the value is often very limited.
 - Take some time to create clever email filters. Emails are easier to handle if you have a meaningful automatic pre-sorting in place.
-- To have uninterrupted times in your working day, make use of the “busy” mode in the messaging application and on your phone, which silences notifications and displays you are not currently available.
+- Make use of the “busy” mode in the messaging application. When you need uninterrupted times in your working day, switch on the “busy” mode in the messaging application and on your phone, which silences notifications and displays you are not currently available.
 - Book focus times for yourself in your work calendar and stick to them.
 
 ## Spread your superpower
 
 In the end everyone of us is responsible for his or her own productivity and well-being, especially in our times of information overflow. I strongly believe that nowadays everyone needs to work on one's personal strategies for focus.
 
-By acting in a conscious and sensible way and being open about it, you might influence others  and therefore have a positive impact beyond your own area of influence.
+By acting in a conscious and sensible way and being open about it, you might help others and have a positive impact on their productivity and well-being as well.
 
 
 
