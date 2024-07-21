@@ -6,7 +6,7 @@ excerpt: ... and explore the beauty of moss and lichen
 image: /images/20240721/moss-1.jpg
 ---
 
-Small things can be so beautiful - if you stop and come closer and recognise its beauty.
+Small things can be so beautiful - if you stop and come closer and recognise their beauty.
 
 ![Moss and lichen](../images/20240721/moss-1.jpg)
 
