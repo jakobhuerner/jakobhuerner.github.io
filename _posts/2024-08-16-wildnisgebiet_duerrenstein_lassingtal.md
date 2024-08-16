@@ -1,19 +1,28 @@
 ---
 layout: post
-title: Ruine Aggstein
+title: Wildnisgebiet Dürrenstein-Lassingtal
 categories: [Photoblog, Photos]
-excerpt: Aggstein Castle + Danube + Wachau = great destination for a family trip.
-image: ../images/20240509/aggstein-1.jpg
+excerpt: A visit into the UNESCO World Heritage Site in Lower Austria&/Styria
+image: /images/20240816/UNESCO_weltnaturerbe_wildnisgebiet_duerrenstein_lassingtal-3.jpg
 ---
 
-Aggstein Castle is definitely worth a visit (especially with children).
+In July I had the unique opportunity to get a two-day tour into the UNESCO World Heritage Site "Wildnisgebiet Dürrenstein-Lassingtal".
+Guided by an expert in ecology and local history, we had the chance to see some of the last remaining areas of primary forests in Central Europe.
 
-![Ruine Aggstein](../images/20240509/aggstein-1.jpg)
+It was certainly one of my personal highlights in 2024 ...
 
-![Ruine Aggstein](../images/20240509/aggstein-2.jpg)
+![UNESCO Weltnaturerbe Wildnisgebiet Dürrenstein-Lassingtal](../images/20240816/UNESCO_weltnaturerbe_wildnisgebiet_duerrenstein_lassingtal-1.jpg)
 
-![Ruine Aggstein](../images/20240509/aggstein-3.jpg)
+![UNESCO Weltnaturerbe Wildnisgebiet Dürrenstein-Lassingtal](../images/20240816/UNESCO_weltnaturerbe_wildnisgebiet_duerrenstein_lassingtal-2.jpg)
+
+![UNESCO Weltnaturerbe Wildnisgebiet Dürrenstein-Lassingtal](../images/20240816/UNESCO_weltnaturerbe_wildnisgebiet_duerrenstein_lassingtal-3.jpg)
+
+![UNESCO Weltnaturerbe Wildnisgebiet Dürrenstein-Lassingtal](../images/20240816/UNESCO_weltnaturerbe_wildnisgebiet_duerrenstein_lassingtal-4.jpg)
+
+![UNESCO Weltnaturerbe Wildnisgebiet Dürrenstein-Lassingtal](../images/20240816/UNESCO_weltnaturerbe_wildnisgebiet_duerrenstein_lassingtal-5.jpg)
+
+![UNESCO Weltnaturerbe Wildnisgebiet Dürrenstein-Lassingtal](../images/20240816/UNESCO_weltnaturerbe_wildnisgebiet_duerrenstein_lassingtal-6.jpg)
 
 
 
-Pictures taken with the iPhone 15 Pro.
+Pictures taken with the Sony A7C and the Sony FE 4-5.6/28-60mm.
