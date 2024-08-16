@@ -2,7 +2,7 @@
 layout: post
 title: Wildnisgebiet Dürrenstein-Lassingtal
 categories: [Photoblog, Photos]
-excerpt: A visit into the UNESCO World Heritage Site in Lower Austria&/Styria
+excerpt: A visit into the UNESCO World Heritage Site in Lower Austria/Styria
 image: /images/20240816/UNESCO_weltnaturerbe_wildnisgebiet_duerrenstein_lassingtal-3.jpg
 ---
 
