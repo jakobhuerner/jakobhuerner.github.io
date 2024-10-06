@@ -6,7 +6,7 @@ excerpt: Touch device + ever increasing computing power = laptop replacement?
 image: /images/20220219/lightroom_sony_a7c_raw_for_macbook_pro_m1max_test_benchmark.jpeg
 ---
 
-For more than 5 years I have used [Adobe Lightroom](../raw_workflow_with_adobe_lightroom) on my Laptop (now Macbook Pro), iPad and iPhone and enjoy the great functionality and seamless synchronisation via the Adobe Cloud. The MacBook is traditionally the main device I use for importing RAWs from the memory card, for editing, organising and exporting to JPG. The iPad is used mainly as a viewing device, and from time to time also to edit and export images.
+For more than 5 years I have used [Adobe Lightroom](../raw_workflow_with_adobe_lightroom) on my Laptop (now [MacBook Pro](../apple_macbook_pro_m1pro_for_personal_and_casual_photography_use)), iPad and iPhone and enjoy the great functionality and seamless synchronisation via the Adobe Cloud. The MacBook is traditionally the main device I use for importing RAWs from the memory card, for editing, organising and exporting to JPG. The iPad is used mainly as a viewing device, and from time to time also to edit and export images.
 
 With the development of the iPad and its ever increasing computing power I asked myself whether the iPad could become the centre of my Lightroom workflow. As I am interested in a lean casual photography workflow, a slim and simple device seems like the perfect fit.
 
