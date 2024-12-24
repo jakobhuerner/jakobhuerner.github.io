@@ -19,7 +19,7 @@ Sterben Bäume ab, wird aus ihnen Totholz. Der Name täuscht! Gerade abgestorben
 
 ## Alles hängt mit allem zusammen
 
-Man kann den Wald nicht begreifen, wenn man nur auf eine Art blickt. Der Wald ist nur auf den ersten Blick eine Ansammlung von Bäumen. In Wirklichkeit ist er ein komplexes Geflecht aus verschiedensten Arten wie Bäumen, Sträuchern, Gräsern __über__ sowie deren Wurzeln oder Pilzen __unter__ der Erde. Nicht nur jede Pflanzenart trägt ihren Teil zum Wald bei, sondern auch jede Tierart spielt im Zusammenleben eine Rolle.
+Man kann den Wald nicht begreifen, wenn man nur auf eine Art blickt. Der Wald ist nur auf den ersten Blick eine Ansammlung von Bäumen. In Wirklichkeit ist er ein komplexes Geflecht aus verschiedensten Arten wie Bäumen, Sträuchern, Gräsern *über* sowie deren Wurzeln oder Pilzen *unter* der Erde. Nicht nur jede Pflanzenart trägt ihren Teil zum Wald bei, sondern auch jede Tierart spielt im Zusammenleben eine Rolle.
 
 Die Wissenschaft bringt dabei nach wie vor neue Erkenntnisse über das Zusammenwirken hervor. 
 Sämtliche Eingriffe in das System Wald sind mit besonderer Vorsicht vorzunehmen, da die Auswirkungen nie vollständig abgeschätzt werden können.
@@ -60,7 +60,7 @@ Ob das alles notwendig ist, und ob es uns zu einem besseren Leben führt, steht 
 
 
 
-__Hinweis: Ich bin kein Ökologe, falls ich etwas falsch wiedergebe, freue ich mich über Rückmeldung per Email. Danke!__
+*Hinweis: Ich bin kein Ökologe. Falls ich etwas falsch wiedergebe, freue ich mich über Rückmeldung per Email. Danke!*
 
 
 
