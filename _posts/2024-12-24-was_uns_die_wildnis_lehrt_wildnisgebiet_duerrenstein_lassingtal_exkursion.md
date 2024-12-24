@@ -2,7 +2,7 @@
 layout: post
 title: Was uns die Wildnis lehrt
 categories: [General]
-excerpt: Was wir für unser Leben von der Natur lernen können 
+excerpt: Für jene, die genau hinsehen, hält die Natur vielfältige Lektionen bereit. 
 image: /images/20241224/UNESCO_weltnaturerbe_wildnisgebiet_duerrenstein_lassingtal_was_uns_die_wildnis_lehrt-1.jpg
 ---
 
