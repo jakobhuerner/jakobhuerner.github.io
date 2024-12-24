@@ -8,12 +8,15 @@ image: /images/20241224/UNESCO_weltnaturerbe_wildnisgebiet_duerrenstein_lassingt
 
 Im Sommer 2024 hatte ich das Privileg, einen Blick in einen besonderen Wald zu werfen. Einen, der ohne direkte menschliche Einflüsse geblieben ist - den Urwald Rothwald mit dem umgebenden [Wildnisgebiet Dürrenstein-Lassingtal](https://www.wildnisgebiet.at/).
 Als Teilnehmer einer geführten Exkursion durch das UNESCO Weltnaturerbe lernte ich an zwei intensiven Tagen unglaublich viel Neues über die Natur und das Leben. Vieles davon spielt nicht nur im Wald eine Rolle, sondern auch für unser modernes Leben und unseren eigenen Alltag.
+
 Was ich damit meine, versuche ich im Folgenden anhand mehrerer Schlüsselerkenntnisse zu erklären.
 
 
 ## Auf Altem entsteht Neues
 
-Sterben Bäume ab, wird aus ihnen Totholz. Der Name täuscht! Gerade abgestorbene Bäume sind besonders lebendig, sind sie doch Lebensraum für eine Vielzahl von Insekten und anderen Tieren. Aktives Wirken von Pilzen sorgt weiters dafür, dass die chemischen Bausteine abgestorbener Baum wieder verwertet werden können. Nicht selten wächst auf einem alten umgefallenen Baum ein junger, so sind beispielsweise tote Fichten eine idealer Boden für junge Fichtenkeimlinge. Kadaververjüngung ist der Fachausdruck dafür - klingt makaber, ist aber ein Erfolgsrezept der Natur, die damit auf Altem Neues entstehen lässt.
+Sterben Bäume ab, wird aus ihnen Totholz. Der Name täuscht! Gerade abgestorbene Bäume sind besonders lebendig, sind sie doch Lebensraum für eine Vielzahl von Insekten und anderen Tieren. Aktives Wirken von Pilzen sorgt weiters dafür, dass die chemischen Bausteine abgestorbener Baum wieder verwertet werden können. Nicht selten wächst auf einem alten umgefallenen Baum ein junger, so sind beispielsweise tote Fichten eine idealer Boden für junge Fichtenkeimlinge. 
+
+Kadaververjüngung ist der Fachausdruck dafür - klingt makaber, ist aber ein Erfolgsrezept der Natur, die damit auf Altem Neues entstehen lässt.
 
 ![UNESCO Weltnaturerbe Wildnisgebiet Dürrenstein-Lassingtal](../images/20240816/UNESCO_weltnaturerbe_wildnisgebiet_duerrenstein_lassingtal-6.jpg)
 
@@ -44,11 +47,14 @@ Man könnte sagen, es haben auch die Sonderlinge aufgrund ihrer besonderen Eigen
 
 Der Mensch neigt dazu, auf die gute alte Zeit zurückzublicken. Diese gab es wahrscheinlich nie - jedenfalls wäre sie nur ein Wimpernschlag der stetig fortschreitenden Geschichte gewesen.
 
-Alles was wir Menschen im Moment sehen, ist ein Teil eines langen Prozesses, der lange vor uns begonnen hat und lange nach uns weiter wirkt. Eine wesentliche Eigenschaft der Evolution ist es, dass sie nicht mehr an den gleichen Punkt zurückkehrt. Wir werden die Welt, so wie sie früher einmal war, nie mehr erleben - aber das ist Teil des Lebens und es liegt an uns, das Beste daraus zu machen.
+Alles was wir Menschen im Moment sehen, ist ein Teil eines langen Prozesses, der lange vor uns begonnen hat und lange nach uns weiter wirkt. Eine wesentliche Eigenschaft der Evolution ist es, dass sie nicht mehr an den gleichen Punkt zurückkehrt. 
+
+Wir werden die Welt, so wie sie früher einmal war, nie mehr erleben - aber das ist Teil des Lebens und es liegt an uns, das Beste daraus zu machen.
 
 ## Menschliche Zeiträume sind kurz
 
 Ein für mich beeindruckendes Faktum ist der Unterschied der Dauer der Entwicklung des Waldes bzw. im Speziellen die Generationsabfolge von Bäumen im Vergleich zu Menschen. Gehen wir in der Menschheitsgeschichte zum Ende des Mittelalters zurück, hat der Mensch zwischenzeitlich viele revolutionäre politische, kriegerische, gesellschaftliche und technologische Umbrüche durchgemacht.
+
 Für die Fichten im Wildnisgebiet war es entspannter, sie können 600 bis 700 Jahre alt werden, wenn der Mensch nicht eingreift. Das bedeutet, dass manche Bäume schon standen, als unser Mittelalter zu Ende ging. 
 
 ![UNESCO Weltnaturerbe Wildnisgebiet Dürrenstein-Lassingtal](../images/20241224/UNESCO_weltnaturerbe_wildnisgebiet_duerrenstein_lassingtal_was_uns_die_wildnis_lehrt-3.jpg)
@@ -56,6 +62,7 @@ Für die Fichten im Wildnisgebiet war es entspannter, sie können 600 bis 700 Ja
 ## Give it time. Let it grow.
 
 Die vielleicht wichtigste Lektion für mich fasst ein Spruch gut zusammen, der Besucher:innen im Haus der Wildnis begrüßt. In unserer Zeit muss alles schnell gehen, wir sind hektisch und wollen alles sofort haben, die technologische Entwicklung von gestern ist heute schon wieder alt.
+
 Ob das alles notwendig ist, und ob es uns zu einem besseren Leben führt, steht auf einem anderen Blatt. Wir sollten uns vielleicht öfter ein Beispiel an der Natur um uns nehmen - und dem Leben öfter einfach einmal Zeit geben.
 
 
