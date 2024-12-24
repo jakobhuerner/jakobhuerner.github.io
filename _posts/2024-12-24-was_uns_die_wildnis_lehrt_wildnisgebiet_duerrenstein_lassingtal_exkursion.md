@@ -6,7 +6,7 @@ excerpt: Was wir für unser Leben von der Natur lernen können
 image: /images/20241224/UNESCO_weltnaturerbe_wildnisgebiet_duerrenstein_lassingtal_was_uns_die_wildnis_lehrt-1.jpg
 ---
 
-Im Sommer 2024 hatte ich das Privileg, einen Blick in einen besonderen Wald zu werfen. Einen, der ohne direkte menschliche Einflüsse geblieben ist - den Urwald Rothwald mit dem umgebenden [Wildnisgebiet Dürrenstein-Lassingtal](https://www.wildnisgebiet.at/).
+Im Sommer 2024 hatte ich das Privileg, einen [Blick](../wildnisgebiet_duerrenstein_lassingtal) in einen besonderen Wald zu werfen. Einen, der ohne direkte menschliche Einflüsse geblieben ist - den Urwald Rothwald mit dem umgebenden [Wildnisgebiet Dürrenstein-Lassingtal](https://www.wildnisgebiet.at/).
 Als Teilnehmer einer geführten Exkursion durch das UNESCO Weltnaturerbe lernte ich an zwei intensiven Tagen unglaublich viel Neues über die Natur und das Leben. Vieles davon spielt nicht nur im Wald eine Rolle, sondern auch für unser modernes Leben und unseren eigenen Alltag.
 
 Was ich damit meine, versuche ich im Folgenden anhand mehrerer Schlüsselerkenntnisse zu erklären.
