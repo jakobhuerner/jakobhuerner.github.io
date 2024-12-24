@@ -34,7 +34,7 @@ In diesem Zusammenhang ein Beispiel: Im Wald gibt es sogenannte Mastjahre, in de
 Möchte man verstehen, wieso es in einem Jahr besonders viele oder wenige Vertreter einer Art gibt, reicht es nicht, sich nur diese eine anzusehen. Man muss das System, sowie die jeweilige Art eingebettet in ganze Ketten von Zusammenhängen und Abhängigkeiten, betrachten.
 
 
-## Auch die Sonderlinge haben ihren Platz
+## Auch Sonderlinge haben ihren Platz
 
 In der Region und Höhenlage des Wildnisgebiets würde sich typischerweise auf lange Zeit eine Baumzusammensetzung von Fichten, Tannen und Buchen zu je einem Drittel einstellen. Trotzdem findet man im dortigen Wald auch Kiefern oder Ahorn.
 
