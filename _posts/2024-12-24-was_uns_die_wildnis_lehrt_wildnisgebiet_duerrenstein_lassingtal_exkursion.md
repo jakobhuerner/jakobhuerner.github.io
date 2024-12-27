@@ -63,11 +63,4 @@ Für die Fichten im Wildnisgebiet war es entspannter, sie können 600 bis 700 Ja
 
 Die vielleicht wichtigste Lektion für mich fasst ein Spruch gut zusammen, der Besucher:innen im Haus der Wildnis begrüßt. In unserer Zeit muss alles schnell gehen, wir sind hektisch und wollen alles sofort haben, die technologische Entwicklung von gestern ist heute schon wieder alt.
 
-Ob das alles notwendig ist, und ob es uns zu einem besseren Leben führt, steht auf einem anderen Blatt. Wir sollten uns vielleicht öfter ein Beispiel an der Natur um uns nehmen - und dem Leben öfter einfach einmal Zeit geben.
-
-
-
-*Hinweis: Ich bin kein Ökologe. Falls ich etwas falsch wiedergebe, freue ich mich über Rückmeldung per Email. Danke!*
-
-
-
+Ob das alles notwendig ist, und ob es uns zu einem besseren Leben führt, steht auf einem anderen Blatt. Wir sollten uns viel öfter ein Beispiel an der Natur nehmen - und dem Leben einfach einmal Zeit geben.
