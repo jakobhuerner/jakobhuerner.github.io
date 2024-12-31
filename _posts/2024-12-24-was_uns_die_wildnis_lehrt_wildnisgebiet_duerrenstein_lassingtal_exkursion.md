@@ -14,7 +14,7 @@ Was ich damit meine, versuche ich im Folgenden anhand mehrerer Schlüsselerkennt
 
 ## Auf Altem entsteht Neues
 
-Sterben Bäume ab, wird aus ihnen Totholz. Der Name täuscht! Gerade abgestorbene Bäume sind besonders lebendig, sind sie doch Lebensraum für eine Vielzahl von Insekten und anderen Tieren. Aktives Wirken von Pilzen sorgt weiters dafür, dass die chemischen Bausteine abgestorbener Baum wieder verwertet werden können. Nicht selten wächst auf einem alten umgefallenen Baum ein junger, so sind beispielsweise tote Fichten eine idealer Boden für junge Fichtenkeimlinge. 
+Sterben Bäume ab, wird aus ihnen Totholz. Der Name täuscht! Gerade abgestorbene Bäume sind besonders lebendig, sind sie doch Lebensraum für eine Vielzahl von Insekten und anderen Tieren. Aktives Wirken von Pilzen sorgt weiters dafür, dass die chemischen Bausteine abgestorbener Bäume wieder verwertet werden können. Nicht selten wächst auf einem alten umgefallenen Baum ein junger, so sind beispielsweise tote Fichten eine idealer Boden für junge Fichtenkeimlinge. 
 
 Kadaververjüngung ist der Fachausdruck dafür - klingt makaber, ist aber ein Erfolgsrezept der Natur, die damit auf Altem Neues entstehen lässt.
 
