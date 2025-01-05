@@ -18,4 +18,5 @@ My content published on this website can be re-used under the terms of Creative 
 ## Reference and Privacy
 
 This website is realised with [GitHub Pages](https://pages.github.com/) using the theme [amitmerchant1990/reverie](https://github.com/amitmerchant1990/reverie).
-Concerning privacy please consult information on GitHub [Data Collection](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#data-collection) and the [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
+
+Concerning your privacy please consult information on GitHub [Data Collection](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#data-collection) and the [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
