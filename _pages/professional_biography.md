@@ -4,30 +4,32 @@ title: Professional Biography
 permalink: /professional_biography/
 ---
 
+This page contains some insight in my professional experiences and eduction. For further information, feel free to contact me!
+
 ## Experience
 
 ### voestalpine High Performance Metals
 
-**Head of Business Optimization** (*since 2022*)
+**Head of Business Optimization** *(since 2022)*
 
 As direct support for the Board Member for Production, our department plays a vital role in setting and implementing the right activities to ensure long-term success of voestalpine High Performance Metals.
 
 This includes leading our Operational Excellence program, facilitation of investment plans and digitalization initiatives, providing the board with tailored business insights, as well as driving a variety of special projects ranging from operational to strategic levels.
 
 
-**Data Science Business Lead** (*2019-2022*)
+**Data Science Business Lead** *(2019-2022)*
 
 
 Leading the successful business implementation of advanced data analytics with focus on Operational Excellence (quality, OEE) for the production companies of voestalpine High Performance Metals.
 
 This included organisational development, coaching and training, alignment of divisional data standards, program management as well as best practice exchange and performance monitoring.
 
-**Expat at Uddeholms AB (Sweden)** (*2014*)
+**Expat at Uddeholms AB (Sweden)** *(2014)*
 
 
 Assigned by the Board Member for Production of voestalpine Edelstahl (now: voestalpine High Performance Metals) for special topics in the fields of logistics, lean management, investments and other coordination topics at the group company Uddeholms AB in Hagfors, Sweden.
 
-**Business Optimization Production Companies** (*2012-2022*)
+**Business Optimization Production Companies** *(2012-2022)*
 
 
 In the team of the Board Member for Production of the voestalpine High Performance Metals Division.
@@ -43,14 +45,14 @@ Responsibilities included:
 ### Kendrion 
 
 
-**Quality Management (Thesis)** (*2012*)
+**Quality Management (Thesis)** *(2012)*
 
 Master Thesis in the area of ERP-based quality cost monitoring.
 
 ### Uddeholms AB
 
 
-**R&D Management (Intern)** (*2011*)
+**R&D Management (Intern)** *(2011)*
 
 Project in technology management (focus on strategic innovation management) at Uddeholms AB Hagfors and Karlstad University.
 
@@ -58,3 +60,25 @@ Project in technology management (focus on strategic innovation management) at U
 
 ## Education
 
+**Data Science** *(2019)*
+WU Excecutive Academy
+
+Spanning from academic theory to real-life examples and hands-on programming, this program has given me a robust foundation to deal with all topics related to AI, Data Science, Big Data etc.
+
+**Production Science and Management (Msc)** *(2010-2012)*
+Technische Universität Graz
+
+Grade: 1.0
+
+**Engineering and Management of Manufacturing Systems (Msc)** *(2010-2012)*
+Cranfield University
+
+Grade: 81 (1.3 in Austrian/German System)
+
+**Mechanical Engineering - Economics (Bsc)** *(2010-2012)*
+Technische Universität Graz
+
+**Industrial Engineering** *(2002-2007)*
+Höhere Technische Lehranstalt Waidhofen an der Ybbs
+
+Grade: 1.0
