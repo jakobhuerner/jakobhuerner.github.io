@@ -4,7 +4,7 @@ title: Professional Biography
 permalink: /professional_biography/
 ---
 
-This page contains some insight in my professional experiences and eduction. For further information, feel free to contact me!
+This page contains major roles and milestones in my professional experiences and education. For further information, feel free to contact me!
 
 ## Experience
 
