@@ -60,25 +60,12 @@ Project in technology management (focus on strategic innovation management) at U
 
 ## Education
 
-**Data Science** *(2019)*
-WU Excecutive Academy
+**Data Science** *(2019)*, WU Excecutive Academy
 
-Spanning from academic theory to real-life examples and hands-on programming, this program has given me a robust foundation to deal with all topics related to AI, Data Science, Big Data etc.
+**Production Science and Management (Msc)** *(2010-2012)*, Technische Universität Graz
 
-**Production Science and Management (Msc)** *(2010-2012)*
-Technische Universität Graz
+**Engineering and Management of Manufacturing Systems (Msc)** *(2010-2012)*, Cranfield University
 
-Grade: 1.0
+**Mechanical Engineering - Economics (Bsc)** *(2010-2012)*, Technische Universität Graz
 
-**Engineering and Management of Manufacturing Systems (Msc)** *(2010-2012)*
-Cranfield University
-
-Grade: 81 (1.3 in Austrian/German System)
-
-**Mechanical Engineering - Economics (Bsc)** *(2010-2012)*
-Technische Universität Graz
-
-**Industrial Engineering** *(2002-2007)*
-Höhere Technische Lehranstalt Waidhofen an der Ybbs
-
-Grade: 1.0
+**Industrial Engineering** *(2002-2007)*, Höhere Technische Lehranstalt Waidhofen an der Ybbs
