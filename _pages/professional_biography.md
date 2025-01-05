@@ -62,10 +62,10 @@ Project in technology management (focus on strategic innovation management) at U
 
 **Data Science** *(2019)*, WU Excecutive Academy
 
-**Production Science and Management (Msc)** *(2010-2012)*, Technische Universität Graz
+**Msc, Production Science and Management** *(2010-2012)*, Technische Universität Graz
 
-**Engineering and Management of Manufacturing Systems (Msc)** *(2010-2012)*, Cranfield University
+**Msc, Engineering and Management of Manufacturing Systems** *(2010-2012)*, Cranfield University
 
-**Mechanical Engineering - Economics (Bsc)** *(2010-2012)*, Technische Universität Graz
+**Bsc, Mechanical Engineering - Economics** *(2010-2012)*, Technische Universität Graz
 
 **Industrial Engineering** *(2002-2007)*, Höhere Technische Lehranstalt Waidhofen an der Ybbs
