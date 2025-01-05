@@ -4,7 +4,7 @@ title: Professional Biography
 permalink: /professional_biography/
 ---
 
-This page contains major roles and milestones in my professional experiences and education. For further information, feel free to contact me!
+On this page you find the major roles and milestones in my professional experiences and education. For further information, feel free to contact me!
 
 ## Experience
 
