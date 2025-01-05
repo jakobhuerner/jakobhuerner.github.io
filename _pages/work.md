@@ -8,6 +8,8 @@ I currently work as department head in a large Austrian industrial company. In m
 
 In the course of my career I helped shaping activities and programs that significantly increase efficiency and reduce the company's environmental footprint. I focus on initiatives with global reach and establish completely new capability fields for the group. 
 
+You can learn more about my professional journey here: (Professional Biography)[../professional_biography]!
+
 ## My strength
 
 I see my core strength in "connecting the dots". I am good at identifying patterns in unfamiliar, opaque and messy situations. I enjoy most when I am able to successfully re-apply proven ideas and concepts from foreign fields, after understanding their similarities with the problem at hand.
