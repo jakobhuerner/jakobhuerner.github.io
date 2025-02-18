@@ -7,7 +7,7 @@ image: /images/general/20230525_elektromobilitaet_laden_vw_id4-1.jpg
 ---
 
 ![Volkswagen ID.4 an einer funktionierenden 50kW Schnellladesäule](../images/general/20230525_elektromobilitaet_laden_vw_id4-1.jpg)
-_Foto: Schnelladen eines Elektroautos an der Autobahn funktioniert und dauert ca. 30min_
+_Foto: Schnellladen eines Elektroautos an der Autobahn funktioniert und dauert ca. 30min_
 
 Als wir unser Elektroauto recht neu hatten, ging es gleich einmal in einen Urlaub in Österreich. Während wir mit dem Auto normalerweise kaum Strecken wesentlich über 250km am Tag zurücklegen, stand bei dieser Urlaubsfahrt die Langstreckentauglichkeit des neuen Fahrzeugs am Prüfstand.
 Etwas Neugierde und leichte Anspannung waren dabei, aber rückblickend waren sämtliche vorgelagerten Sorgen gänzlich unbegründet.
