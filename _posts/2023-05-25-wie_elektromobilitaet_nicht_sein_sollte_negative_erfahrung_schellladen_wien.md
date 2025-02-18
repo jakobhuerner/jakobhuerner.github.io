@@ -36,7 +36,7 @@ Also weiter fahren zur nächsten.
 Der vierte Versuch fand dann an einer da.emobil-Station statt.
 Dort lief es dann endlich wie es sein sollte: Ladekarte hinhalten, anstecken, laden mit hoher Leistung.
 
-Also alles ein ziemlich durchwachsen und zeitaufwendig.
+Also alles ziemlich durchwachsen und zeitaufwendig.
 Für den fehlgeschlagenen ersten Versuch wurde uns auf der Ladekarte sogar noch Geld abgebucht.
 
 ## Wenn es so läuft, wird’s mühsam
