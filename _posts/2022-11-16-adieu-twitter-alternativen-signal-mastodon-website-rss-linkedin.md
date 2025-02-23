@@ -24,14 +24,13 @@ Außerdem gilt der Ausspruch "Es ist schon alles gesagt, nur noch nicht von alle
 
 **Grund 3:** Die bei mir nur Kopfschütteln hervorrufenden Entscheidungen und das Vorgehen des neuen Twitter-Eigentümers. Dachte ich lange, "So schlimm wirds nicht werden. Hunde die bellen ...", würde es mich jetzt erstaunen, wenn Twitter in der mir bekannten und von vielen geschätzten Form überlebt.
 
-Ganz konkreter Auslöser für meine Beschlussfassung war dann [diese Reaktion](https://aut.social/@jakobhuerner/109341873166222554) (alle seine folgenden Aktionen machten es eher noch schlimmer). Ich denke nicht, dass der neue Eigentümer (a) sich seiner Verantwortung für die globale Kommunikationsplattform Twitter bewusst ist, bzw. (b) überhaupt verstanden hat, was er da eigentlich gekauft hat.
 
 
 ## Die Alternativen
 
 * Ich werde mich in der aktiven Kommunikation stärker auf mein persönliches Umfeld konzentrieren, das auf Signal versammelt ist.
-* Als neue Heimat für Twitter-ähnliches Microblogging, um "mit der Welt da draußen" in Kontakt zu bleiben, gebe ich Mastodon eine Chance: [aut.social/@jakobhuerner](https://aut.social/@jakobhuerner)
-* Alles was mit berufs- und karrierebezogenem Austausch zu tun hat, werde ich weiterhin über LinkedIn machen: [linkedin.com/in/jakobhuerner](https://www.linkedin.com/in/jakobhuerner)
+* Als neue Heimat für Twitter-ähnliches Microblogging, um "mit der Welt da draußen" in Kontakt zu bleiben, gebe ich Mastodon eine Chance: ~~aut.social/@jakobhuerner~~ *(Update: Aktivität wieder beendet)*
+* Alles was mit berufs- und karrierebezogenem Austausch zu tun hat, werde ich weiterhin über LinkedIn machen: [linkedin.com/in/jakobhuerner](https://www.linkedin.com/in/jakobhuerner) *(Update: auf einfache Visitenkarte reduziert)*
 * Für Nachrichtenkonsum habe ich RSS-Feeds nie aufgegeben, für mich nach wie vor eine praktikable und vor allem effiziente Lösung.
 * Als Angelpunkt für meine Online-Aktivitäten werde ich zukünftig stärker meine Website nutzen: [www.jakobhuerner.at](https://www.jakobhuerner.at/)
 
@@ -39,9 +38,6 @@ Ganz konkreter Auslöser für meine Beschlussfassung war dann [diese Reaktion](h
 
 Von Zeit zu Zeit ist es empfehlenswert, seine Gewohnheiten zu überdenken und zum Besseren zu ändern. Was meine Nutzung von Online- und Sozialen Medien anbelangt war für mich nun dieser Punkt gekommen.
 
-<iframe src="https://aut.social/@jakobhuerner/109375420897832720/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="600" allowfullscreen="allowfullscreen"></iframe><script src="https://aut.social/embed.js" async="async"></script>
-
 
 Tipp: Probiere es auch - es fühlt sich gut an. :-) 
 
-_Referenz: [Toot](https://aut.social/@jakobhuerner/109369152031135970), [Tweet](https://twitter.com/jakobh/status/1593828776961609728?s=61&t=5uf4VS8NWhsqcKPY-iFEOg)_
