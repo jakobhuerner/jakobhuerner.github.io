@@ -4,9 +4,9 @@ title: Work
 permalink: /work/
 ---
 
-I currently work as department head in a large Austrian industrial company. In my 10+ years there I had a wide variety of roles at the group's Vienna headquarters and at a production site in Sweden.
+I currently work in a large Austrian industrial company, where I drive strategic projects for the COO. In my 10+ years there I had a wide variety of roles at the group's Vienna headquarters and at a production site in Sweden.
 
-In the course of my career I helped shaping activities and programs that significantly increase efficiency and reduce the company's environmental footprint. I focus on initiatives with global reach and establish completely new capability fields for the group. 
+In the course of my career I helped shaping activities and programs that significantly increase efficiency and reduce the company's environmental footprint. I focus on initiatives with global reach and establish new capability fields for the group.
 
 You can learn more about my professional journey here: [Professional Biography](../professional_biography)!
 
