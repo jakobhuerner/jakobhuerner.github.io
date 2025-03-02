@@ -18,7 +18,7 @@ Here are some tips for doing holidays the „right“ way:
 
 Longer weekends are nice, but to get into a real holiday mood (and to get your head free from daily business routines) you need more time. In my experience, you should plan 10+ days, to really get the necessary distance and start getting the above mentioned benefits.
 
-## Plan to close your open tasks on day -1
+## Plan to close your open tasks on day -2
 
 Don’t plan your work schedule until the last day prior to your holiday - you will certainly experience quite some stress then. What has worked for me is to plan to close your open tasks latest a day earlier. You will not be bored on the last day anyways, but have time to sort out open topics with ease and start your holidays with a clear mind.
 
