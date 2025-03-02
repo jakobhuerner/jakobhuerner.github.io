@@ -18,7 +18,7 @@ I recommend to start your [photo blog](../photoblog) journey with a photographic
 - [autumn](../autumn/) is soon here as well.
 
 
-Alternatively, you can check out my technical posts about [The leanest & highest quality casual photography setup (updated 2023)](../leanest_highest_quality_casual_photography_setup/).
+Alternatively, you can check out my technical posts about [The leanest & highest quality casual photography setup](../leanest_highest_quality_casual_photography_setup/).
 Or you read some history lessons about [how I got into photography](../my_personal_photography_history/).
 
 

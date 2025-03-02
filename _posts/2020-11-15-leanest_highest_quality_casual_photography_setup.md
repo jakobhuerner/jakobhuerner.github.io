@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The leanest & highest quality casual photography setup (updated 2023)
+title:  The leanest & highest quality casual photography setup
 categories: [Photoblog, Casual Photography Setup,]
 excerpt: Intro to series on casual photography that meets highest quality and convenience requirements
 image: /images/20201115/s20201115-1.jpg
