@@ -6,6 +6,8 @@ excerpt: Intro to series on casual photography that meets highest quality and co
 image: /images/20201115/s20201115-1.jpg
 ---
 
+_Originally published in 2020 and subsequently updated, this post features equipment that, while aging, remains fundamentally relevant._
+
 ## The history
 
 After I have spent a lot of time on photography and cameras [in the past](../my_personal_photography_history), I almost gave up on more ambitious photography in recent years. On the one hand because there is not so much spare time on hand for a young father. On the other hand due to the fact the cameras in our pockets (i.e. smartphones) got so incredibly good and thus reduce the need for a bulky DSLR.
