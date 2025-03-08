@@ -10,15 +10,19 @@ On this page you find the major roles and milestones in my professional experien
 
 ### voestalpine High Performance Metals
 
-**Head of Business Optimization** *(since 2022)*
+**Strategic Development - Operations** *(since 2024)*
 
-As direct support for the Board Member for Production, our department plays a vital role in setting and implementing the right activities to ensure long-term success of voestalpine High Performance Metals.
+Driving the identification, definition and implementation of strategic initiatives for the COO of voestalpine High Performance Metals. This includes our global production footprint, operations strategies and investments. My special focus lies on forming a global central and local management team that shapes those topics in a collaborative way.
+
+
+**Head of Business Optimization** *(2022-2024)*
+
+Our department plays a vital role in setting and implementing the right activities to ensure long-term success of voestalpine High Performance Metals.
 
 This includes leading our Operational Excellence program, facilitation of investment plans and digitalization initiatives, providing the board with tailored business insights, as well as driving a variety of special projects ranging from operational to strategic levels.
 
 
 **Data Science Business Lead** *(2019-2022)*
-
 
 Leading the successful business implementation of advanced data analytics with focus on Operational Excellence (quality, OEE) for the production companies of voestalpine High Performance Metals.
 
