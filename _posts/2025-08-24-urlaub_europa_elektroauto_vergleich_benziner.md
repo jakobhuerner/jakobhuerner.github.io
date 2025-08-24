@@ -2,7 +2,7 @@
 layout: post
 title: 5:1 fürs Elektroauto (Urlaubsfahrt Niederlande)
 categories: [General]
-excerpt: Eine Fehlinterpretation zur Väterkarenz hält sich hartnäckig
+excerpt: Womit steigt man besser aus - Elektro oder Benziner?
 image: /images/general/20250824_ev_vw_id4_laden_niederlande_efteling.jpg
 ---
 
