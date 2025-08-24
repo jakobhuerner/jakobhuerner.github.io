@@ -16,9 +16,9 @@ Basierend auf dem tatsächlich angefallenen Energieverbrauch (inkl. Ladeverluste
 
 ![Jakob Hürner](../images/general/20250824_ev_vw_id4_laden_niederlande_efteling.jpg)
 
-Im Vergleich dazu würde dieselbe Urlaubsfahrt mit einem vergleichbaren VW Tiguan mit Benzinmotor etwa 710 kg CO2 verursachen.
+Im Vergleich dazu würde dieselbe Urlaubsfahrt mit einem vergleichbaren VW Tiguan mit Benzinmotor etwa 710 kg CO2 verursachen. 
 
-___Der Unterschied beträgt Faktor 5 zugunsten des Elektroautos!____
+Der Unterschied beträgt somit **Faktor 5** zugunsten des Elektroautos!
 
 ![Jakob Hürner](../images/general/20250824_ev_laden_urlaubsfahrt_niederlande.jpg)
 
