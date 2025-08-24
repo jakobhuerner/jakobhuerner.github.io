@@ -12,7 +12,7 @@ On this page you find the major roles and milestones in my professional experien
 
 **Strategic Development - Operations** *(since 2024)*
 
-Driving the identification, definition and implementation of strategic initiatives for the COO of voestalpine High Performance Metals. This includes our global production footprint, operations strategies and investments. My special focus lies on forming a global central and local management team that shapes those topics in a collaborative way.
+Driving the identification, definition and implementation of strategic initiatives for the COO of voestalpine High Performance Metals. This includes our global production footprint, operations strategies, and investments. My special focus lies on supporting the formation of a global central and local management team that shapes those topics in a collaborative way.
 
 
 **Head of Business Optimization** *(2022-2024)*
