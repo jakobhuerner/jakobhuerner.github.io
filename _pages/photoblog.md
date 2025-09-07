@@ -8,11 +8,11 @@ title: Photo Blog
   <section id="archive">
 	{%for post in site.posts %}
 	  
-	  {% capture month %}{{ post.date | date: '%B %Y' }}{% endcapture %}
-	  {% capture nmonth %}{{ post.next.date | date: '%B %Y' }}{% endcapture %}
+	  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+	  {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
        
-	  {% if month != nmonth %}
-	  	<h3 style="text-align:left;">{{ post.date | date: '%B %Y' }}</h3>
+	  {% if year != nyear %}
+	  	<h3 style="text-align:left;">{{ post.date | date: '%Y' }}</h3>
 	  {% endif %}
 	
 	{% if post.categories contains 'Photoblog' %}
