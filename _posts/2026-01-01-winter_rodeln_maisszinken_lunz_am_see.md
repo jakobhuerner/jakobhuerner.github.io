@@ -11,4 +11,4 @@ Winter fun in Lunz am See.
 ![Lunz am See - Maisszinken - Sledding](../images/20260101/maisszinken.jpg)
 
 
-Pictures taken with the iPhone 15 Pro.
+Picture taken with the iPhone 15 Pro.
