@@ -2,7 +2,7 @@
 layout: post
 title: Ein Morgen im Österreichischen Stromnetz
 categories: [General]
-excerpt: Unser Strom kommt aus Wasserkraft - oder doch nicht?
+excerpt: Unser Strom kommt doch aus Wasserkraft - oder etwa nicht?
 image: /images/general/20260118_electricity_maps.PNG
 ---
 
