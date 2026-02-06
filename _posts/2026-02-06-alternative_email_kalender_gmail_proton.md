@@ -6,7 +6,7 @@ excerpt: Der Umstieg zu einer datenschutzfreundlichen Alternative zu Google & Co
 image: /images/general/20260206_celebrate_digital_sovereignty_2.jpg
 ---
 
-Dieser Beitrag ist ein Teil einer Serie meinen Umstieg von Google & Co zu datenschutzfreundlichen und bevorzugt europäischen Diensten, [zur Übersicht](../digitale-souveraenitaet_email_kalender_cloud/).
+*Dieser Beitrag ist  Teil einer Serie über meinen Umstieg von Google & Co zu datenschutzfreundlichen und bevorzugt europäischen Diensten, [zur Übersicht](../digitale-souveraenitaet_email_kalender_cloud/).**
 
 In Zeiten von Messengern spielen Email im privaten Kommunikationsalltag wohl eine untergeordneter Rolle. Für formalere Kommunikation ist Email aber weiterhin ein wichtiger Kanal.
 Andererseits sind Emailadressen auch als digitale ID oder Benutzerkennung sowie als Benachrichtigungskanal zentral - und generieren damit auch viele Daten.
@@ -17,14 +17,14 @@ Ich habe mich als Alternative zu Emaildiensten von Google & Co für den Anbieter
 
 ## Die Vor- und Nachteile
 
-Positiv
+Folgende Punkte kann man positiv anmerken:
 
 - Die Bedienung ist vertraut, alles funktioniert so wie erwartet.
 - Der Wechsel von Gmail, Outlook und co. inlusive aller Mails und Kalendereinträge ist dank eigener Wechselfunktion einfach.
 - Die Apps für Mobilgeräte funktionieren reibungslos (das soll nicht immer so gewesen sein).
 - Die Nutzung der eigenen Domain für Emails ist im von mir gewählten Paket inkludiert, die Einrichtung funktionierte reibungslos.
 
-Negativ
+Diese Punkte sind für manche Nutzer:innen vielleicht negativ zu bewerten:
 
 - Die Suchfunktion ist im Vergleich zur exzellenten Suchfunktion von Gmail eingeschränkt. Der Grund hierfür ist die Verschlüsselung, weshalb Proton einen lokalen Index anlegt auf diesen bei der Suche zurückgreift. 
 - Proton kann am Smartphone oder Tablet nicht mit anderen Emailprogrammen außer den offiziellen verwendet werden. Am PC geht dies über ein Zusatzprogramm.
