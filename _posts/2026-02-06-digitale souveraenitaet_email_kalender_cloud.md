@@ -16,7 +16,7 @@ Je länger ich darüber nachdachte, desto mehr reifte die Überzeugung in mir, m
 
 ![KI-generiertes Bild: Feiernde Menschen](../images/general/20260206_celebrate_digital_sovereignty_1.jpg)
 
-**(Das Bild wurde mit Google Gemini generiert, diese Ironie konnte ich mir nicht verkneifen. ;) )**
+*(Das Bild wurde mit Google Gemini generiert, diese Ironie konnte ich mir nicht verkneifen. ;) )*
 
 Dabei stellte ich fest, dass es tatsächlich eine Vielzahl an datenschutz- *und* benutzerfreundlichen Alternativen zu Google & co gibt. Es braucht dazu auch kein IT-Studium dazu, den Umstieg kann man mit Veränderungswillen und überschaubarem Aufwand einfach umsetzen.
 
@@ -56,7 +56,7 @@ Cloudspeicher
 
 Internetsuche
 
-**Diese Liste wird zukünftig erweitert.**
+*Diese Liste wird zukünftig erweitert.*
 
 
 
