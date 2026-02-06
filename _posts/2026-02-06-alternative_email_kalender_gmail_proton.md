@@ -6,7 +6,7 @@ excerpt: Der Umstieg zu einer datenschutzfreundlichen Alternative zu Google & Co
 image: /images/general/20260206_celebrate_digital_sovereignty_2.jpg
 ---
 
-*Dieser Beitrag ist  Teil einer Serie über meinen Umstieg von Google & Co zu datenschutzfreundlichen und bevorzugt europäischen Diensten, [zur Übersicht](../digitale-souveraenitaet_email_kalender_cloud/).**
+*Dieser Beitrag ist  Teil einer Serie über meinen Umstieg von Google & Co zu datenschutzfreundlichen und bevorzugt europäischen Diensten, [zur Übersicht](../digitale-souveraenitaet_email_kalender_cloud/).*
 
 In Zeiten von Messengern spielen Email im privaten Kommunikationsalltag wohl eine untergeordneter Rolle. 
 
