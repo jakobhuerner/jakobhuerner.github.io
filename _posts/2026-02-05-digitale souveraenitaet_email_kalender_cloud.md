@@ -48,7 +48,7 @@ Ich sehe es als Gebot der Stunde, in Zeiten von immer stärker umsich greifender
 
 ## Welche Dienste verwendet ich nun konkret?
 
-Dies sind die Dienste, die ich umgestellt habe:
+Dies sind die Anwendungen, die ich in Richtung datenschutzfreundlicher und/oder europäischer Dienste umgestellt habe:
 
 - [Email und Kalender](../alternative_email_kalender_gmail_proton)
 - Cloudspeicher
