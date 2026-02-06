@@ -48,13 +48,11 @@ Ich sehe es als Gebot der Stunde, in Zeiten von immer stärker umsich greifender
 
 ## Welche Dienste verwendet ich nun konkret?
 
-Im Folgenden gibt es eine kurze Übersicht über die Funktionalitäten und Dienste, die ich umgestellt habe.
+Dies sind die Dienste, die ich umgestellt habe:
 
-[Email und Kalender](../alternative_email_kalender_gmail_proton)
-
-Cloudspeicher
-
-Internetsuche
+- [Email und Kalender](../alternative_email_kalender_gmail_proton)
+- Cloudspeicher
+- Internetsuche
 
 *Diese Liste wird zukünftig erweitert.*
 
