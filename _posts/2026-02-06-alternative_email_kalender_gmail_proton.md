@@ -8,8 +8,9 @@ image: /images/general/20260206_celebrate_digital_sovereignty_2.jpg
 
 *Dieser Beitrag ist  Teil einer Serie über meinen Umstieg von Google & Co zu datenschutzfreundlichen und bevorzugt europäischen Diensten, [zur Übersicht](../digitale-souveraenitaet_email_kalender_cloud/).**
 
-In Zeiten von Messengern spielen Email im privaten Kommunikationsalltag wohl eine untergeordneter Rolle. Für formalere Kommunikation ist Email aber weiterhin ein wichtiger Kanal.
-Andererseits sind Emailadressen auch als digitale ID oder Benutzerkennung sowie als Benachrichtigungskanal zentral - und generieren damit auch viele Daten.
+In Zeiten von Messengern spielen Email im privaten Kommunikationsalltag wohl eine untergeordneter Rolle. 
+
+Für formalere Kommunikation ist Email aber weiterhin ein wichtiger Kanal. Darüber hinaus sind Emailadressen auch als digitale ID oder Benutzerkennung sowie Emails als Benachrichtigungskanal zentral - und generieren damit auch viele Daten.
 
 Deshalb ist Email (und Kalender) einer der Kernaspekte meiner Abkehr von Google & Co.
 
