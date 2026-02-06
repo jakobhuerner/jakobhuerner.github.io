@@ -50,7 +50,7 @@ Ich sehe es als Gebot der Stunde, in Zeiten von immer stärker umsich greifender
 
 Im Folgenden gibt es eine kurze Übersicht über die Funktionalitäten und Dienste, die ich umgestellt habe.
 
-Email und Kalender
+[Email und Kalender](../alternative_email_kalender_gmail_proton)
 
 Cloudspeicher
 
