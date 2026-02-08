@@ -44,7 +44,7 @@ Alleine betreffend der Infrastruktur steckt viel US-Big-Tech in allem, was man i
 
 ## Wieso schreibe ich darüber?
 
-Ich sehe es als Gebot der Stunde, in Zeiten von immer stärker umsich greifender KI und der sich verändernden geopolitischen Lage das eigene "digitale Leben" kritisch zu hinterfragen. Mit diesem Beitrag möchte ich auch andere ermutigen, sich ebenfalls mit den Themen zu beschäftigen. Mein Wunsch wäre, dass viele Leute diesbezüglich ähnlich denken, und mit einem Umstieg einen Beitrag zur eigenen Digitalen Souveränität und der Digitalen Souveränität Europas leisten.
+Ich sehe es als Gebot der Stunde, in Zeiten von immer stärker umsich greifender KI und der sich verändernden geopolitischen Lage das eigene "digitale Leben" kritisch zu hinterfragen. Mit diesem Beitrag möchte ich auch andere ermutigen, sich ebenfalls mit den Themen zu beschäftigen. Mein Wunsch ist, dass viele Leute diesbezüglich ähnlich denken, und mit einem Umstieg einen Beitrag zur eigenen digitalen Souveränität und der digitalen Souveränität Europas leisten.
 
 ## Welche Dienste verwende ich nun konkret?
 
