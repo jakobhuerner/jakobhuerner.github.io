@@ -46,7 +46,7 @@ Alleine betreffend der Infrastruktur steckt viel US-Big-Tech in allem, was man i
 
 Ich sehe es als Gebot der Stunde, in Zeiten von immer stärker umsich greifender KI und der sich verändernden geopolitischen Lage das eigene "digitale Leben" kritisch zu hinterfragen. Mit diesem Beitrag möchte ich auch andere ermutigen, sich ebenfalls mit den Themen zu beschäftigen. Mein Wunsch wäre, dass viele Leute diesbezüglich ähnlich denken, und mit einem Umstieg einen Beitrag zur eigenen Digitalen Souveränität und der Digitalen Souveränität Europas leisten.
 
-## Welche Dienste verwendet ich nun konkret?
+## Welche Dienste verwende ich nun konkret?
 
 Dies sind die Anwendungen, die ich in Richtung datenschutzfreundlicher und/oder europäischer Dienste umgestellt habe:
 
