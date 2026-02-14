@@ -51,8 +51,9 @@ Ich sehe es als Gebot der Stunde, in Zeiten von immer stärker umsich greifender
 Dies sind die Anwendungen, die ich in Richtung datenschutzfreundlicher und/oder europäischer Dienste umgestellt habe:
 
 - [Email und Kalender](../alternative_email_kalender_gmail_proton)
+- [Internetsuche](../alternative_websuche_duckduckgo)
 - Cloudspeicher
-- Internetsuche
+- ...
 
 *Diese Liste wird zukünftig erweitert.*
 
