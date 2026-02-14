@@ -18,7 +18,9 @@ Im Zuge meiner Überlegungen betreffend datenschutzfreundlicher Alternativen zu 
 
 Kurz gesagt war ich überrascht, wie gut die Suchmaschinen-Alternativen sind. War früher Google bei Websuche mit Abstand das beste Angebot am Markt, hat sich dieser Abstand offenbar über die Zeit stark reduziert. Ich stellte im direkten Vergleich fest, dass für meine Anforderungen fast alle Anbieter einwandfreie Ergebnisse liefern. Technisch gibt es untereinander Abhängigkeiten, am Ende geht es um konkrete Schwerpunkte der Dienste - mein Fokus liegt auf Datenschutz.
 
-Ich habe mich entschieden, die Standardsuchmaschine aller meiner Geräte und Browser auf DuckDuckGo umzustellen. Somit laufen alle Suchen, die ich im Alltag durchführe, über diese datenschutzfreundliche Suchmaschine. Finde ich einmal nicht was ich suche, oder habe ich das Gefühl, etwas nicht zu finden was eigentlich da sein sollte, weiche ich auf Google aus. Somit laufen wohl 95% meiner Internetsuchen über eine datenschutzfreundliche Alternative.
+Ich habe mich entschieden, die Standardsuchmaschine aller meiner Geräte und Browser auf DuckDuckGo umzustellen. Somit laufen alle Suchen, die ich im Alltag durchführe, über diese datenschutzfreundliche Suchmaschine. Finde ich einmal nicht was ich suche, oder habe ich das Gefühl, etwas nicht zu finden was eigentlich da sein sollte, weiche ich auf Google aus.
+
+Somit laufen wohl 95% meiner Internetsuchen über eine datenschutzfreundliche Alternative.
 
 ## Die Vor- und Nachteile
 
