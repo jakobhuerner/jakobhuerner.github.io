@@ -28,8 +28,10 @@ Folgende Punkte kann man positiv anmerken:
 Diese Punkte sind für manche Nutzer:innen vielleicht negativ zu bewerten:
 
 - Die Suchfunktion ist im Vergleich zur exzellenten Suchfunktion von Gmail eingeschränkt. Der Grund hierfür ist die Verschlüsselung, weshalb Proton einen lokalen Index anlegt auf diesen bei der Suche zurückgreift. 
-- Proton kann am Smartphone oder Tablet nicht mit anderen Emailprogrammen außer den offiziellen verwendet werden. Am PC geht dies über ein Zusatzprogramm.
+- Proton kann am Smartphone oder Tablet nicht mit anderen Emailprogrammen außer den offiziellen verwendet werden. Am Computer geht dies über ein Zusatzprogramm.
 - Die Kontakte lassen sich nicht mit dem Smartphone-Telefonbuch synchronisieren.
+
+Wie bei allen Diensten ist natürlich auch hier wichtig, eine Sicherung der Daten an einem zweiten Ort, zum Beispiel mittels Computer auf einer externen Festplatte, sicherzustellen.
 
 ## Die Umstellung
 
