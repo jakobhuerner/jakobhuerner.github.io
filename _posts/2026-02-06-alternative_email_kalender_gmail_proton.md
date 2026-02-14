@@ -14,6 +14,8 @@ Für formalere Kommunikation ist Email aber weiterhin ein wichtiger Kanal. Darü
 
 Deshalb ist Email (und Kalender) einer der Kernaspekte meiner Abkehr von Google & Co.
 
+## Die Alternative
+
 Ich habe mich als Alternative zu Emaildiensten von Google & Co für den Anbieter Proton mit Sitz in der Schweiz entschieden, der für hohe Datenschutzstandards bekannt und in diesem Bereich der wohl etablierteste Anbieter ist.
 
 ## Die Vor- und Nachteile
