@@ -2,7 +2,7 @@
 layout: post
 title: Die bessere Alternative für Websuche
 categories: [General]
-excerpt: Der Umstieg zu einer datenschutzfreundlichen Alternative zu Google & Co geht erstaunlich einfach
+excerpt: Der Umstieg bei Suchmaschinen zu einer datenschutzfreundlichen Alternative zu Google & Co geht erstaunlich einfach
 image: /images/general/20260206_celebrate_digital_sovereignty_2.jpg
 ---
 
