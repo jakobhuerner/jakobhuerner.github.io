@@ -52,7 +52,8 @@ Dies sind die Anwendungen, die ich in Richtung datenschutzfreundlicher und/oder 
 
 - [Email und Kalender](../alternative_email_kalender_gmail_proton)
 - [Internetsuche](../alternative_websuche_duckduckgo)
-- Cloudspeicher
+- [Cloudspeicher](../alternativer_cloudspeicher_google_drive_proton_drive)
+- Messaging
 - ...
 
 *Diese Liste wird zukünftig erweitert.*
