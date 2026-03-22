@@ -3,7 +3,7 @@ layout: post
 title: Onboard an espionage submarine
 categories: [Photoblog, Photos]
 excerpt: Living history in Hamburg’s harbor.
-image: /images/20260321/hamburg-1.jpg
+image: /images/20260322/hamburg_submarine_uboot_u434-3.jpg
 ---
 
 During my stay in Hamburg, I had the opportunity to board the Russian hunter-killer and spy submarine U-434. It’s almost unbelievable what conditions the submarine crews had to — and still have to — endure.
