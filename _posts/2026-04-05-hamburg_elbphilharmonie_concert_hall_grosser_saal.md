@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Elphilharmonie Hamburg
+title: Elbphilharmonie Hamburg
 categories: [Photoblog, Photos]
 excerpt: A concert at one of the world's finest concert halls
 image: /images/20260404/hamburg_elbphilharmonie_grosser_saal-2.jpg
