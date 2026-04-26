@@ -34,7 +34,7 @@ Wie bei allen Entscheidungen im Leben muss man auch hier teilweise konkurrierend
 
 - Funktionalität: Kleine Einschränkungen betreffend der Funktionalität muss ich in Kauf nehmen. Einerseits weil man es mit kleineren Anbietern mit beschränkten Entwicklungsressourcen zu tun hat, oder weil ganz einfach die Verschlüsselung beziehungsweise der Datenschutz gegen Komfortfunktionen sprechen. Als Beispiele seien die fehlende Suchfunktion in Bildern (z.B. Texterkennung), oder die eingeschränkte Zahl an Schnittstellen zu anderen Diensten oder Drittanbietern genannt.
 - Bezahlung mit Euros statt Daten: Anstatt mit den eigenen privaten Daten bezahlt man datenschutzorientierte Dienste stets mit Geld. Aber wir wissen ja: "If you’re not paying for the product, then you are the product."
-In meinem Fall habe ich bereits bisher für Cloudspeicher bezahlt, aber abseits der großen US-Anbieter wird es zukünftig etwas teurer (ca. + €50 pro Jahr).
+In meinem Fall habe ich bereits bisher für Cloudspeicher bezahlt, aber abseits der großen US-Anbieter wird es zukünftig etwas teurer (ca. + €80 pro Jahr).
 
 ## Verwende ich gar kein Google & Co mehr?
 
