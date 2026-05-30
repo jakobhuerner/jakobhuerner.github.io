@@ -3,7 +3,7 @@ layout: post
 title: Die Lernwörtergeschichte - ein Experten-Praxisversuch für KI
 categories: [General]
 excerpt: Worauf es bei KI(-Bildung) ankommt
-image: /images/general/20250530/ki_praxistest_geschichte.jpg
+image: /images/general/20260530/ki_praxistest_geschichte.jpg
 ---
 
 Künstliche Intelligenz verspricht hohe Zugewinne an Produktivität im Beruf, kann Bilder und Videos zu jedem erdenklichen Thema erzeugen und besonders bei der Verarbeitung von Text spielen aktuelle KI-Technologien ihre Stärken aus.  
@@ -22,7 +22,7 @@ Idee: Wäre es nicht schön, wenn man diese Wörter nicht nur als Liste, sondern
   
 Kernelement des Versuchs ist somit die Generierung eines zusammenhängenden Textes, wobei der Text viele der vorgegebenen Lernwörter (Nomen, Verben, Adjektive) enthalten soll.  
   
-![KI-generiertes Titelbild "Die große Reise durch das Jahr"](../images/general/20250530/ki_praxistest_geschichte.jpg)  
+![KI-generiertes Titelbild "Die große Reise durch das Jahr"](../images/general/20250630/ki_praxistest_geschichte.jpg)  
 *Dieses Bild wurde mithilfe von Google Gemini erstellt*  
   
 ## Der Prozess  
@@ -45,7 +45,7 @@ Kernelement des Versuchs ist somit die Generierung eines zusammenhängenden Text
 - Expertenevaluierung: Die über alle Zweifel erhabene Evaluierung ist das Urteil des achtjährigen Mädchens - genau für die Achtjährige wurde der Text schließlich generiert, genau dieses Ziel wurde im Prompt definiert.  
 - Die Schülerin bekam beide Geschichten in schwarz-weiß ausgedruckter Form vorgelegt, las sie und bestimmte dann ihren Favoriten.  
   
-Hier sind die Ergebnisse von [Google Gemini](../images/general/20250530/ki_praxistest_geschichte_gemini.pdf) und [Le Chat von Mistral](../images/general/20250530/ki_praxistest_geschichte_mistral.pdf).  
+Hier sind die Ergebnisse von [Google Gemini](../images/general/20260530/ki_praxistest_geschichte_gemini.pdf) und [Le Chat von Mistral](../images/general/20260530/ki_praxistest_geschichte_mistral.pdf).  
   
 ## Der Sieger  
   
