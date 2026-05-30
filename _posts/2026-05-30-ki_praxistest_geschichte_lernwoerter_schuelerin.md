@@ -22,7 +22,7 @@ Idee: Wäre es nicht schön, wenn man diese Wörter nicht nur als Liste, sondern
   
 Kernelement des Versuchs ist somit die Generierung eines zusammenhängenden Textes, wobei der Text viele der vorgegebenen Lernwörter (Nomen, Verben, Adjektive) enthalten soll.  
   
-![KI-generiertes Titelbild "Die große Reise durch das Jahr"](../images/general/20250630/ki_praxistest_geschichte.jpg)  
+![KI-generiertes Titelbild "Die große Reise durch das Jahr"](../images/general/20260530/ki_praxistest_geschichte.jpg)  
 *Dieses Bild wurde mithilfe von Google Gemini erstellt*  
   
 ## Der Prozess  
