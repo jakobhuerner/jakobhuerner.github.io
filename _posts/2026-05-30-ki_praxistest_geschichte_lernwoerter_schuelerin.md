@@ -81,6 +81,8 @@ Ganz generell ist sie spitze mit der Situation umgegangen - interessiert und off
 
 Wir haben am Experiment erkannt, dass eines wichtig ist: Wenn man etwas Unbekanntes sieht und liest - stets neugierig sein, aber auch immer etwas misstrauisch sein und hinterfragen. Dies ist eine der zentralen Kompetenzen im digitalen und KI-Zeitalter, auch für Erwachsene.  
   
+## Gedanken zum Schluss
+  
 Nachdem wir im Anschluss die Generierung des Textes nochmals gemeinsam durchgeführt haben, weiß die achtjährige Schülerin auch, wie das Erstellen solcher Texte funktioniert. 
 
 Vielleicht hat sie dazu in Zukunft selbst Ideen - es wäre super, sie mit Neugierde und   einem bewussten Maß an Skepsis gemeinsam auszuprobieren.
