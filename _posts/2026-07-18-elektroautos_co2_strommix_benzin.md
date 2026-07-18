@@ -30,8 +30,14 @@ Ich habe mir das auf Basis von verfügbaren Daten einmal angeschaut:
 |  906 g  | CO2-Intensität von Kohlekraftwerken | [Link](https://www.electricitymaps.com/data/methodology) |
   
   
-Meine Erkenntnisse dazu:  
+## Meine Erkenntnisse dazu
 
 - Selbst wenn der Strom zum Laden des Elektroautos aus Gas in einem modernen GuD-Kraftwerk produziert werden würde, wäre das Elektroauto im Betrieb noch immer wesentlich CO2-ärmer als ein benzinbetriebenes (450 g vs. 700 g).
 - Auch im Kohlestromland Polen - das größte dortige Kohlekraftwerk stößt mehr CO2 aus als ganze Staaten - wäre ein Elektroauto im Betrieb CO2-ärmer als ein Benziner.
 - Ein häufiger Kritikpunkt bei Elektroautos ist der CO2-„Rucksack“ der Batterieherstellung. Schauen wir uns das an: Für die Herstellung von Lithium-Akkus fallen lt. [Nature-Paper aus 2024](https://www.nature.com/articles/s41467-024-54634-y) etwa 60-75 kg CO2/kWh an. Daraus und mit oben genannten Werten lässt sich auch auf die CO2-Intensität des Gesamtfahrzeug inkl. Produktion schließen und damit ausrechnen, ab welcher Laufleistung ein Elektroauto insgesamt CO2-effizienter als ein Benziner ist. Für ein typisches Auto sind das ca. 35.000 km im österreichischen Strommix. Ab diesem Punkt hat das Elektroauto den „Rucksack“ abgebaut und trägt positiv zur Gesamtklimabilanz des Verkehrs bei.
+
+## Fazit
+
+Die obige Recherche untermauert, dass die Stammtischweisheit, Elektroautos seien Dreckschleudern und Benzin ja eigentlich besser, faktisch nicht zutreffend ist. Auch wenn der motorisierte Verkehr generell dem Klima nicht zuträglich ist, ist doch im privaten Bereich das Elektroauto die "am wenigsten schlechte" Option.
+
+Während wir bei Benzinern in den nächsten Jahren wohl kaum noch Verbesserungen in der Klimabilanz sehen werden, wird das Elektroauto durch effizientere Batterieherstellung und zunehmende Erneuerbare im Strommix den Vorsprung voraussichtlich noch ausbauen können.
