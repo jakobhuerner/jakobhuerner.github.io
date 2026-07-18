@@ -11,6 +11,8 @@ Außerdem ist der Strom ja nicht so grün wie immer behauptet wird.
 
 ![Elektroauto an Ladestation](../images/general/20260718_elektroauto.jpg) 
 
+## Die Recherche
+
 Was stimmt denn nun?
 Ich habe mir das auf Basis von verfügbaren Daten einmal angeschaut:
 
