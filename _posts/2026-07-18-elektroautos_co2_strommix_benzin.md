@@ -2,12 +2,12 @@
 layout: post
 title: Strom kommt ja nicht aus der Steckdose - wie CO2-arm Elektroautos wirklich sind
 categories: [General]
-excerpt: Elektroautos sind in Wirklichkeit CO2-Schleudern, weil die Batterieherstellung riesige Mengen an CO2 verursacht - stimmt das?
+excerpt: Elektroautos sind in Wirklichkeit CO2-Schleudern, weil der Strom ja nicht grün ist und die Batterieherstellung riesige Mengen an CO2 verursacht - stimmt das?
 image: /images/general/20260718_elektroauto.jpg
 ---
 
 Teils zu Recht wird oftmals angemerkt, dass Elektroautos nicht so grün sind wie behauptet, da die Batterieherstellung den Gesamt-CO2-Ausstoß nach oben treibt.
-Außerdem ist der Strom in Europa ja nicht so grün wie immer behauptet wird.
+Außerdem ist der Strom ja nicht so grün wie immer behauptet wird.
 
 ![Elektroauto an Ladestation](../images/general/20260718_elektroauto.jpg) 
 
@@ -32,6 +32,6 @@ Ich habe mir das auf Basis von verfügbaren Daten einmal angeschaut:
   
 Meine Erkenntnisse dazu:  
 
-- Im Betrieb wäre das Elektroauto selbst dann noch CO2-ärmer als ein benzinbetriebenes, wenn der Strom aus Gas in einem modernen GuD-Kraftwerk produziert wurde (450 g vs. 700 g).
-- Selbst im Kohlestromland Polen - das größte dortige Kohlekraftwerk stößt mehr CO2 aus als ganze Staaten - wäre ein Elektroauto im Betrieb noch CO2-ärmer als ein Benziner.
+- Selbst wenn der Strom zum Laden des Elektroautos aus Gas in einem modernen GuD-Kraftwerk produziert werden würde, wäre das Elektroauto im Betrieb noch immer wesentlich CO2-ärmer als ein benzinbetriebenes (450 g vs. 700 g).
+- Auch im Kohlestromland Polen - das größte dortige Kohlekraftwerk stößt mehr CO2 aus als ganze Staaten - wäre ein Elektroauto im Betrieb CO2-ärmer als ein Benziner.
 - Ein häufiger Kritikpunkt bei Elektroautos ist der CO2-„Rucksack“ der Batterieherstellung. Schauen wir uns das an: Für die Herstellung von Lithium-Akkus fallen lt. [Nature-Paper aus 2024](https://www.nature.com/articles/s41467-024-54634-y) etwa 60-74 kg CO2/kWh an. Daraus und mit oben genannten Werten lässt sich auch auf die CO2-Intensität des Gesamtfahrzeug inkl. Produktion schließen und damit ausrechnen, ab welcher Laufleistung ein Elektroauto insgesamt CO2-effizienter ist. Für ein typisches Auto sind das ca. 35.000 km im österreichischen Strommix. Ab diesem Punkt hat das Elektroauto den „Rucksack“ abgebaut und trägt positiv zur Gesamtklimabilanz des Verkehrs bei.
