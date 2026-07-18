@@ -40,6 +40,6 @@ Ich habe mir das auf Basis von verfügbaren Daten einmal angeschaut:
 
 ## Fazit
 
-Die obige Recherche untermauert, dass die Stammtischweisheit, Elektroautos seien Dreckschleudern und Benzin ja eigentlich besser, faktisch nicht zutreffend ist. Auch wenn der motorisierte Verkehr generell dem Klima nicht zuträglich ist, ist doch im privaten Bereich das Elektroauto die "am wenigsten schlechte" Option.
+Die obige Recherche untermauert, dass die Stammtischweisheit, Elektroautos seien CO2-Schleudern und Benzin ja eigentlich besser, faktisch nicht zutreffend ist. Auch wenn der motorisierte Verkehr generell dem Klima nicht zuträglich ist, ist doch das Elektroauto die "am wenigsten schlechte" Option.
 
 Während wir bei Benzinern in den nächsten Jahren wohl kaum noch Verbesserungen in der Klimabilanz sehen werden, wird das Elektroauto durch effizientere Batterieherstellung und zunehmende Erneuerbare im Strommix den Vorsprung voraussichtlich noch ausbauen können.
