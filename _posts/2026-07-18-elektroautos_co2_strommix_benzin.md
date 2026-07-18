@@ -24,9 +24,9 @@ Ich habe mir das auf Basis von verfügbaren Daten einmal angeschaut:
 |  70 g  | CO2-Intensität im Strommix Österreich AT, 18.7.2026 mittags  | [Link](https://app.electricitymaps.com/map/zone/AT/live/fifteen_minutes) |
 |  164 g  | Durchschnittliche CO2-Intensität im Strommix Österreich AT, Gesamtjahr 2025  | [Link](https://app.electricitymaps.com/map/zone/AT/all/yearly) |
 |  342 g  | Durchschnittliche CO2-Intensität im Strommix Deutschland DE, Gesamtjahr 2025  | [Link](https://app.electricitymaps.com/map/zone/DE/all/yearly)  |
-|  450 g  | Geringste technisch erreichbare CO2-Intensität der effizientesten fossilen Kraftwerke (GuD Gaskraftwerk)  | [Link](https://de.wikipedia.org/wiki/Gas-und-Dampf-Kombikraftwerk)  |
+|  **450 g**  | **Geringste technisch erreichbare CO2-Intensität der effizientesten fossilen Kraftwerke (GuD Gaskraftwerk)**  | [Link](https://de.wikipedia.org/wiki/Gas-und-Dampf-Kombikraftwerk)  |
 |  566 g  | Durchschnittliche CO2-Intensität im Strommix Polen PL, Gesamtjahr 2025  | [Link](https://app.electricitymaps.com/map/zone/PL/all/yearly)   |
-|  700 g  | CO2-Intensität, die Elektrizität haben müsste, um beim Elektroauto den gleichen CO2-Ausstoß zu verursachen wie ein Benzinfahrzeug; bezogen auf den Verbrauch im Betrieb (bei 20 kWh/100km bzw. 6l/100km)  | [Link](https://chat.mistral.ai/chat/c816b90e-91e4-4f45-a7d3-f8cd39a5e8ee) |
+|  **700 g**  | **CO2-Intensität, die Elektrizität haben müsste, um beim Elektroauto den gleichen CO2-Ausstoß zu verursachen wie ein Benzinfahrzeug; bezogen auf den Verbrauch im Betrieb (bei 20 kWh/100km bzw. 6l/100km)**  | [Link](https://chat.mistral.ai/chat/c816b90e-91e4-4f45-a7d3-f8cd39a5e8ee) |
 |  906 g  | CO2-Intensität von Kohlekraftwerken | [Link](https://www.electricitymaps.com/data/methodology) |
   
   
