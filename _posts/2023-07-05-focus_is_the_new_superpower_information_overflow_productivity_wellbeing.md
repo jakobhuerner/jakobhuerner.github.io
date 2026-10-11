@@ -37,7 +37,7 @@ In times of regular overflow of information, I think we run into two major probl
 
 Handling the information overflow age is no rocket science.
 
-One element is to consciously choose how you communicate what, as I described [here].(../use_the_right_tool_for_the_communication_job).
+One element is to consciously choose how you communicate what, as I described [here](../use_the_right_tool_for_the_communication_job).
 
 I am fully convinced that in times of too much information in too many channels in too many situations of our everyday (work-)life, __focus is the new superpower__.
 
