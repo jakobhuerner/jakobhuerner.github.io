@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nordbhahnhof details
+title: Nordbahnhof details
 categories: [Photoblog, Photos, GraetzlImWandel]
 excerpt: Nordbahnhof's spring colours in close focus
 image: /images/20230420/nordbahnhof_spring_detail-1.jpg
